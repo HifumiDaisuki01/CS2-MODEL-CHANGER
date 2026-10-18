@@ -1,0 +1,1 @@
+Staging only: retains Aluona, adds three hidden All-team choices. No SQLite changes. Do not deploy before compilation, real VPK verification and catalog generation. Use existing stage_model.py for the final real mounted VPK; no fictitious hashes or Workshop IDs are provided.

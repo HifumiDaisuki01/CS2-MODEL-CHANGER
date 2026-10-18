@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Id":  "ag2_myers",
+        "ViewerExitCode":  0,
+        "SkeletonParsed":  true,
+        "Compiled":  false,
+        "GameTestRun":  false,
+        "InputKind":  "Original pre-conversion compiled model; not a newly compiled output"
+    },
+    {
+        "Id":  "ag2_km_decade",
+        "ViewerExitCode":  0,
+        "SkeletonParsed":  true,
+        "Compiled":  false,
+        "GameTestRun":  false,
+        "InputKind":  "Original pre-conversion compiled model; not a newly compiled output"
+    },
+    {
+        "Id":  "ag2_dujiaoshou",
+        "ViewerExitCode":  0,
+        "SkeletonParsed":  true,
+        "Compiled":  false,
+        "GameTestRun":  false,
+        "InputKind":  "Original pre-conversion compiled model; not a newly compiled output"
+    }
+]

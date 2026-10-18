@@ -1,0 +1,204 @@
+{
+  "Id": "ag2_dujiaoshou",
+  "Path": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+  "SourceConverted": true,
+  "Compiled": false,
+  "Mounted": false,
+  "GameAnimationVerified": false,
+  "StaticSourcePassed": true,
+  "Failures": [],
+  "Warnings": [],
+  "SourceBoneCount": 173,
+  "CriticalBonesPresent": 24,
+  "MissingCore": [],
+  "ParentDifferences": {},
+  "PelvisOrigin": [
+    -0.0,
+    42.824818,
+    -2.853549
+  ],
+  "Graphs": [
+    "animation/graphs/worldmodel/worldmodel.vnmgraph",
+    "animation/graphs/ui/uimodel.vnmgraph",
+    "animation/graphs/viewmodel/viewmodel.vnmgraph",
+    "animation/graphs/worldmodel/worldmodel.vnmgraph"
+  ],
+  "Skeletons": [
+    "animation/skeletons/characters/worldmodel.vnmskel",
+    "animation/skeletons/characters/viewmodel.vnmskel"
+  ],
+  "MissingBaseResources": [],
+  "LegacyReferences": [],
+  "DMX": [
+    {
+      "File": "dujiaoshou_ModelDoc_anim_fix.dmx",
+      "JointListCount": 171,
+      "WeightedJointCount": 0,
+      "SkinStreams": 0,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [],
+      "Materials": [],
+      "Failures": []
+    },
+    {
+      "File": "dujiaoshou_body.dmx",
+      "JointListCount": 176,
+      "WeightedJointCount": 89,
+      "SkinStreams": 5,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "dujiaoshou_body"
+      ],
+      "Materials": [
+        "characters/models/exg/dujiaoshou/materials/body.vmat",
+        "characters/models/exg/dujiaoshou/materials/body2.vmat",
+        "characters/models/exg/dujiaoshou/materials/eye.vmat",
+        "characters/models/exg/dujiaoshou/materials/main2.vmat",
+        "characters/models/exg/dujiaoshou/materials/main2t.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "dujiaoshou_ma1.dmx",
+      "JointListCount": 172,
+      "WeightedJointCount": 18,
+      "SkinStreams": 1,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "dujiaoshou_ma1"
+      ],
+      "Materials": [
+        "characters/models/exg/dujiaoshou/materials/body.vmat"
+      ],
+      "Failures": []
+    }
+  ],
+  "Materials": [
+    "characters/models/exg/dujiaoshou/materials/body.vmat",
+    "characters/models/exg/dujiaoshou/materials/body2.vmat",
+    "characters/models/exg/dujiaoshou/materials/eye.vmat",
+    "characters/models/exg/dujiaoshou/materials/main2.vmat",
+    "characters/models/exg/dujiaoshou/materials/main2t.vmat"
+  ],
+  "MissingMaterials": [],
+  "MissingSourceFiles": [],
+  "Geometry": {
+    "ShapeCountBefore": 34,
+    "ShapeCountAfter": 34,
+    "NamesAndNumericGeometryPreserved": true
+  },
+  "Changes": [
+    "pelvis transform -> origin [-0.0000, 42.8248, -2.8535]",
+    "pelvis re-parented under root_motion",
+    "case-flipped 54 bone name(s)",
+    "repointed 44 bone reference(s)",
+    "patched 3 DMX file(s)",
+    "removed anim_graph_name",
+    "removed AnimIncludeModel",
+    "inserted NmSkeletonList + AnimGraph2List",
+    "grafted wpnPivot/wpn",
+    "stripped 2 AnimGraph1-era node(s)",
+    "Retargeted 7 physics skin-weight bone names"
+  ],
+  "BoneRenames": {
+    "clavicle_l": "clavicle_L",
+    "arm_upper_l": "arm_upper_L",
+    "arm_lower_l": "arm_lower_L",
+    "hand_l": "hand_L",
+    "finger_middle_meta_l": "finger_middle_meta_L",
+    "finger_middle_0_l": "finger_middle_0_L",
+    "finger_middle_1_l": "finger_middle_1_L",
+    "finger_middle_2_l": "finger_middle_2_L",
+    "finger_pinky_meta_l": "finger_pinky_meta_L",
+    "finger_pinky_0_l": "finger_pinky_0_L",
+    "finger_pinky_1_l": "finger_pinky_1_L",
+    "finger_pinky_2_l": "finger_pinky_2_L",
+    "finger_thumb_0_l": "finger_thumb_0_L",
+    "finger_thumb_1_l": "finger_thumb_1_L",
+    "finger_thumb_2_l": "finger_thumb_2_L",
+    "finger_index_meta_l": "finger_index_meta_L",
+    "finger_index_0_l": "finger_index_0_L",
+    "finger_index_1_l": "finger_index_1_L",
+    "finger_index_2_l": "finger_index_2_L",
+    "finger_ring_meta_l": "finger_ring_meta_L",
+    "finger_ring_0_l": "finger_ring_0_L",
+    "finger_ring_1_l": "finger_ring_1_L",
+    "finger_ring_2_l": "finger_ring_2_L",
+    "clavicle_r": "clavicle_R",
+    "arm_upper_r": "arm_upper_R",
+    "arm_lower_r": "arm_lower_R",
+    "hand_r": "hand_R",
+    "finger_middle_meta_r": "finger_middle_meta_R",
+    "finger_middle_0_r": "finger_middle_0_R",
+    "finger_middle_1_r": "finger_middle_1_R",
+    "finger_middle_2_r": "finger_middle_2_R",
+    "finger_pinky_meta_r": "finger_pinky_meta_R",
+    "finger_pinky_0_r": "finger_pinky_0_R",
+    "finger_pinky_1_r": "finger_pinky_1_R",
+    "finger_pinky_2_r": "finger_pinky_2_R",
+    "finger_index_meta_r": "finger_index_meta_R",
+    "finger_index_0_r": "finger_index_0_R",
+    "finger_index_1_r": "finger_index_1_R",
+    "finger_index_2_r": "finger_index_2_R",
+    "finger_thumb_0_r": "finger_thumb_0_R",
+    "finger_thumb_1_r": "finger_thumb_1_R",
+    "finger_thumb_2_r": "finger_thumb_2_R",
+    "finger_ring_meta_r": "finger_ring_meta_R",
+    "finger_ring_0_r": "finger_ring_0_R",
+    "finger_ring_1_r": "finger_ring_1_R",
+    "finger_ring_2_r": "finger_ring_2_R",
+    "leg_upper_l": "leg_upper_L",
+    "leg_lower_l": "leg_lower_L",
+    "ankle_l": "ankle_L",
+    "ball_l": "ball_L",
+    "leg_upper_r": "leg_upper_R",
+    "leg_lower_r": "leg_lower_R",
+    "ankle_r": "ankle_R",
+    "ball_r": "ball_R"
+  },
+  "OriginalBones": 171,
+  "MaterialDependencies": [
+    "characters/models/exg/dujiaoshou/materials/body.vmat_c",
+    "characters/models/exg/dujiaoshou/materials/body2.vmat_c",
+    "characters/models/exg/dujiaoshou/materials/body2_vmat_g_tmetalness_b70f8f59.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/body2_vmat_g_tnormal_41105ef.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/body_vmat_g_tnormal_725baaa2.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/eye.vmat_c",
+    "characters/models/exg/dujiaoshou/materials/eye_vmat_g_tnormal_450303e8.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/main2.vmat_c",
+    "characters/models/exg/dujiaoshou/materials/main2_vmat_g_tcolor_d5982a93.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/main2_vmat_g_tmetalness_b70f8f59.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/main2_vmat_g_tnormal_2c2b7730.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/main2t.vmat_c",
+    "characters/models/exg/dujiaoshou/materials/main2t_vmat_g_tcolor_d9d9249c.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/main2t_vmat_g_tmetalness_b70f8f59.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/se_jpg_27f81299.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/unicorn_tex1_jpg_814cbe47.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/unicorn_tex1_jpg_d533ce3f.vtex_c",
+    "characters/models/exg/dujiaoshou/materials/unicorn_tex2_jpg_7c73eb5a.vtex_c",
+    "materials/default/default_ao_tga_559f1ac6.vtex_c",
+    "materials/default/default_normal_tga_7be61377.vtex_c"
+  ],
+  "DMXPayloadChecks": [
+    {
+      "File": "dujiaoshou_ModelDoc_anim_fix.dmx",
+      "Bytes": 1677353,
+      "OnlyCanonicalNameBytesChanged": true
+    },
+    {
+      "File": "dujiaoshou_ma1.dmx",
+      "Bytes": 346959,
+      "OnlyCanonicalNameBytesChanged": true
+    },
+    {
+      "File": "dujiaoshou_body.dmx",
+      "Bytes": 4650131,
+      "OnlyCanonicalNameBytesChanged": true
+    }
+  ],
+  "PelvisWorldPositionError": 2.6645352591003757e-15,
+  "PelvisRotationMatrixError": 1.8369701987210297e-16,
+  "State": "source_converted_static_pass_compile_required",
+  "UnresolvedBoneReferences": []
+}

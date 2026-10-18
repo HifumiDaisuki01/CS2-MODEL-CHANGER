@@ -1,0 +1,1 @@
+﻿Private compiled materials, Aluona and converted ModelDoc/DMX sources are included in the local delivery at Desktop/AG2模型修复/交付/workshop-addon. They are deliberately not committed here. Three new runtime model binaries still require Valve resourcecompiler; see ../README.md.

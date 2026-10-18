@@ -1,0 +1,1 @@
+﻿CS2 Workshop Tools resourcecompiler.exe not found. No game or tools will be downloaded.

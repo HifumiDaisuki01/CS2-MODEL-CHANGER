@@ -1,0 +1,7 @@
+{
+  "Id": "ag2_myers",
+  "ModelDoc": "workshop-addon/content/csgo_addons/ks_ag2_repair/characters/models/exg/myers/myers.vmdl",
+  "CompiledDestination": "workshop-addon/game/csgo_addons/ks_ag2_repair/characters/models/exg/myers/myers.vmdl_c",
+  "OriginalSHA256": "b5488865c00a2aca28b5e6fc78d4298f877b6d97c1ee1de68b69a8890fcc88d5",
+  "State": "source_converted_static_pass_compile_required"
+}

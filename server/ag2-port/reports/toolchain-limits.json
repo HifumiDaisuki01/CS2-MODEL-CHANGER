@@ -1,0 +1,13 @@
+{
+  "CS2Downloaded": false,
+  "SteamAccountUsed": false,
+  "ServerModified": false,
+  "WorkshopUploaded": false,
+  "CompilerRun": false,
+  "WindowsPreflightRun": true,
+  "WindowsPreflightResult": "resourcecompiler.exe not found",
+  "LinuxServerReadOnlyDirectoryChecked": "/home/steam/cs2-ds/game/bin",
+  "MatchingNativeCompilerFilesFound": [],
+  "Fallback": "Prepared source project for another Windows PC with existing legitimate CS2 Workshop Tools",
+  "Source2ViewerRole": "Decompiler and verifier, not an AG2 model compiler"
+}

@@ -1,0 +1,28 @@
+{
+  "Project": "CS2-AG2-Model-Porter",
+  "URL": "https://github.com/SergeantCS2/CS2-AG2-Model-Porter",
+  "Commit": "ff9b878ced21d68dacbfc29cef564945b03a52f4",
+  "License": "MIT; scripts only, no model rights",
+  "VendoredSHA256": {
+    "ag2port.py": "abc17bf16d21004d29e3a21466d5d412fa56bdf134f502fdb229ff5a6c5ca428",
+    "LICENSE": "55e1a56bf9e9ae6133940eb88c8e6e7f29cf39cba9deef43f797e4f2c757f443",
+    "canonical_skeleton.txt": "12dc4c5d77edee03c7a7622a62981250f8550df6b103b82e12fa38bd9c2aedb6"
+  },
+  "Overrides": [
+    "CANON_SIDED expanded to all74 canonical names",
+    "Physics skin-weight name references retargeted without renaming shapes"
+  ],
+  "UpstreamFunctionsUsed": [
+    "port_vmdl",
+    "angle_matrix"
+  ],
+  "NotCalled": [
+    "cmd_setup",
+    "cmd_port",
+    "fix_materials",
+    "rebuild_vmat",
+    "cmd_clean"
+  ],
+  "MaterialPlaceholders": "Forbidden",
+  "OriginalCompiledMaterials": "Preserved byte-for-byte"
+}

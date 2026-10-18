@@ -1,0 +1,2 @@
+# Preserve whitespace inside the pinned upstream ModelDoc string templates.
+tools/vendor/ag2port.py whitespace=-blank-at-eol

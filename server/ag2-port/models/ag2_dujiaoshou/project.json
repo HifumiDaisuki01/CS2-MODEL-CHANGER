@@ -1,0 +1,7 @@
+{
+  "Id": "ag2_dujiaoshou",
+  "ModelDoc": "workshop-addon/content/csgo_addons/ks_ag2_repair/characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+  "CompiledDestination": "workshop-addon/game/csgo_addons/ks_ag2_repair/characters/models/exg/dujiaoshou/dujiaoshou.vmdl_c",
+  "OriginalSHA256": "83d2d087e144afdd968267b4b6f6d37c1efb6111b9c81bfb5be32765fb5bf0e6",
+  "State": "source_converted_static_pass_compile_required"
+}

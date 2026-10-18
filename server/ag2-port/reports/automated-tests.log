@@ -1,0 +1,14 @@
+test_all_three_real_converted_sources (test_port.ConvertedModelTests.test_all_three_real_converted_sources) ... ok
+test_missing_materials_block_delivery (test_port.ConvertedModelTests.test_missing_materials_block_delivery) ... ok
+test_duplicate_and_truncated_sources_rejected (test_port.GuardAndParserTests.test_duplicate_and_truncated_sources_rejected) ... ok
+test_nonempty_dmx9_prefix_rejected (test_port.GuardAndParserTests.test_nonempty_dmx9_prefix_rejected) ... ok
+test_original_tree_cannot_be_used_as_output (test_port.GuardAndParserTests.test_original_tree_cannot_be_used_as_output) ... ok
+test_physics_shape_name_and_geometry_changes_not_hidden (test_port.GuardAndParserTests.test_physics_shape_name_and_geometry_changes_not_hidden) ... ok
+test_real_kv3_structure_and_resources (test_port.GuardAndParserTests.test_real_kv3_structure_and_resources) ... ok
+test_rerl_reader_and_corruption (test_port.GuardAndParserTests.test_rerl_reader_and_corruption) ... ok
+test_unsafe_resource_paths_rejected (test_port.GuardAndParserTests.test_unsafe_resource_paths_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.705s
+
+OK
