@@ -1,5 +1,7 @@
-param([Parameter(Mandatory=$true)][string]$CS2Path,[string]$PackageRoot=(Split-Path $PSScriptRoot -Parent),[string]$S2V=(Join-Path $PSScriptRoot 'source2viewer\Source2Viewer-CLI.exe'))
+param([Parameter(Mandatory=$true)][string]$CS2Path,[string]$PackageRoot,[string]$S2V)
 $ErrorActionPreference='Stop'
+if(!$PackageRoot){$PackageRoot=Split-Path $PSScriptRoot -Parent}
+if(!$S2V){$S2V=Join-Path $PSScriptRoot 'source2viewer\Source2Viewer-CLI.exe'}
 $CS2Path=[IO.Path]::GetFullPath($CS2Path).TrimEnd('\')
 $PackageRoot=[IO.Path]::GetFullPath($PackageRoot)
 $compiler=Join-Path $CS2Path 'game\bin\win64\resourcecompiler.exe'
@@ -23,6 +25,8 @@ $sourceGame=Join-Path $PackageRoot 'workshop-addon\game\csgo_addons\ks_ag2_repai
 Get-ChildItem -LiteralPath $sourceContent -Force | Copy-Item -Destination $content -Recurse
 Get-ChildItem -LiteralPath $sourceGame -Force | Copy-Item -Destination $game -Recurse
 [pscustomobject]@{ContentAddon=$content;GameAddon=$game;CreatedUTC=(Get-Date).ToUniversalTime().ToString('o');ExistingPathsOverwritten=$false;GameinfoModified=$false;ServerModified=$false} | ConvertTo-Json | Set-Content (Join-Path $logs 'build-location.json') -Encoding UTF8
+$compileResults=@()
+[pscustomobject]@{Compiler=$compiler;SHA256=(Get-FileHash -LiteralPath $compiler -Algorithm SHA256).Hash;FileVersion=(Get-Item -LiteralPath $compiler).VersionInfo.FileVersion;SteamInf=[IO.File]::ReadAllText((Join-Path $CS2Path 'game\csgo\steam.inf'))} | ConvertTo-Json | Set-Content -LiteralPath (Join-Path $logs 'compiler-identity.json') -Encoding UTF8
 Push-Location (Split-Path $compiler -Parent)
 try{
  foreach($m in $models){
@@ -31,6 +35,8 @@ try{
   if(!(Test-Path -LiteralPath $source) -or (Test-Path -LiteralPath $output)){throw 'Missing source or stale compiled model in fresh stage'}
   $stdout=Join-Path $logs ($m.Id+'-compiler.log');$stderr=Join-Path $logs ($m.Id+'-compiler.stderr')
   $p=Start-Process -FilePath $compiler -ArgumentList @('-i',('"'+$source+'"')) -WindowStyle Hidden -Wait -PassThru -RedirectStandardOutput $stdout -RedirectStandardError $stderr
+  $compileResults += [pscustomobject]@{Id=$m.Id;ExitCode=$p.ExitCode;Input=$source;Output=$output;OutputExists=(Test-Path -LiteralPath $output);Stdout=$stdout;Stderr=$stderr}
+  $compileResults | ConvertTo-Json -Depth 4 | Set-Content -LiteralPath (Join-Path $logs 'compiler-results.json') -Encoding UTF8
   if($p.ExitCode -ne 0 -or !(Test-Path -LiteralPath $output)){throw "Compilation failed for $($m.Id); retain stage and logs for diagnosis"}
  }
 }finally{Pop-Location}
