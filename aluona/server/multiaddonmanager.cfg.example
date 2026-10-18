@@ -1,0 +1,8 @@
+// Example only. No Workshop ID exists yet; do not enable an invented ID.
+// Merge into game/csgo/cfg/multiaddonmanager/multiaddonmanager.cfg.
+// After an approved upload and a verified ID, append that ID to existing
+// mm_extra_addons without discarding the server's current addon list.
+// mm_extra_addons takes comma-separated numeric Workshop IDs.
+// Server AND clients need the model, so client-only addons are insufficient.
+mm_addon_debug 1
+// Reload the map after addon mounting; inspect mm_print_searchpaths.

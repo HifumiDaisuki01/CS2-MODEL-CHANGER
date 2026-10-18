@@ -1,0 +1,37 @@
+﻿[
+    {
+        "Name":  "CS2_Aluona_Package_A-v0.1.0-alpha.zip",
+        "Bytes":  12146579,
+        "SHA256":  "a0f6090fc0828ba9250ce019b6952cb559daf730114010e8735699c6afd14cff",
+        "ExtractedFiles":  59,
+        "Verified":  true
+    },
+    {
+        "Name":  "CS2_Aluona_Package_A-v0.1.0-alpha.zip.sha256",
+        "Bytes":  105,
+        "SHA256":  "ef7405f987330f5c553d71bdde6ff813606792e14cab8d0f6ffc65ad98d778e9",
+        "ExtractedFiles":  0,
+        "Verified":  true
+    },
+    {
+        "Name":  "CS2_Aluona_Workshop_Preparation-v0.1.0-alpha.zip",
+        "Bytes":  7179362,
+        "SHA256":  "4f47e83af45d3aaaa4cc1c6662af5aad62804451fa74a87d8283be31d16dd63b",
+        "ExtractedFiles":  26,
+        "Verified":  true
+    },
+    {
+        "Name":  "CS2_Aluona_Workshop_Preparation-v0.1.0-alpha.zip.sha256",
+        "Bytes":  116,
+        "SHA256":  "fd128940dc5b402c052308c6ae071ea7dbac1a24c438a8c0d35f8b9148a22bbe",
+        "ExtractedFiles":  0,
+        "Verified":  true
+    },
+    {
+        "Name":  "SHA256SUMS-release.txt",
+        "Bytes":  221,
+        "SHA256":  "16f4c2b1885673c1a78fb104670a8ad8099f07e0fb0c03e4042bfc9797f989e9",
+        "ExtractedFiles":  0,
+        "Verified":  true
+    }
+]

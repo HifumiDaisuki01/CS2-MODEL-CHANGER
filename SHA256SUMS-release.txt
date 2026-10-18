@@ -1,0 +1,2 @@
+a0f6090fc0828ba9250ce019b6952cb559daf730114010e8735699c6afd14cff  CS2_Aluona_Package_A-v0.1.0-alpha.zip
+4f47e83af45d3aaaa4cc1c6662af5aad62804451fa74a87d8283be31d16dd63b  CS2_Aluona_Workshop_Preparation-v0.1.0-alpha.zip
