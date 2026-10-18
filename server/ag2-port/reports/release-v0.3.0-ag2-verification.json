@@ -1,0 +1,20 @@
+{
+    "ReleaseURL":  "https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.3.0-ag2",
+    "Assets":  [
+                   {
+                       "Name":  "CS2_AG2_ThreeModels-v0.3.0-ag2.zip",
+                       "Bytes":  11485684,
+                       "SHA256":  "7D3D1A719F72E8694412867CE279883331E1381D8497AB9B4E0967EFC51CABDC",
+                       "DownloadedSHA256Matched":  true,
+                       "URL":  "https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/download/v0.3.0-ag2/CS2_AG2_ThreeModels-v0.3.0-ag2.zip"
+                   },
+                   {
+                       "Name":  "CS2_AG2_ThreeModels-v0.3.0-ag2.zip.sha256",
+                       "Bytes":  101,
+                       "SHA256":  "5A91063D4F685E6EE4D99CF44EE3CA75EED7C0FBA0209C67199FE286A76FC3B4",
+                       "DownloadedSHA256Matched":  true,
+                       "URL":  "https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/download/v0.3.0-ag2/CS2_AG2_ThreeModels-v0.3.0-ag2.zip.sha256"
+                   }
+               ],
+    "VerifiedUTC":  "2026-10-18T16:09:04.5376868Z"
+}
