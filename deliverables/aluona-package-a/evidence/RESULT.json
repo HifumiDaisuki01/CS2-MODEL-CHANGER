@@ -1,0 +1,17 @@
+﻿{
+    "Result":  "PASS actual local rendering",
+    "Model":  "aluona",
+    "HumanT":  true,
+    "HumanCT":  true,
+    "BotModelsApplied":  9,
+    "StandingObserved":  true,
+    "CrouchObserved":  true,
+    "FirstPersonHandsObserved":  true,
+    "OfficialGameInfoUnchanged":  true,
+    "RawResourcesVerified":  14,
+    "ModelRecompiled":  false,
+    "DirectVPKMount":  "not verified; extracted loose addon tested",
+    "RemoteServerAccessed":  false,
+    "WorkshopPublished":  false,
+    "CS2Running":  false
+}
