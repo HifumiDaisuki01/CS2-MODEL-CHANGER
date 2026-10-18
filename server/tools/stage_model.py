@@ -7,8 +7,8 @@ def stage(args):
     if not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,47}', args.id): raise ValueError('Invalid model identifier')
     if not re.fullmatch(r'[1-9][0-9]{0,19}', args.workshop): raise ValueError('Invalid Workshop ID')
     model=args.model.removesuffix('_c')
-    if not model.startswith('characters/') or not model.endswith('.vmdl') or '..' in model or '\\' in model:
-        raise ValueError('Expected a canonical characters/.../*.vmdl path')
+    if not model.startswith(('characters/', 'phase2/characters/')) or not model.endswith('.vmdl') or '..' in model or '\\' in model:
+        raise ValueError('Expected a canonical characters/ or phase2/characters/ .vmdl path')
     report=inspect(args.vpk)
     if model+'_c' not in {entry['Path'] for entry in report['Entries']}: raise ValueError('Model not found in this VPK (paths are case sensitive)')
     config=json.loads(pathlib.Path(args.config).read_text(encoding='utf-8-sig'))

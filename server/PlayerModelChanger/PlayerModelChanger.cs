@@ -13,7 +13,7 @@ namespace PlayerModelChanger;
 public partial class PlayerModelChanger : BasePlugin, IPluginConfig<ModelConfig>
 {
     public override string ModuleName => "Player Model Changer";
-    public override string ModuleVersion => "1.8.6-aluona.1";
+    public override string ModuleVersion => "1.8.6-batch.1";
 
     public override string ModuleAuthor => "samyyc";
     public required ModelConfig Config { get; set; }

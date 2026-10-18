@@ -1,0 +1,3940 @@
+﻿{
+    "Models":  {
+                   "aluona":  {
+                                  "name":  "Aluona（阿洛娜）",
+                                  "path":  "characters/models/aluona/aluona.vmdl",
+                                  "permissions":  [
+
+                                                  ],
+                                  "permissionsOr":  [
+
+                                                    ],
+                                  "side":  "All",
+                                  "disableleg":  false,
+                                  "hideinmenu":  false
+                              },
+                   "batch_001":  {
+                                     "name":  "czy",
+                                     "path":  "characters/czy/czy.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_002":  {
+                                     "name":  "czy_arms",
+                                     "path":  "characters/czy/czy_arms.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_003":  {
+                                     "name":  "lbjur",
+                                     "path":  "characters/lbjur/lbjur.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_004":  {
+                                     "name":  "fox",
+                                     "path":  "characters/linghu/fox.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_005":  {
+                                     "name":  "sas",
+                                     "path":  "characters/models/2en0w/exg_2dlod/sas.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_006":  {
+                                     "name":  "niujiajun",
+                                     "path":  "characters/models/2en0w/niujiajun/niujiajun.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_007":  {
+                                     "name":  "player_start_v3",
+                                     "path":  "characters/models/7ychu5/player_start_v3.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_009":  {
+                                     "name":  "b2",
+                                     "path":  "characters/models/b2/b2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_010":  {
+                                     "name":  "beiliya",
+                                     "path":  "characters/models/beiliya/beiliya.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_011":  {
+                                     "name":  "chiffon_nimiki",
+                                     "path":  "characters/models/chiffon/chiffon_nimiki.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_012":  {
+                                     "name":  "dyel",
+                                     "path":  "characters/models/cs2ze/dyel/dyel.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_013":  {
+                                     "name":  "szz",
+                                     "path":  "characters/models/cs2ze/jiangshimoxing/1/szz.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_014":  {
+                                     "name":  "szz_arm",
+                                     "path":  "characters/models/cs2ze/jiangshimoxing/1/szz_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_015":  {
+                                     "name":  "kikyo2",
+                                     "path":  "characters/models/cs2ze/kikyo_new/kikyo2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_016":  {
+                                     "name":  "normal3",
+                                     "path":  "characters/models/cs2ze/normal3/normal3.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_017":  {
+                                     "name":  "normal4",
+                                     "path":  "characters/models/cs2ze/normal4/normal4.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_018":  {
+                                     "name":  "normal5",
+                                     "path":  "characters/models/cs2ze/normal5/normal5.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_019":  {
+                                     "name":  "selestia",
+                                     "path":  "characters/models/cs2ze/selestia/selestia.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_020":  {
+                                     "name":  "skadi",
+                                     "path":  "characters/models/cs2ze/skadi/skadi.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_021":  {
+                                     "name":  "chuyin",
+                                     "path":  "characters/models/exg/aili/chuyin/chuyin.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_022":  {
+                                     "name":  "kipfel",
+                                     "path":  "characters/models/exg/aili/kipfel/kipfel.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_023":  {
+                                     "name":  "milfy",
+                                     "path":  "characters/models/exg/aili/milfy/milfy.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_024":  {
+                                     "name":  "milfy_arm",
+                                     "path":  "characters/models/exg/aili/milfy/milfy_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_025":  {
+                                     "name":  "amamiya",
+                                     "path":  "characters/models/exg/amamiya/amamiya.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_026":  {
+                                     "name":  "amamiya_arms",
+                                     "path":  "characters/models/exg/amamiya/amamiya_arms.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_027":  {
+                                     "name":  "km_decade",
+                                     "path":  "characters/models/exg/aquaz/km_decade/km_decade.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_028":  {
+                                     "name":  "big_herta",
+                                     "path":  "characters/models/exg/big_herta/big_herta.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_029":  {
+                                     "name":  "artoria_pendragon_alter1",
+                                     "path":  "characters/models/exg/bot04/artoria_pendragon_alter/artoria_pendragon_alter1.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_030":  {
+                                     "name":  "artoria_pendragon_alter1_ag2",
+                                     "path":  "characters/models/exg/bot04/artoria_pendragon_alter/artoria_pendragon_alter1_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_031":  {
+                                     "name":  "hk416",
+                                     "path":  "characters/models/exg/bot04/hk416/hk416.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_032":  {
+                                     "name":  "manuka_erica",
+                                     "path":  "characters/models/exg/bot04/manuka_erica/manuka_erica.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_033":  {
+                                     "name":  "megurine_luka_swimsuit",
+                                     "path":  "characters/models/exg/bot04/megurine_luka_swimsuit/megurine_luka_swimsuit.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_034":  {
+                                     "name":  "nacho_neko",
+                                     "path":  "characters/models/exg/bot04/nacho_neko.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_035":  {
+                                     "name":  "professor_niyaniya",
+                                     "path":  "characters/models/exg/bot04/professor_niyaniya/professor_niyaniya.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_036":  {
+                                     "name":  "taihou",
+                                     "path":  "characters/models/exg/bot04/taihou/taihou.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_037":  {
+                                     "name":  "bulanka",
+                                     "path":  "characters/models/exg/bulanka/bulanka.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_038":  {
+                                     "name":  "chiikawa",
+                                     "path":  "characters/models/exg/chiikawa/chiikawa.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_039":  {
+                                     "name":  "chisato",
+                                     "path":  "characters/models/exg/chisato/chisato.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_040":  {
+                                     "name":  "airi_danzai",
+                                     "path":  "characters/models/exg/chrisan/airi_danzai/airi_danzai.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_041":  {
+                                     "name":  "airi_maid",
+                                     "path":  "characters/models/exg/chrisan/airi_maid/airi_maid.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_042":  {
+                                     "name":  "airi_solomon",
+                                     "path":  "characters/models/exg/chrisan/airi_solomon/airi_solomon.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_043":  {
+                                     "name":  "lime_e",
+                                     "path":  "characters/models/exg/chrisan/lime_e/lime_e.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_044":  {
+                                     "name":  "zombie_miwu",
+                                     "path":  "characters/models/exg/chrisan/miwu/zombie_miwu.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_045":  {
+                                     "name":  "mizuki",
+                                     "path":  "characters/models/exg/chrisan/mizuki/mizuki.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_046":  {
+                                     "name":  "rurune",
+                                     "path":  "characters/models/exg/chrisan/rurune/rurune.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_047":  {
+                                     "name":  "zombie_xiaoao",
+                                     "path":  "characters/models/exg/chrisan/xiaoao/zombie_xiaoao.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_048":  {
+                                     "name":  "colphne",
+                                     "path":  "characters/models/exg/colphne/colphne.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_049":  {
+                                     "name":  "dmb",
+                                     "path":  "characters/models/exg/doki/bigmb/dmb.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_050":  {
+                                     "name":  "mb",
+                                     "path":  "characters/models/exg/doki/somemb/mb.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_051":  {
+                                     "name":  "dujiaoshou",
+                                     "path":  "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_052":  {
+                                     "name":  "evecat",
+                                     "path":  "characters/models/exg/evecat/evecat.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_053":  {
+                                     "name":  "haku",
+                                     "path":  "characters/models/exg/haku/haku.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_054":  {
+                                     "name":  "miku",
+                                     "path":  "characters/models/exg/hatsune_miku/miku.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_055":  {
+                                     "name":  "herta",
+                                     "path":  "characters/models/exg/herta/herta.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_056":  {
+                                     "name":  "herta_arm",
+                                     "path":  "characters/models/exg/herta/herta_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_057":  {
+                                     "name":  "hina",
+                                     "path":  "characters/models/exg/hina/hina.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_058":  {
+                                     "name":  "honkai_starrail_huohuo",
+                                     "path":  "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_059":  {
+                                     "name":  "hoshino",
+                                     "path":  "characters/models/exg/hoshino/hoshino.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_060":  {
+                                     "name":  "ill_wedding",
+                                     "path":  "characters/models/exg/ill_wedding/ill_wedding.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_061":  {
+                                     "name":  "izuna",
+                                     "path":  "characters/models/exg/izuna/izuna.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_062":  {
+                                     "name":  "jalter",
+                                     "path":  "characters/models/exg/jalter/jalter.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_063":  {
+                                     "name":  "kipfel_vrc",
+                                     "path":  "characters/models/exg/kipfel/kipfel_vrc.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_064":  {
+                                     "name":  "kisaki",
+                                     "path":  "characters/models/exg/kisaki/kisaki.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_065":  {
+                                     "name":  "kokona",
+                                     "path":  "characters/models/exg/kokona/kokona.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_066":  {
+                                     "name":  "koritsu",
+                                     "path":  "characters/models/exg/koritsu/koritsu.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_067":  {
+                                     "name":  "soraha",
+                                     "path":  "characters/models/exg/kukuka/soraha/soraha.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_068":  {
+                                     "name":  "lyphos",
+                                     "path":  "characters/models/exg/lyphos/lyphos.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_069":  {
+                                     "name":  "maid_midori",
+                                     "path":  "characters/models/exg/maid_midori/maid_midori.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_070":  {
+                                     "name":  "maid_momoi",
+                                     "path":  "characters/models/exg/maid_momoi/maid_momoi.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_071":  {
+                                     "name":  "manba",
+                                     "path":  "characters/models/exg/manba/manba.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_072":  {
+                                     "name":  "manuka_mari",
+                                     "path":  "characters/models/exg/manuka_mari/manuka_mari.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_073":  {
+                                     "name":  "march7",
+                                     "path":  "characters/models/exg/march_7/march7.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_074":  {
+                                     "name":  "march7_arm",
+                                     "path":  "characters/models/exg/march_7/march7_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_075":  {
+                                     "name":  "mashu1",
+                                     "path":  "characters/models/exg/mashu/mashu1.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_076":  {
+                                     "name":  "mcat",
+                                     "path":  "characters/models/exg/mcat/mcat.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_077":  {
+                                     "name":  "mia",
+                                     "path":  "characters/models/exg/mia/mia.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_078":  {
+                                     "name":  "midori",
+                                     "path":  "characters/models/exg/midori/midori.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_079":  {
+                                     "name":  "mika",
+                                     "path":  "characters/models/exg/mika/mika.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_080":  {
+                                     "name":  "minahoshi",
+                                     "path":  "characters/models/exg/minahoshi/minahoshi.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_081":  {
+                                     "name":  "gta",
+                                     "path":  "characters/models/exg/mmy/gta1/gta.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_082":  {
+                                     "name":  "jym",
+                                     "path":  "characters/models/exg/mmy/jingyumei/jym.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_083":  {
+                                     "name":  "aybb",
+                                     "path":  "characters/models/exg/mmy/jsmx/2/aybb.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_084":  {
+                                     "name":  "zgjs",
+                                     "path":  "characters/models/exg/mmy/jsmx/3/zgjs.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_085":  {
+                                     "name":  "shirasu_azusa",
+                                     "path":  "characters/models/exg/mmy/shirasu_azusa/shirasu_azusa.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_086":  {
+                                     "name":  "momoi",
+                                     "path":  "characters/models/exg/momoi/momoi.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_087":  {
+                                     "name":  "myers",
+                                     "path":  "characters/models/exg/myers/myers.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_088":  {
+                                     "name":  "neeko",
+                                     "path":  "characters/models/exg/neeko/neeko.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_089":  {
+                                     "name":  "nekoha",
+                                     "path":  "characters/models/exg/nekoha/nekoha.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_090":  {
+                                     "name":  "chiffon_coaster",
+                                     "path":  "characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_091":  {
+                                     "name":  "rat",
+                                     "path":  "characters/models/exg/oxygen/rat/rat.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_092":  {
+                                     "name":  "pardofelis",
+                                     "path":  "characters/models/exg/pardofelis/pardofelis.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_093":  {
+                                     "name":  "pikachu",
+                                     "path":  "characters/models/exg/pikachu/pikachu.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_094":  {
+                                     "name":  "tongren",
+                                     "path":  "characters/models/exg/qiliu/hero/tongren/tongren.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_095":  {
+                                     "name":  "zaomiao",
+                                     "path":  "characters/models/exg/qiliu/zaomiao/zaomiao.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_096":  {
+                                     "name":  "resident_arm",
+                                     "path":  "characters/models/exg/resident_zombie/resident_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_097":  {
+                                     "name":  "resident_zombie",
+                                     "path":  "characters/models/exg/resident_zombie/resident_zombie.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_098":  {
+                                     "name":  "rindo",
+                                     "path":  "characters/models/exg/rindo/rindo.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_099":  {
+                                     "name":  "attilio_regolo",
+                                     "path":  "characters/models/exg/ruiyiwelkin/al_attilio_regolo/attilio_regolo.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_100":  {
+                                     "name":  "formidable",
+                                     "path":  "characters/models/exg/ruiyiwelkin/al_formidable/formidable.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_101":  {
+                                     "name":  "merkuria",
+                                     "path":  "characters/models/exg/ruiyiwelkin/al_pamiat_merkuria/merkuria.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_102":  {
+                                     "name":  "merkuria_arm",
+                                     "path":  "characters/models/exg/ruiyiwelkin/al_pamiat_merkuria/merkuria_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_103":  {
+                                     "name":  "anon",
+                                     "path":  "characters/models/exg/ruiyiwelkin/anon_chihaya/anon.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_104":  {
+                                     "name":  "ba_mari_little",
+                                     "path":  "characters/models/exg/ruiyiwelkin/ba_mari_little/ba_mari_little.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_105":  {
+                                     "name":  "bronya",
+                                     "path":  "characters/models/exg/ruiyiwelkin/bronya/bronya.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_106":  {
+                                     "name":  "cat_father",
+                                     "path":  "characters/models/exg/ruiyiwelkin/cat_father/cat_father.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_107":  {
+                                     "name":  "chiffon_star_dust",
+                                     "path":  "characters/models/exg/ruiyiwelkin/chiffon_star_dust/chiffon_star_dust.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_108":  {
+                                     "name":  "hoho_lime",
+                                     "path":  "characters/models/exg/ruiyiwelkin/hoho_lime/hoho_lime.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_109":  {
+                                     "name":  "little_mercury",
+                                     "path":  "characters/models/exg/ruiyiwelkin/little_mercury/little_mercury.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_110":  {
+                                     "name":  "little_tina",
+                                     "path":  "characters/models/exg/ruiyiwelkin/little_tina/little_tina.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_111":  {
+                                     "name":  "moe_aegis",
+                                     "path":  "characters/models/exg/ruiyiwelkin/moe_aegis/moe_aegis.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_112":  {
+                                     "name":  "sakurarinhoshi",
+                                     "path":  "characters/models/exg/ruiyiwelkin/sakurarinhoshi/sakurarinhoshi.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_113":  {
+                                     "name":  "shiratama",
+                                     "path":  "characters/models/exg/ruiyiwelkin/shiratama_redcloth/shiratama.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_114":  {
+                                     "name":  "tactical_cian",
+                                     "path":  "characters/models/exg/ruiyiwelkin/tactical_cian/tactical_cian.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_115":  {
+                                     "name":  "tactical_maya",
+                                     "path":  "characters/models/exg/ruiyiwelkin/tactical_maya/tactical_maya.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_116":  {
+                                     "name":  "rurudo",
+                                     "path":  "characters/models/exg/rurudo/rurudo.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_117":  {
+                                     "name":  "rusk",
+                                     "path":  "characters/models/exg/rusk/rusk.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_118":  {
+                                     "name":  "sasuke",
+                                     "path":  "characters/models/exg/sasuke/sasuke.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_119":  {
+                                     "name":  "aris_maid",
+                                     "path":  "characters/models/exg/sd_aris_maid/aris_maid.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_120":  {
+                                     "name":  "hoshino",
+                                     "path":  "characters/models/exg/sd_hoshino/hoshino.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_121":  {
+                                     "name":  "sd_momoi_maid",
+                                     "path":  "characters/models/exg/sd_momoi_maid/sd_momoi_maid.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_122":  {
+                                     "name":  "serena",
+                                     "path":  "characters/models/exg/serena/serena.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_123":  {
+                                     "name":  "serina",
+                                     "path":  "characters/models/exg/serina/serina.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_124":  {
+                                     "name":  "shakrey",
+                                     "path":  "characters/models/exg/shakrey/shakrey.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_125":  {
+                                     "name":  "silverwolf",
+                                     "path":  "characters/models/exg/silver_wolf/silverwolf.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_126":  {
+                                     "name":  "sutera",
+                                     "path":  "characters/models/exg/sutera/sutera.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_127":  {
+                                     "name":  "tungtungtungsahur",
+                                     "path":  "characters/models/exg/tungtungtungsahur/tungtungtungsahur.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_128":  {
+                                     "name":  "ultraman_tiga",
+                                     "path":  "characters/models/exg/ultraman_tiga/ultraman_tiga.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_129":  {
+                                     "name":  "vepley",
+                                     "path":  "characters/models/exg/vepley/vepley.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_130":  {
+                                     "name":  "wesker",
+                                     "path":  "characters/models/exg/wesker/wesker.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_131":  {
+                                     "name":  "qm",
+                                     "path":  "characters/models/exg/xinghe/qm/qm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_132":  {
+                                     "name":  "spielber",
+                                     "path":  "characters/models/exg/xinghe/spielber/spielber.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_133":  {
+                                     "name":  "sucre",
+                                     "path":  "characters/models/exg/xinghe/sucre/sucre.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_134":  {
+                                     "name":  "xinghui",
+                                     "path":  "characters/models/exg/xinghui/xinghui.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_135":  {
+                                     "name":  "eyeballforhand",
+                                     "path":  "characters/models/exg/yog_sothoth/eyeballforhand.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_136":  {
+                                     "name":  "haloballforhand",
+                                     "path":  "characters/models/exg/yog_sothoth/haloballforhand.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_137":  {
+                                     "name":  "yog_sothoth",
+                                     "path":  "characters/models/exg/yog_sothoth/yog_sothoth.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_138":  {
+                                     "name":  "yog_sothoth_arms",
+                                     "path":  "characters/models/exg/yog_sothoth/yog_sothoth_arms.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_139":  {
+                                     "name":  "yog_sothoth_arms1",
+                                     "path":  "characters/models/exg/yog_sothoth/yog_sothoth_arms1.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_140":  {
+                                     "name":  "iochi_mari_gym",
+                                     "path":  "characters/models/iochi_mari_gym/iochi_mari_gym.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_141":  {
+                                     "name":  "last_xuan",
+                                     "path":  "characters/models/last_xuan/last_xuan.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_142":  {
+                                     "name":  "normal",
+                                     "path":  "characters/models/liuhanhuangdou/normal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_143":  {
+                                     "name":  "murasame",
+                                     "path":  "characters/models/murasame/murasame.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_144":  {
+                                     "name":  "normal",
+                                     "path":  "characters/models/normal/normal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_145":  {
+                                     "name":  "normal2",
+                                     "path":  "characters/models/normal/normal2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_146":  {
+                                     "name":  "normal2",
+                                     "path":  "characters/models/normal2/normal2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_147":  {
+                                     "name":  "provence",
+                                     "path":  "characters/models/provence/provence.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_148":  {
+                                     "name":  "genesis",
+                                     "path":  "characters/models/s2ze/ms/genesis/genesis.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_149":  {
+                                     "name":  "1",
+                                     "path":  "characters/models/s2ze/ms/zombie/1/1.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_150":  {
+                                     "name":  "2",
+                                     "path":  "characters/models/s2ze/ms/zombie/2/2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_151":  {
+                                     "name":  "3",
+                                     "path":  "characters/models/s2ze/ms/zombie/3/3.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_152":  {
+                                     "name":  "4",
+                                     "path":  "characters/models/s2ze/ms/zombie/4/4.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_153":  {
+                                     "name":  "lanlaotou",
+                                     "path":  "characters/models/s2ze/youlinglieshou/lanlaotou.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_154":  {
+                                     "name":  "long",
+                                     "path":  "characters/models/security/long.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_155":  {
+                                     "name":  "security",
+                                     "path":  "characters/models/security/security.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_156":  {
+                                     "name":  "normal",
+                                     "path":  "characters/models/sense/normal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_157":  {
+                                     "name":  "myoya",
+                                     "path":  "characters/models/ub/myoya/myoya.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_158":  {
+                                     "name":  "shanoa_arm",
+                                     "path":  "characters/models/ub/shanoa/shanoa_arm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_159":  {
+                                     "name":  "shanoa_mix",
+                                     "path":  "characters/models/ub/shanoa/shanoa_mix.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_160":  {
+                                     "name":  "omhm",
+                                     "path":  "characters/omhm/omhm.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_161":  {
+                                     "name":  "security",
+                                     "path":  "characters/security/security.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_162":  {
+                                     "name":  "wiexaioh",
+                                     "path":  "characters/wiexaioh/wiexaioh.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_163":  {
+                                     "name":  "crystal",
+                                     "path":  "particles/7ychu5/models/airi/models/crystal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_164":  {
+                                     "name":  "crystal",
+                                     "path":  "particles/7ychu5/models/chiffon_fox/models/crystal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_165":  {
+                                     "name":  "crystal_2",
+                                     "path":  "particles/7ychu5/models/chiffon_fox/models/crystal_2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_166":  {
+                                     "name":  "rose",
+                                     "path":  "particles/7ychu5/models/haku_black_wedding_dress/models/rose.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_167":  {
+                                     "name":  "heart",
+                                     "path":  "particles/7ychu5/models/lasyusha/models/heart.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_168":  {
+                                     "name":  "dragon",
+                                     "path":  "particles/7ychu5/models/lime_dragon/model/dragon.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_169":  {
+                                     "name":  "engram",
+                                     "path":  "particles/7ychu5/models/raivo/models/engram.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_170":  {
+                                     "name":  "trinagle",
+                                     "path":  "particles/7ychu5/models/raivo/models/trinagle.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_171":  {
+                                     "name":  "vortex",
+                                     "path":  "particles/7ychu5/models/raivo/models/vortex.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_172":  {
+                                     "name":  "ring_1",
+                                     "path":  "particles/7ychu5/models/shiroha/ring_1.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_173":  {
+                                     "name":  "ref_wave_a",
+                                     "path":  "particles/7ychu5/weapons/slot1/csol_pianogun/models/ref_wave_a.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_174":  {
+                                     "name":  "csol_holysword",
+                                     "path":  "particles/7ychu5/weapons/slot3/csol_holysword/models/csol_holysword.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_175":  {
+                                     "name":  "shell_casing",
+                                     "path":  "particles/aur1c/ammoshell/shell_casing.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_176":  {
+                                     "name":  "shell_casing",
+                                     "path":  "particles/aur1c/hgr556/shell_casing.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_177":  {
+                                     "name":  "lover",
+                                     "path":  "particles/ruiyiwelkin/models/39neko/model/lover.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_178":  {
+                                     "name":  "air_plane",
+                                     "path":  "particles/ruiyiwelkin/models/al_hms_formidable/airplane/air_plane.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_179":  {
+                                     "name":  "crystal",
+                                     "path":  "particles/ruiyiwelkin/models/attilio_regolo/model/crystal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_180":  {
+                                     "name":  "neko",
+                                     "path":  "particles/ruiyiwelkin/models/shinano_kotori/model/neko.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_181":  {
+                                     "name":  "ice",
+                                     "path":  "particles/ruiyiwelkin/models/tashkent/model/ice.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_182":  {
+                                     "name":  "ice_crysatl",
+                                     "path":  "particles/ruiyiwelkin/models/tashkent/model/ice_crysatl.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_183":  {
+                                     "name":  "crystal",
+                                     "path":  "particles/ruiyiwelkin/models/v_sakura/model/crystal.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_184":  {
+                                     "name":  "player_start_v3_ag2",
+                                     "path":  "phase2/characters/models/7ychu5/player_start_v3_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_185":  {
+                                     "name":  "ag2_arms_prefab",
+                                     "path":  "phase2/characters/models/ag2_arms_prefab.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_186":  {
+                                     "name":  "chiffon_nimiki_ag2",
+                                     "path":  "phase2/characters/models/chiffon/chiffon_nimiki_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_187":  {
+                                     "name":  "kikyo2_ag2",
+                                     "path":  "phase2/characters/models/cs2ze/kikyo_new/kikyo2_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_188":  {
+                                     "name":  "selestia_ag2",
+                                     "path":  "phase2/characters/models/cs2ze/selestia/selestia_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_189":  {
+                                     "name":  "skadi_ag2",
+                                     "path":  "phase2/characters/models/cs2ze/skadi/skadi_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_190":  {
+                                     "name":  "chuyin_ag2",
+                                     "path":  "phase2/characters/models/exg/aili/chuyin/chuyin_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_191":  {
+                                     "name":  "kipfel_ag2",
+                                     "path":  "phase2/characters/models/exg/aili/kipfel/kipfel_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_192":  {
+                                     "name":  "milfy_ag2",
+                                     "path":  "phase2/characters/models/exg/aili/milfy/milfy_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_193":  {
+                                     "name":  "amamiya_ag2",
+                                     "path":  "phase2/characters/models/exg/amamiya/amamiya_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_194":  {
+                                     "name":  "km_decade_ag2",
+                                     "path":  "phase2/characters/models/exg/aquaz/km_decade/km_decade_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_195":  {
+                                     "name":  "big_herta_ag2",
+                                     "path":  "phase2/characters/models/exg/big_herta/big_herta_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_196":  {
+                                     "name":  "artoria_pendragon_alter1_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/artoria_pendragon_alter/artoria_pendragon_alter1_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_197":  {
+                                     "name":  "artoria_pendragon_alter1_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/artoria_pendragon_alter1/artoria_pendragon_alter1_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_198":  {
+                                     "name":  "hk416_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/hk416/hk416_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_199":  {
+                                     "name":  "manuka_erica_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/manuka_erica/manuka_erica_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_200":  {
+                                     "name":  "megurine_luka_swimsuit_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/megurine_luka_swimsuit/megurine_luka_swimsuit_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_201":  {
+                                     "name":  "nacho_neko_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/nacho_neko_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_202":  {
+                                     "name":  "professor_niyaniya_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/professor_niyaniya/professor_niyaniya_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_203":  {
+                                     "name":  "taihou_ag2",
+                                     "path":  "phase2/characters/models/exg/bot04/taihou/taihou_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_204":  {
+                                     "name":  "bulanka_ag2",
+                                     "path":  "phase2/characters/models/exg/bulanka/bulanka_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_205":  {
+                                     "name":  "chiikawa_ag2",
+                                     "path":  "phase2/characters/models/exg/chiikawa/chiikawa_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_206":  {
+                                     "name":  "chisato_ag2",
+                                     "path":  "phase2/characters/models/exg/chisato/chisato_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_207":  {
+                                     "name":  "airi_danzai_ag2",
+                                     "path":  "phase2/characters/models/exg/chrisan/airi_danzai/airi_danzai_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_208":  {
+                                     "name":  "airi_maid_ag2",
+                                     "path":  "phase2/characters/models/exg/chrisan/airi_maid/airi_maid_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_209":  {
+                                     "name":  "airi_solomon_ag2",
+                                     "path":  "phase2/characters/models/exg/chrisan/airi_solomon/airi_solomon_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_210":  {
+                                     "name":  "lime_e_ag2",
+                                     "path":  "phase2/characters/models/exg/chrisan/lime_e/lime_e_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_211":  {
+                                     "name":  "mizuki_ag2",
+                                     "path":  "phase2/characters/models/exg/chrisan/mizuki/mizuki_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_212":  {
+                                     "name":  "rurune_ag2",
+                                     "path":  "phase2/characters/models/exg/chrisan/rurune/rurune_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_213":  {
+                                     "name":  "colphne_ag2",
+                                     "path":  "phase2/characters/models/exg/colphne/colphne_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_214":  {
+                                     "name":  "dmb_ag2",
+                                     "path":  "phase2/characters/models/exg/doki/bigmb/dmb_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_215":  {
+                                     "name":  "mb_ag2",
+                                     "path":  "phase2/characters/models/exg/doki/somemb/mb_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_216":  {
+                                     "name":  "dujiaoshou_ag2",
+                                     "path":  "phase2/characters/models/exg/dujiaoshou/dujiaoshou_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_217":  {
+                                     "name":  "evecat_ag2",
+                                     "path":  "phase2/characters/models/exg/evecat/evecat_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_218":  {
+                                     "name":  "haku_ag2",
+                                     "path":  "phase2/characters/models/exg/haku/haku_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_219":  {
+                                     "name":  "miku_ag2",
+                                     "path":  "phase2/characters/models/exg/hatsune_miku/miku_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_220":  {
+                                     "name":  "herta_ag2",
+                                     "path":  "phase2/characters/models/exg/herta/herta_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_221":  {
+                                     "name":  "hina_ag2",
+                                     "path":  "phase2/characters/models/exg/hina/hina_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_222":  {
+                                     "name":  "honkai_starrail_huohuo_ag2",
+                                     "path":  "phase2/characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_223":  {
+                                     "name":  "hoshino_ag2",
+                                     "path":  "phase2/characters/models/exg/hoshino/hoshino_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_224":  {
+                                     "name":  "ill_wedding_ag2",
+                                     "path":  "phase2/characters/models/exg/ill_wedding/ill_wedding_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_225":  {
+                                     "name":  "izuna_ag2",
+                                     "path":  "phase2/characters/models/exg/izuna/izuna_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_226":  {
+                                     "name":  "jalter_ag2",
+                                     "path":  "phase2/characters/models/exg/jalter/jalter_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_227":  {
+                                     "name":  "kipfel_vrc_ag2",
+                                     "path":  "phase2/characters/models/exg/kipfel/kipfel_vrc_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_228":  {
+                                     "name":  "kisaki_ag2",
+                                     "path":  "phase2/characters/models/exg/kisaki/kisaki_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_229":  {
+                                     "name":  "kokona_ag2",
+                                     "path":  "phase2/characters/models/exg/kokona/kokona_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_230":  {
+                                     "name":  "koritsu_ag2",
+                                     "path":  "phase2/characters/models/exg/koritsu/koritsu_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_231":  {
+                                     "name":  "soraha_ag2",
+                                     "path":  "phase2/characters/models/exg/kukuka/soraha/soraha_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_232":  {
+                                     "name":  "lyphos_ag2",
+                                     "path":  "phase2/characters/models/exg/lyphos/lyphos_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_233":  {
+                                     "name":  "maid_midori_ag2",
+                                     "path":  "phase2/characters/models/exg/maid_midori/maid_midori_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_234":  {
+                                     "name":  "maid_momoi_ag2",
+                                     "path":  "phase2/characters/models/exg/maid_momoi/maid_momoi_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_235":  {
+                                     "name":  "manba_ag2",
+                                     "path":  "phase2/characters/models/exg/manba/manba_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_236":  {
+                                     "name":  "manuka_mari_ag2",
+                                     "path":  "phase2/characters/models/exg/manuka_mari/manuka_mari_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_237":  {
+                                     "name":  "march7_ag2",
+                                     "path":  "phase2/characters/models/exg/march_7/march7_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_238":  {
+                                     "name":  "mashu1_ag2",
+                                     "path":  "phase2/characters/models/exg/mashu/mashu1_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_239":  {
+                                     "name":  "mcat_ag2",
+                                     "path":  "phase2/characters/models/exg/mcat/mcat_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_240":  {
+                                     "name":  "mia_ag2",
+                                     "path":  "phase2/characters/models/exg/mia/mia_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_241":  {
+                                     "name":  "midori_ag2",
+                                     "path":  "phase2/characters/models/exg/midori/midori_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_242":  {
+                                     "name":  "mika_ag2",
+                                     "path":  "phase2/characters/models/exg/mika/mika_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_243":  {
+                                     "name":  "minahoshi_ag2",
+                                     "path":  "phase2/characters/models/exg/minahoshi/minahoshi_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_244":  {
+                                     "name":  "gta_ag2",
+                                     "path":  "phase2/characters/models/exg/mmy/gta1/gta_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_245":  {
+                                     "name":  "jym_ag2",
+                                     "path":  "phase2/characters/models/exg/mmy/jingyumei/jym_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_246":  {
+                                     "name":  "shirasu_azusa_ag2",
+                                     "path":  "phase2/characters/models/exg/mmy/shirasu_azusa/shirasu_azusa_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_247":  {
+                                     "name":  "momoi_ag2",
+                                     "path":  "phase2/characters/models/exg/momoi/momoi_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_248":  {
+                                     "name":  "myers_ag2",
+                                     "path":  "phase2/characters/models/exg/myers/myers_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_249":  {
+                                     "name":  "neeko_ag2",
+                                     "path":  "phase2/characters/models/exg/neeko/neeko_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_250":  {
+                                     "name":  "nekoha",
+                                     "path":  "phase2/characters/models/exg/nekoha/nekoha.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_251":  {
+                                     "name":  "chiffon_coaster_ag2",
+                                     "path":  "phase2/characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_252":  {
+                                     "name":  "rat_ag2",
+                                     "path":  "phase2/characters/models/exg/oxygen/rat/rat_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_253":  {
+                                     "name":  "pardofelis_ag2",
+                                     "path":  "phase2/characters/models/exg/pardofelis/pardofelis_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_254":  {
+                                     "name":  "pikachu_ag2",
+                                     "path":  "phase2/characters/models/exg/pikachu/pikachu_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_255":  {
+                                     "name":  "zaomiao_ag2",
+                                     "path":  "phase2/characters/models/exg/qiliu/zaomiao/zaomiao_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_256":  {
+                                     "name":  "rindo_ag2",
+                                     "path":  "phase2/characters/models/exg/rindo/rindo_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_257":  {
+                                     "name":  "attilio_regolo_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/al_attilio_regolo/attilio_regolo_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_258":  {
+                                     "name":  "formidable_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/al_formidable/formidable_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_259":  {
+                                     "name":  "merkuria_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/al_pamiat_merkuria/merkuria_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_260":  {
+                                     "name":  "anon_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/anon_chihaya/anon_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_261":  {
+                                     "name":  "ba_mari_little_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/ba_mari_little/ba_mari_little_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_262":  {
+                                     "name":  "bronya_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/bronya/bronya_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_263":  {
+                                     "name":  "cat_father_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/cat_father/cat_father_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_264":  {
+                                     "name":  "chiffon_star_dust_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/chiffon_star_dust/chiffon_star_dust_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_265":  {
+                                     "name":  "hoho_lime_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/hoho_lime/hoho_lime_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_266":  {
+                                     "name":  "little_mercury_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/little_mercury/little_mercury_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_267":  {
+                                     "name":  "little_tina_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/little_tina/little_tina_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_268":  {
+                                     "name":  "moe_aegis_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/moe_aegis/moe_aegis_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_269":  {
+                                     "name":  "sakurarinhoshi_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/sakurarinhoshi/sakurarinhoshi_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_270":  {
+                                     "name":  "shiratama_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/shiratama_redcloth/shiratama_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_271":  {
+                                     "name":  "tactical_cian_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/tactical_cian/tactical_cian_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_272":  {
+                                     "name":  "tactical_maya_ag2",
+                                     "path":  "phase2/characters/models/exg/ruiyiwelkin/tactical_maya/tactical_maya_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_273":  {
+                                     "name":  "rurudo_ag2",
+                                     "path":  "phase2/characters/models/exg/rurudo/rurudo_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_274":  {
+                                     "name":  "rusk_ag2",
+                                     "path":  "phase2/characters/models/exg/rusk/rusk_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_275":  {
+                                     "name":  "sasuke_ag2",
+                                     "path":  "phase2/characters/models/exg/sasuke/sasuke_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_276":  {
+                                     "name":  "aris_maid_ag2",
+                                     "path":  "phase2/characters/models/exg/sd_aris_maid/aris_maid_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_277":  {
+                                     "name":  "hoshino_ag2",
+                                     "path":  "phase2/characters/models/exg/sd_hoshino/hoshino_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_278":  {
+                                     "name":  "sd_momoi_maid_ag2",
+                                     "path":  "phase2/characters/models/exg/sd_momoi_maid/sd_momoi_maid_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_279":  {
+                                     "name":  "serena_ag2",
+                                     "path":  "phase2/characters/models/exg/serena/serena_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_280":  {
+                                     "name":  "serina_ag2",
+                                     "path":  "phase2/characters/models/exg/serina/serina_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_281":  {
+                                     "name":  "shakrey_ag2",
+                                     "path":  "phase2/characters/models/exg/shakrey/shakrey_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_282":  {
+                                     "name":  "silverwolf_ag2",
+                                     "path":  "phase2/characters/models/exg/silver_wolf/silverwolf_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_283":  {
+                                     "name":  "sutera_ag2",
+                                     "path":  "phase2/characters/models/exg/sutera/sutera_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_284":  {
+                                     "name":  "tungtungtungsahur_ag2",
+                                     "path":  "phase2/characters/models/exg/tungtungtungsahur/tungtungtungsahur_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_285":  {
+                                     "name":  "ultraman_tiga_ag2",
+                                     "path":  "phase2/characters/models/exg/ultraman_tiga/ultraman_tiga_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_286":  {
+                                     "name":  "vepley_ag2",
+                                     "path":  "phase2/characters/models/exg/vepley/vepley_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_287":  {
+                                     "name":  "wesker_ag2",
+                                     "path":  "phase2/characters/models/exg/wesker/wesker_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_288":  {
+                                     "name":  "qm_ag2",
+                                     "path":  "phase2/characters/models/exg/xinghe/qm/qm_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_289":  {
+                                     "name":  "spielber_ag2",
+                                     "path":  "phase2/characters/models/exg/xinghe/spielber/spielber_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_290":  {
+                                     "name":  "sucre_ag2",
+                                     "path":  "phase2/characters/models/exg/xinghe/sucre/sucre_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_291":  {
+                                     "name":  "xinghui_ag2",
+                                     "path":  "phase2/characters/models/exg/xinghui/xinghui_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_292":  {
+                                     "name":  "yog_sothoth_ag2",
+                                     "path":  "phase2/characters/models/exg/yog_sothoth/yog_sothoth_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_293":  {
+                                     "name":  "iochi_mari_gym_ag2",
+                                     "path":  "phase2/characters/models/iochi_mari_gym/iochi_mari_gym_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_294":  {
+                                     "name":  "last_xuan_ag2",
+                                     "path":  "phase2/characters/models/last_xuan/last_xuan_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_295":  {
+                                     "name":  "murasame_ag2",
+                                     "path":  "phase2/characters/models/murasame/murasame_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_296":  {
+                                     "name":  "provence_ag2",
+                                     "path":  "phase2/characters/models/provence/provence_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "genesis_ag2":  {
+                                       "name":  "genesis_ag2",
+                                       "path":  "phase2/characters/models/s2ze/ms/genesis/genesis_ag2.vmdl",
+                                       "permissions":  [
+
+                                                       ],
+                                       "permissionsOr":  [
+
+                                                         ],
+                                       "side":  "All",
+                                       "disableleg":  false,
+                                       "hideinmenu":  true
+                                   },
+                   "batch_298":  {
+                                     "name":  "lanlaotou_ag2",
+                                     "path":  "phase2/characters/models/s2ze/youlinglieshou/lanlaotou_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_299":  {
+                                     "name":  "myoya_ag2",
+                                     "path":  "phase2/characters/models/ub/myoya/myoya_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_300":  {
+                                     "name":  "shanoa_mix_ag2",
+                                     "path":  "phase2/characters/models/ub/shanoa/shanoa_mix_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 },
+                   "batch_301":  {
+                                     "name":  "omhm_ag2",
+                                     "path":  "phase2/characters/omhm/omhm_ag2.vmdl",
+                                     "permissions":  [
+
+                                                     ],
+                                     "permissionsOr":  [
+
+                                                       ],
+                                     "side":  "All",
+                                     "disableleg":  false,
+                                     "hideinmenu":  true
+                                 }
+               },
+    "StorageType":  "sqlite",
+    "ModelForBots":  {
+                         "T":  [
+
+                               ],
+                         "CT":  [
+
+                                ]
+                     },
+    "ModelChangeCooldownSecond":  1,
+    "Inspection":  {
+                       "Enable":  false,
+                       "Mode":  "rotation"
+                   },
+    "BasicPermission":  "",
+    "DisableDefaultModelLeg":  false,
+    "DisableInstantChange":  false,
+    "DisablePrecache":  false,
+    "DisableRandomModel":  true,
+    "DisableAutoCheck":  false,
+    "DisablePlayerSelection":  false,
+    "AutoResyncCache":  false,
+    "ConfigVersion":  1
+}

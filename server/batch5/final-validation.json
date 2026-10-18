@@ -1,0 +1,111 @@
+﻿{
+    "UniqueModels":  301,
+    "FileChecks":  [
+                       {
+                           "Path":  "characters/models/exg/genesis/materials/main1.vmat_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "phase2/characters/models/s2ze/ms/genesis/genesis_ag2.vmdl_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/exg/genesis/materials/main1_png_87762fc8.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/aluona.vmdl_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "materials/default/default_normal_tga_7be61377.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "materials/default/default_metal_tga_af1d7118.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/aluona/face_vmorf.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "materials/default/default_ao_tga_559f1ac6.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/s.vmat_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/morph.vmat_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/exg/genesis/materials/main1_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/exg/genesis/materials/main1_vmat_g_tmetalness_1081f06e.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/body.vmat_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/face.vmat_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/exg/genesis/materials/main1_vmat_g_tnormal_d52512a9.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/hair.vmat_c",
+                           "Valid":  true
+                       },
+                       {
+                           "Path":  "characters/models/aluona/materials/fuku.vmat_c",
+                           "Valid":  true
+                       }
+                   ],
+    "AllCopiesMatch":  true,
+    "ConfigModels":  [
+                         "aluona",
+                         "genesis_ag2"
+                     ],
+    "NewCandidateHidden":  true,
+    "BuildWarnings":  0,
+    "BuildErrors":  0,
+    "DotNetTests":  7,
+    "PythonTests":  9,
+    "ProductionConfigurationModified":  false,
+    "WorkshopUploaded":  false,
+    "ClientTestsRun":  false,
+    "OriginalFilesModified":  false
+}

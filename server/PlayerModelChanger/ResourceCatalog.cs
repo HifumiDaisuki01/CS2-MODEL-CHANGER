@@ -26,7 +26,7 @@ public sealed class ResourceCatalog
             }
             foreach (var model in catalog.Models)
             {
-                if (!model.StartsWith("characters/", StringComparison.Ordinal) || !model.EndsWith(".vmdl", StringComparison.Ordinal) ||
+                if (!(model.StartsWith("characters/", StringComparison.Ordinal) || model.StartsWith("phase2/characters/", StringComparison.Ordinal)) || !model.EndsWith(".vmdl", StringComparison.Ordinal) ||
                     model.Contains("..", StringComparison.Ordinal) || model.Contains('\\'))
                     throw new InvalidDataException("Invalid model resource path");
                 catalog._available.Add(model);

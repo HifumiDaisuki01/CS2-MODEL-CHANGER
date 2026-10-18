@@ -1,3 +1,9 @@
+## Unreleased — batch model preparation (2026-10-18)
+
+- Audit 301 unique models; preserve original compiled paths and Aluona; stage one Genesis AG2 test candidate and report blocked resources.
+- Add repeatable local inventory, RERL closure, SHA256 copy checks and Source 2 Viewer semantic inspection tools.
+- Allow verified phase2/characters/ resources in the staged PMC compatibility build; keep production and existing Releases unchanged.
+
 # Linux 部署版 0.2.0
 
 - 部署 MAM 1.6.2 与 PMC 1.8.6 适配版，验证 Workshop 下载、挂载及真人指令换模。

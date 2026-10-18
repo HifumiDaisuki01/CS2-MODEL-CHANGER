@@ -1,0 +1,53 @@
+﻿{
+    "Models":  {
+                   "aluona":  {
+                                  "name":  "Aluona（阿洛娜）",
+                                  "path":  "characters/models/aluona/aluona.vmdl",
+                                  "permissions":  [
+
+                                                  ],
+                                  "permissionsOr":  [
+
+                                                    ],
+                                  "side":  "All",
+                                  "disableleg":  false,
+                                  "hideinmenu":  false
+                              },
+                   "genesis_ag2":  {
+                                       "name":  "genesis_ag2",
+                                       "path":  "phase2/characters/models/s2ze/ms/genesis/genesis_ag2.vmdl",
+                                       "permissions":  [
+
+                                                       ],
+                                       "permissionsOr":  [
+
+                                                         ],
+                                       "side":  "All",
+                                       "disableleg":  false,
+                                       "hideinmenu":  true
+                                   }
+               },
+    "StorageType":  "sqlite",
+    "ModelForBots":  {
+                         "T":  [
+
+                               ],
+                         "CT":  [
+
+                                ]
+                     },
+    "ModelChangeCooldownSecond":  1,
+    "Inspection":  {
+                       "Enable":  false,
+                       "Mode":  "rotation"
+                   },
+    "BasicPermission":  "",
+    "DisableDefaultModelLeg":  false,
+    "DisableInstantChange":  false,
+    "DisablePrecache":  false,
+    "DisableRandomModel":  true,
+    "DisableAutoCheck":  false,
+    "DisablePlayerSelection":  false,
+    "AutoResyncCache":  false,
+    "ConfigVersion":  1
+}

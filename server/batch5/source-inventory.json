@@ -1,0 +1,107 @@
+﻿[
+    {
+        "Extension":  ".md",
+        "Count":  3,
+        "Bytes":  12321
+    },
+    {
+        "Extension":  ".ps1",
+        "Count":  3,
+        "Bytes":  6615
+    },
+    {
+        "Extension":  ".json",
+        "Count":  3,
+        "Bytes":  25101
+    },
+    {
+        "Extension":  ".txt",
+        "Count":  5,
+        "Bytes":  49311
+    },
+    {
+        "Extension":  ".cmd",
+        "Count":  1,
+        "Bytes":  101
+    },
+    {
+        "Extension":  ".js",
+        "Count":  3,
+        "Bytes":  3534
+    },
+    {
+        "Extension":  ".cfg",
+        "Count":  2,
+        "Bytes":  499
+    },
+    {
+        "Extension":  ".vmdl_c",
+        "Count":  601,
+        "Bytes":  478399648
+    },
+    {
+        "Extension":  ".vtex_c",
+        "Count":  12337,
+        "Bytes":  1816312528
+    },
+    {
+        "Extension":  ".vmat_c",
+        "Count":  3902,
+        "Bytes":  15832225
+    },
+    {
+        "Extension":  ".vjs_c",
+        "Count":  1,
+        "Bytes":  1740
+    },
+    {
+        "Extension":  ".csv",
+        "Count":  3,
+        "Bytes":  6909
+    },
+    {
+        "Extension":  ".png",
+        "Count":  4,
+        "Bytes":  6498323
+    },
+    {
+        "Extension":  ".log",
+        "Count":  4,
+        "Bytes":  283168
+    },
+    {
+        "Extension":  ".ts",
+        "Count":  1,
+        "Bytes":  47200
+    },
+    {
+        "Extension":  ".vpk",
+        "Count":  1,
+        "Bytes":  7450462
+    },
+    {
+        "Extension":  ".cs",
+        "Count":  1,
+        "Bytes":  2039
+    },
+    {
+        "Extension":  ".vpcf_c",
+        "Count":  5128,
+        "Bytes":  13967582
+    },
+    {
+        "Extension":  ".vanmgrph_c",
+        "Count":  30,
+        "Bytes":  912986
+    },
+    {
+        "Extension":  ".vsnap_c",
+        "Count":  162,
+        "Bytes":  707376
+    },
+    {
+        "Extension":  ".vpcf",
+        "Count":  38,
+        "Bytes":  1552804
+    }
+]

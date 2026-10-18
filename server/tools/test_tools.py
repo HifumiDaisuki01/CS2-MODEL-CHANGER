@@ -6,9 +6,9 @@ class ModelToolsTests(unittest.TestCase):
     def setUp(self):
         self.temp=tempfile.TemporaryDirectory();self.root=pathlib.Path(self.temp.name)
     def tearDown(self):self.temp.cleanup()
-    def fixture(self,external=False):
+    def fixture(self,external=False,folder='characters/models/test'):
         path=self.root/'addon_dir.vpk';body=b'hello';pre=body[:2];tail=body[2:]
-        tree=b'vmdl_c\0characters/models/test\0test\0'+struct.pack('<IHHIIH',zlib.crc32(body),len(pre),0 if external else 0x7fff,0,len(tail),0xffff)+pre+b'\0\0\0'
+        tree=b'vmdl_c\0'+folder.encode()+b'\0test\0'+struct.pack('<IHHIIH',zlib.crc32(body),len(pre),0 if external else 0x7fff,0,len(tail),0xffff)+pre+b'\0\0\0'
         path.write_bytes(struct.pack('<IIIIIII',0x55aa1234,2,len(tree),0 if external else len(tail),0,0,0)+tree+(b'' if external else tail))
         if external:(self.root/'addon_000.vpk').write_bytes(tail)
         return path
@@ -35,6 +35,11 @@ class ModelToolsTests(unittest.TestCase):
         self.assertIn('old_dir.vpk',catalog['Archives']);self.assertIn('characters/old.vmdl',catalog['Models'])
         mam=(out/'multiaddonmanager.cfg').read_text();self.assertIn('"123,3821951835" // keep',mam);self.assertIn('mm_client_extra_addons "999"',mam)
         self.assertEqual(pathlib.Path(args.config).read_bytes(),before)
+    def test_phase2_character_path_is_staged_without_renaming(self):
+        args=self.arguments();args.vpk=str(self.fixture(folder='phase2/characters/models/test'));args.model='phase2/characters/models/test/test.vmdl'
+        with contextlib.redirect_stdout(io.StringIO()):stage(args)
+        data=json.loads((pathlib.Path(args.output)/'PlayerModelChanger.json').read_text())
+        self.assertEqual(data['Models']['test']['path'],args.model)
     def test_reject_wrong_model_without_writing(self):
         args=self.arguments();args.model='characters/absent.vmdl'
         with self.assertRaises(ValueError):stage(args)

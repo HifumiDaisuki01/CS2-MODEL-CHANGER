@@ -1,0 +1,22 @@
+[
+  {
+    "vpk": "/home/steam/cs2-ds/game/csgo/pak01_dir.vpk",
+    "entries": 137695,
+    "directorySHA256": "f0943b4d5a86fe8f4891ab98983b9d132b4450b9b7401a03a530bcd63f293f99"
+  },
+  {
+    "vpk": "/home/steam/cs2-ds/game/csgo/shaders_vulkan_dir.vpk",
+    "entries": 485,
+    "directorySHA256": "f24e94a80c79f256f81dc0f15a84f922bb0b8ab8c79e24c1ebb379b0df63e18e"
+  },
+  {
+    "vpk": "/home/steam/cs2-ds/game/core/pak01_dir.vpk",
+    "entries": 1618,
+    "directorySHA256": "27bb66b9073f96455edf1657120778253ec4dac451b82bdb0d3757e45050da44"
+  },
+  {
+    "vpk": "/home/steam/cs2-ds/game/core/shaders_vulkan_dir.vpk",
+    "entries": 566,
+    "directorySHA256": "5a95165a50e96ffefc11ed6c9deb3395069bc60378ac1da812f70e175a4fefde"
+  }
+]
