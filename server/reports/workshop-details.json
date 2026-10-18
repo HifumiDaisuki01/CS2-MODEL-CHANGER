@@ -1,0 +1,41 @@
+{
+  "response": {
+    "result": 1,
+    "resultcount": 1,
+    "publishedfiledetails": [
+      {
+        "publishedfileid": "3821951835",
+        "result": 1,
+        "creator": "76561199404249776",
+        "creator_app_id": 730,
+        "consumer_app_id": 730,
+        "filename": "",
+        "file_size": "8216824",
+        "file_url": "",
+        "hcontent_file": "7097893244824011596",
+        "preview_url": "https://images.steamusercontent.com/ugc/12525909084518994864/A030FD78D89C642CC9FC05BA8920C41082F545E7/",
+        "hcontent_preview": "12525909084518994864",
+        "title": "Aluona Model",
+        "description": "A Custom player mod for community servers",
+        "time_created": 1792289940,
+        "time_updated": 1792293112,
+        "visibility": 0,
+        "banned": 0,
+        "ban_reason": "",
+        "subscriptions": 1,
+        "favorited": 0,
+        "lifetime_subscriptions": 1,
+        "lifetime_favorited": 0,
+        "views": 1,
+        "tags": [
+          {
+            "tag": "Cs2"
+          },
+          {
+            "tag": "Map"
+          }
+        ]
+      }
+    ]
+  }
+}

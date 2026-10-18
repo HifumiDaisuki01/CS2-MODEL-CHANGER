@@ -1,0 +1,32 @@
+{
+  "Models": {
+    "aluona": {
+      "name": "Aluona（阿洛娜）",
+      "path": "characters/models/aluona/aluona.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    }
+  },
+  "StorageType": "sqlite",
+  "ModelForBots": {
+    "T": [],
+    "CT": []
+  },
+  "ModelChangeCooldownSecond": 1,
+  "Inspection": {
+    "Enable": false,
+    "Mode": "rotation"
+  },
+  "BasicPermission": "",
+  "DisableDefaultModelLeg": false,
+  "DisableInstantChange": false,
+  "DisablePrecache": false,
+  "DisableRandomModel": true,
+  "DisableAutoCheck": false,
+  "DisablePlayerSelection": false,
+  "AutoResyncCache": false,
+  "ConfigVersion": 1
+}

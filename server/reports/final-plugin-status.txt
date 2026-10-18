@@ -1,0 +1,29 @@
+COMMAND: meta list
+Listing 3 plugins:
+  [01] CounterStrikeSharp (v1.0.376 @ 653d651) by Roflmuffin
+  [02] BotController (v0.7.2 @ Local) by XBribo(๑•.•๑)
+  [03] MultiAddonManager (v1.6.2-0-gd6b4f4b) by xen
+
+COMMAND: pmc_status
+PlayerModelChanger 1.8.6-aluona.1; configured=1; verifiedResources=1; storage=sqlite; commands=css_models,css_model; botModels=disabled; resourceError=none
+
+COMMAND: css_plugins list
+  List of all plugins currently loaded by CounterStrikeSharp: 11 plugins loaded.
+  [#1:LOADED]: "Advertisement" (v1.0.8-recompile) by thesamefabius
+  [#2:LOADED]: "CombatStats" (1.0.0) by Keran Technology Co., Ltd.
+    击杀数据统计：伤害/命中率/击杀耗时/ADR/KPM
+  [#3:LOADED]: "CS2-Tags" (1.0.4c) by daffyy
+    Add player tags easily in cs2 game
+  [#4:LOADED]: "KnifeGuard" (1.2.0) by Shiyan Ops
+    玩家复活或刷新皮肤后若缺刀/缺手枪，补发对应阵营默认武器
+  [#5:LOADED]: "MenuManager [Core]" (1.4.1) by Nick Fox
+    All menus interacts in one core
+  [#6:LOADED]: "PlayerSettings [Core]" (0.9.4) by Nick Fox
+    One storage for player's settings (aka ClientCookies)
+  [#7:LOADED]: "Welcome" (1.0.0) by Xenomoros
+  [#8:LOADED]: "WeaponPaints" (3.3a) by Nereziel & daffyy
+    Skin, gloves, agents and knife selector, standalone and web-based
+  [#9:LOADED]: "KeranStrat.BotControllerBridge" (0.1.0) by Keran Technology; native API by XBribo and contributors
+  [#10:LOADED]: "KeranStrat" (0.5.4) by Keran Technology
+    五队员原生动作录制、统一 Tick 回放与本地战术存储 (AGPL-3.0)
+  [#11:LOADED]: "Player Model Changer" (1.8.6-aluona.1) by samyyc

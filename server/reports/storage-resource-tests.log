@@ -1,0 +1,8 @@
+PASS SQLite T/CT selection survives a fresh storage instance
+PASS default selection persists independently for both teams
+PASS SQLite parameterization keeps model identifiers as data
+PASS only a hash-verified archive authorizes a model
+PASS modified or missing archives safely deny models
+PASS invalid model paths and malformed catalog safely deny models
+SQLite=3.53.4
+RESULT 6 checks passed

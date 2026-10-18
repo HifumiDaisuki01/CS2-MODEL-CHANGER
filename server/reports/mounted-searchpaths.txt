@@ -1,0 +1,40 @@
+COMMAND: mm_print_searchpaths
+---------------
+Path ID:             File Path:
+ADDONS               "/home/steam/cs2-ds/game/csgo_addons/"
+CONTENT              "/home/steam/cs2-ds/content/csgo/"
+CONTENT              "/home/steam/cs2-ds/content/core/"
+CONTENTADDONS        "/home/steam/cs2-ds/content/csgo_addons/"
+CONTENTROOT          "/home/steam/cs2-ds/content/"
+DEFAULT_WRITE_PATH   "/home/steam/cs2-ds/game/csgo/pak01.vpk" (vpk) /home/steam/cs2-ds/game/csgo/pak01.vpk
+DEFAULT_WRITE_PATH   "/home/steam/cs2-ds/game/csgo/"
+EXECUTABLE_PATH      "/home/steam/cs2-ds/game/bin/linuxsteamrt64/"
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/misc/terrorist_team_intro_variant2.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/misc/terrorist_team_intro_variant2.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/misc/counterterrorist_team_intro_variant2.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/misc/counterterrorist_team_intro_variant2.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/misc/terrorist_team_intro.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/misc/terrorist_team_intro.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/misc/counterterrorist_team_intro.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/misc/counterterrorist_team_intro.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/misc/end_of_match.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/misc/end_of_match.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/misc/team_select.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/misc/team_select.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/prefabs/de_dust2/de_dust2_skybox.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/prefabs/de_dust2/de_dust2_skybox.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/maps/de_dust2.vpk" (vpk) /home/steam/cs2-ds/game/csgo/maps/de_dust2.vpk
+GAME                 "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3821951835/3821951835.vpk" (vpk) /home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3821951835/3821951835.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/pak01.vpk" (vpk) /home/steam/cs2-ds/game/csgo/pak01.vpk
+GAME                 "/home/steam/cs2-ds/game/core/pak01.vpk" (vpk) /home/steam/cs2-ds/game/core/pak01.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/shaders_vulkan.vpk" (vpk) /home/steam/cs2-ds/game/csgo/shaders_vulkan.vpk
+GAME                 "/home/steam/cs2-ds/game/core/shaders_vulkan.vpk" (vpk) /home/steam/cs2-ds/game/core/shaders_vulkan.vpk
+GAME                 "/home/steam/cs2-ds/game/csgo/"
+GAME                 "/home/steam/cs2-ds/game/core/"
+GAMEBIN              "/home/steam/cs2-ds/game/csgo/bin/linuxsteamrt64/"
+GAMEBIN              "/home/steam/cs2-ds/game/csgo/bin/"
+GAMEBIN              "/home/steam/cs2-ds/game/core/bin/linuxsteamrt64/"
+GAMEBIN              "/home/steam/cs2-ds/game/core/bin/"
+GAMEROOT             "/home/steam/cs2-ds/game/"
+MOD                  "/home/steam/cs2-ds/game/csgo/pak01.vpk" (vpk) /home/steam/cs2-ds/game/csgo/pak01.vpk
+MOD                  "/home/steam/cs2-ds/game/csgo/"
+OFFICIAL_ADDONS      "/home/steam/cs2-ds/game/csgo_community_addons/"
+PLATFORM             "/home/steam/cs2-ds/game/core/pak01.vpk" (vpk) /home/steam/cs2-ds/game/core/pak01.vpk
+PLATFORM             "/home/steam/cs2-ds/game/core/"
+SHADER_SOURCE        "/home/steam/cs2-ds/src/shaders/csgo/"
+SHADER_SOURCE        "/home/steam/cs2-ds/src/shaders/core/"
+SHADER_SOURCE        "/home/steam/cs2-ds/src/shaders/csgo_community_addons/"
+SHADER_SOURCE_ROOT   "/home/steam/cs2-ds/src/shaders/"

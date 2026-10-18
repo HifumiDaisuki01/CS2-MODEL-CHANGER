@@ -1,0 +1,18 @@
+{
+  "TimeUtc": "2026-10-18T06:11:17.852581+00:00",
+  "Service": "active",
+  "ProtectedFiles": 488,
+  "ProtectedFilesUnchanged": false,
+  "ChangedProtectedFiles": [
+    "/home/steam/cs2-ds/game/csgo/addons/counterstrikesharp/plugins/KeranStrat/data/F99F33E2882AA01D4D306056/7694a598c488435aadc4ed7f43c5fd6e.ks"
+  ],
+  "InstalledPluginSHA256": "69413f68a22d86761e679dfa465c63f212aa33a69978c6884322fef7a625cd74",
+  "MatchesLatestBuildTransfer": true,
+  "UserConfirmedModelCommands": true,
+  "FreshClientAutoDownloadTested": false,
+  "HumanRespawnReconnectTested": false,
+  "CollisionHitboxDamageFullyTested": false,
+  "ProtectedCodeAndConfigurationUnchanged": true,
+  "ChangedTacticArchivesCount": 1,
+  "ArchiveChangeNote": "Current archive retained; no rollback or overwrite was performed. One archive changed during the interval of user activity."
+}

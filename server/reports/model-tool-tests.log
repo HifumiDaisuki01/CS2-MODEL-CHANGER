@@ -1,0 +1,13 @@
+test_corrupt_payload (test_tools.ModelToolsTests.test_corrupt_payload) ... ok
+test_inline_crc_and_preload (test_tools.ModelToolsTests.test_inline_crc_and_preload) ... ok
+test_merge_preserves_previous_models_and_no_live_writes (test_tools.ModelToolsTests.test_merge_preserves_previous_models_and_no_live_writes) ... ok
+test_missing_chunk (test_tools.ModelToolsTests.test_missing_chunk) ... ok
+test_output_cannot_overwrite_live_source (test_tools.ModelToolsTests.test_output_cannot_overwrite_live_source) ... ok
+test_reject_duplicate_mam_assignments (test_tools.ModelToolsTests.test_reject_duplicate_mam_assignments) ... ok
+test_reject_wrong_model_without_writing (test_tools.ModelToolsTests.test_reject_wrong_model_without_writing) ... ok
+test_split_archive (test_tools.ModelToolsTests.test_split_archive) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.006s
+
+OK

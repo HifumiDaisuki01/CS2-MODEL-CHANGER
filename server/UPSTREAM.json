@@ -1,0 +1,15 @@
+{
+  "PlayerModelChanger": {
+    "Repository": "https://github.com/samyycX/CS2-PlayerModelChanger",
+    "Commit": "8c5eb1668e0083392c85826b967d2156e7030ba3",
+    "OriginalVersion": "1.8.6",
+    "AdaptationVersion": "1.8.6-aluona.1",
+    "License": "GPL-3.0"
+  },
+  "MultiAddonManager": {
+    "Repository": "https://github.com/Source2ZE/MultiAddonManager",
+    "Release": "v1.6.2",
+    "Distribution": "official steamrt3",
+    "SHA256": "21176ec47b45b1c7b480ad17cd765ac2d9ab7f8626f9959b1c49b0f8a74a1412"
+  }
+}

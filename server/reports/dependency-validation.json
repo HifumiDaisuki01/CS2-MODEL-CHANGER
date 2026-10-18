@@ -1,0 +1,31 @@
+{
+  "ReferencedResources": 21,
+  "InWorkshop": [
+    "characters/models/aluona/aluona/face_vmorf.vtex_c",
+    "characters/models/aluona/materials/body.vmat_c",
+    "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+    "characters/models/aluona/materials/face.vmat_c",
+    "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+    "characters/models/aluona/materials/fuku.vmat_c",
+    "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+    "characters/models/aluona/materials/hair.vmat_c",
+    "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+    "characters/models/aluona/materials/morph.vmat_c",
+    "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+    "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+    "characters/models/aluona/materials/s.vmat_c"
+  ],
+  "FromOriginalGame": [
+    "animation/graphs/ui/uimodel.vnmgraph_c",
+    "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+    "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+    "animation/skeletons/characters/viewmodel.vnmskel_c",
+    "animation/skeletons/characters/worldmodel.vnmskel_c",
+    "materials/default/default_ao_tga_559f1ac6.vtex_c",
+    "materials/default/default_metal_tga_af1d7118.vtex_c",
+    "materials/default/default_normal_tga_7be61377.vtex_c"
+  ],
+  "Missing": [],
+  "AllReferencesResolved": true,
+  "AdditionalEvidence": "Both skeleton references confirmed by Source 2 Viewer RERL and original game VPK directory"
+}

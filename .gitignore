@@ -1,0 +1,9 @@
+
+# Server build outputs and private runtime state
+server/**/bin/
+server/**/obj/
+server/refs/
+**/__pycache__/
+*.db
+*.db-shm
+*.db-wal

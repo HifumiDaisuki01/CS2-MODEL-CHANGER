@@ -1,0 +1,185 @@
+{
+  "Vpk": "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3821951835/3821951835_dir.vpk",
+  "Version": 2,
+  "Entries": [
+    {
+      "Path": "sounds/vent_01.vsnd_c",
+      "Bytes": 124564,
+      "SHA256": "8faf876a21eac88e9819588fd5694d5a5f8af7bad66ce612b7697f80a1764a00",
+      "CRC32": "e59b8c10"
+    },
+    {
+      "Path": "sounds/interior_01.vsnd_c",
+      "Bytes": 149038,
+      "SHA256": "09e82324aea945fcb751f67bb6e7058ca205d009c1899ffa2990e618f0f13ceb",
+      "CRC32": "c9262631"
+    },
+    {
+      "Path": "sounds/bird_06.vsnd_c",
+      "Bytes": 21851,
+      "SHA256": "abac07b3aa68c820ccb9c7d34b651c7bd3c439aa7366e05df6a2f1b5560d6628",
+      "CRC32": "af03351f"
+    },
+    {
+      "Path": "sounds/bird_05.vsnd_c",
+      "Bytes": 19034,
+      "SHA256": "dd4d49e29045df9df7893859f9093ba2949f52f67cf0f59790b80554eeef6138",
+      "CRC32": "235d150d"
+    },
+    {
+      "Path": "sounds/bird_04.vsnd_c",
+      "Bytes": 18515,
+      "SHA256": "ff4ab8c589869b50234e545e47cfeff2f3685fc3ee38f143d2f86815052c7bd1",
+      "CRC32": "0c14c180"
+    },
+    {
+      "Path": "sounds/bird_03.vsnd_c",
+      "Bytes": 39885,
+      "SHA256": "80e3dc406bbfaa9e752e469e3a2537fd3453c0c6190e624f6afade1a3b5227f5",
+      "CRC32": "21646ef0"
+    },
+    {
+      "Path": "sounds/bird_02.vsnd_c",
+      "Bytes": 54063,
+      "SHA256": "c8a257f3c06879365ace2e6963f3634246d6f61eccac2259a500599620efd300",
+      "CRC32": "27e63346"
+    },
+    {
+      "Path": "sounds/bird_01.vsnd_c",
+      "Bytes": 66365,
+      "SHA256": "a42e4f6144cc16694889ef4b6499a30ce541ad62202439091f6e79a3e63c693c",
+      "CRC32": "c30f780e"
+    },
+    {
+      "Path": "soundevents/soundevents_addon.vsndevts_c",
+      "Bytes": 3780,
+      "SHA256": "46a84eece23d1822694ad2c8745c3e934790770f6a97c8b41b1d77f522b33cd2",
+      "CRC32": "242e4857"
+    },
+    {
+      "Path": "postprocess/keran_aluona.vpost_c",
+      "Bytes": 133491,
+      "SHA256": "e866667bd31429370182bfaf60c6f94e5e6fe5c9c0863714067075cfd0d727fc",
+      "CRC32": "bc3740fb"
+    },
+    {
+      "Path": "postprocess/basic_linear_post.vpost_c",
+      "Bytes": 133459,
+      "SHA256": "d3e2f9cf1218e347b1b7a20bcd815114f454826c151025874887f9f545ede2cf",
+      "CRC32": "278edb7f"
+    },
+    {
+      "Path": "characters/models/aluona/materials/s.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "4188ba6b82b3486189900c06f8fda58f9410fcb797e53725fc028c5b81207a67",
+      "CRC32": "294dbc25"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph.vmat_c",
+      "Bytes": 2991,
+      "SHA256": "4454f3f2da04aea5765240edda165770dc930d390deea72c2c16d7f2664f7a60",
+      "CRC32": "a8ad1f29"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "d908c8f8fcef0e9986fd9ef8e71556dcb99fa7abf3afacc55b705a2cfbb3df41",
+      "CRC32": "ed2ec099"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "e84d071033483dd68806157a47c15cc113b176e4f1bf6838228397ef52eb30d9",
+      "CRC32": "7fb5e597"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "7b946fdbf77ae179d9a2d5d8ebc16283f8f9b1cd1b33cd96fdab8181841cb40b",
+      "CRC32": "9ca49065"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "6d50bb635dfaa78de5439a0aa899ead1684a3982f90db02f1c2d2278f21f276e",
+      "CRC32": "84c0b853"
+    },
+    {
+      "Path": "characters/models/aluona/aluona.vmdl_c",
+      "Bytes": 2039332,
+      "SHA256": "18954d150f6bad965c6d7449ca21632f6e7fa1b0270033f7a54eb4f7a712363a",
+      "CRC32": "d206a802"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "21e05b1073cc9b3750b1c7e76cca57d0925edfae5e43f7ee5f447299c8806f23",
+      "CRC32": "ad9c1a4c"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "923777b5faba077e309e0d7c74adef3a0e41b07439de95fab99544e1ed8b8dab",
+      "CRC32": "b95be032"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "bcd27cdf7955f8b617a86a8090fc971c82e45937e3d6dd63d2082184ec474aba",
+      "CRC32": "dc0bc4f5"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+      "Bytes": 2798252,
+      "SHA256": "a84a6dc1966af62bf7cb65fdb0ad5ec82190c4ffdf03a16227d1417eea0c9e06",
+      "CRC32": "cd8816ca"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "3454703e07f7077b77e5a717cc3242ca2fea0d4a08afb5731fdcc0590e51c473",
+      "CRC32": "aaac60be"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "45a057ec03514b44925ce2be8b95879afcb0e29dbb6a63d32d19147528ac000c",
+      "CRC32": "6f3cb407"
+    },
+    {
+      "Path": "characters/models/aluona/aluona/face_vmorf.vtex_c",
+      "Bytes": 135976,
+      "SHA256": "3969929d77f551e23f2cb5d914bf1417e9bf81fc5f158c75d1a19ceaa0fb7e64",
+      "CRC32": "97ffb753"
+    },
+    {
+      "Path": "cfg/maps/keran_aluona.cfg",
+      "Bytes": 30,
+      "SHA256": "cadc211369fdad9eaec95b1715ee089e7562b8908d9e475aa1979ae2bfe5f856",
+      "CRC32": "51abb2eb"
+    },
+    {
+      "Path": "maps/keran_aluona_retakes.txt",
+      "Bytes": 1160,
+      "SHA256": "35f23c4b6bd281cc4561255c7f1f17a728c8c0310255260df2f07f92b5d32fae",
+      "CRC32": "a3d066e3"
+    },
+    {
+      "Path": "maps/keran_aluona_cameras.txt",
+      "Bytes": 153,
+      "SHA256": "efeceafb0f91b56a03e2416778ed3b43d47d526d7b80e6112727a6d348ed353d",
+      "CRC32": "435171cf"
+    },
+    {
+      "Path": "addoninfo.txt",
+      "Bytes": 139,
+      "SHA256": "dc57f692857b31074b00792cfc0c7ad2cdd9dedd48c9ddedf283a229d9b8c34b",
+      "CRC32": "bc0663f5"
+    }
+  ],
+  "AllEntryCRCsValid": true,
+  "ArchiveSHA256": {
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3821951835/3821951835_dir.vpk": "a8c574674b8a2616ed7861ed29456455df75e1dbc22b46b7e47cb6fcb3bbb88f",
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3821951835/3821951835_000.vpk": "6dc6829771d7a9c9f077e98cfd067141108bd61e3740cf8ad1f7468f86984771"
+  }
+}

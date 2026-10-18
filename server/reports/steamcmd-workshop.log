@@ -1,0 +1,16 @@
+steamcmd.sh[111403]: Starting  /home/steam/Steam/linux32/steamcmd
+Redirecting stderr to '/home/steam/Steam/logs/stderr.txt'
+Logging directory: '/home/steam/Steam/logs'
+[  0%] Checking for available updates...
+[----] Verifying installation...
+UpdateUI: skip show logo
+Steam Console Client (c) Valve Corporation - version 1791918946
+-- type 'quit' to exit --
+Loading Steam API...[0mOK
+[0m
+Connecting anonymously to Steam Public...[0mOK
+[0mWaiting for client config...[0mOK
+[0mWaiting for user info...[0mOK
+[0mDownloading item 3821951835 ...[0m
+[0mSuccess. Downloaded item 3821951835 to "/home/steam/Steam/steamapps/workshop/content/730/3821951835" (8216824 bytes) [0mUnloading Steam API...[0mOK
+[0m
