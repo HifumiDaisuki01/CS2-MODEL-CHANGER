@@ -3,7 +3,7 @@
     "Id": "ag2_myers",
     "Path": "characters/models/exg/myers/myers.vmdl",
     "SourceConverted": true,
-    "Compiled": false,
+    "Compiled": true,
     "Mounted": false,
     "GameAnimationVerified": false,
     "StaticSourcePassed": true,
@@ -14,7 +14,7 @@
     "MissingCore": [],
     "ParentDifferences": {},
     "PelvisOrigin": [
-      -0.0,
+      0,
       42.824818,
       -2.853549
     ],
@@ -183,13 +183,18 @@
     "PelvisWorldPositionError": 2.6645352591003757e-15,
     "PelvisRotationMatrixError": 1.8369701987210297e-16,
     "State": "source_converted_static_pass_compile_required",
-    "UnresolvedBoneReferences": []
+    "UnresolvedBoneReferences": [],
+    "CompilerExitCode": 0,
+    "CompiledResourceParsed": true,
+    "CompiledCoreHierarchyValid": true,
+    "CompilationReport": "2026-10-18-local-compilation.md",
+    "CompiledAddon": "ks_ag2_repair_20261018_145133_943"
   },
   {
     "Id": "ag2_km_decade",
     "Path": "characters/models/exg/aquaz/km_decade/km_decade.vmdl",
     "SourceConverted": true,
-    "Compiled": false,
+    "Compiled": true,
     "Mounted": false,
     "GameAnimationVerified": false,
     "StaticSourcePassed": true,
@@ -200,7 +205,7 @@
     "MissingCore": [],
     "ParentDifferences": {},
     "PelvisOrigin": [
-      -0.0,
+      0,
       42.824818,
       -2.853549
     ],
@@ -511,13 +516,18 @@
     "PelvisWorldPositionError": 2.6645352591003757e-15,
     "PelvisRotationMatrixError": 1.8369701987210297e-16,
     "State": "source_converted_static_pass_compile_required",
-    "UnresolvedBoneReferences": []
+    "UnresolvedBoneReferences": [],
+    "CompilerExitCode": 0,
+    "CompiledResourceParsed": true,
+    "CompiledCoreHierarchyValid": true,
+    "CompilationReport": "2026-10-18-local-compilation.md",
+    "CompiledAddon": "ks_ag2_repair_20261018_145133_943"
   },
   {
     "Id": "ag2_dujiaoshou",
     "Path": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
     "SourceConverted": true,
-    "Compiled": false,
+    "Compiled": true,
     "Mounted": false,
     "GameAnimationVerified": false,
     "StaticSourcePassed": true,
@@ -528,7 +538,7 @@
     "MissingCore": [],
     "ParentDifferences": {},
     "PelvisOrigin": [
-      -0.0,
+      0,
       42.824818,
       -2.853549
     ],
@@ -715,6 +725,11 @@
     "PelvisWorldPositionError": 2.6645352591003757e-15,
     "PelvisRotationMatrixError": 1.8369701987210297e-16,
     "State": "source_converted_static_pass_compile_required",
-    "UnresolvedBoneReferences": []
+    "UnresolvedBoneReferences": [],
+    "CompilerExitCode": 0,
+    "CompiledResourceParsed": true,
+    "CompiledCoreHierarchyValid": true,
+    "CompilationReport": "2026-10-18-local-compilation.md",
+    "CompiledAddon": "ks_ag2_repair_20261018_145133_943"
   }
 ]
