@@ -1,0 +1,15 @@
+﻿{
+    "Captured":  "2026-10-18T09:14:51.1369397+08:00",
+    "Platform":  "Windows x64",
+    "CS2BuildId":  "25966348",
+    "Addon":  "cs2cm_aluona_localtest",
+    "OriginalResources":  14,
+    "BundledDependencyReferences":  14,
+    "StockDependencyResources":  8,
+    "SampleVPKSHA256":  "2dd2e9821515b213b071b47715cccf0c0137c2c018b96c28233f91e71a69a6df",
+    "OfficialGameinfoUnchanged":  true,
+    "ResourcecompilerPresent":  true,
+    "WorkshopLauncherPresent":  true,
+    "WorkshopPublished":  false,
+    "WorkshopId":  null
+}

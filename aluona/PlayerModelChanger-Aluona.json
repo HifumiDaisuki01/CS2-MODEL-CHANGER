@@ -1,0 +1,46 @@
+﻿{
+    "Models":  {
+                   "m0117":  {
+                                 "name":  "aluona",
+                                 "path":  "characters/models/aluona/aluona.vmdl",
+                                 "side":  "All",
+                                 "permissions":  [
+
+                                                 ],
+                                 "permissionsOr":  [
+
+                                                   ],
+                                 "disableleg":  false,
+                                 "hideinmenu":  false,
+                                 "fixedmeshgroups":  {
+
+                                                     },
+                                 "meshgroups":  {
+
+                                                }
+                             }
+               },
+    "StorageType":  "sqlite",
+    "ModelForBots":  {
+                         "T":  [
+                                   "m0117"
+                               ],
+                         "CT":  [
+                                    "m0117"
+                                ]
+                     },
+    "ModelChangeCooldownSecond":  3,
+    "Inspection":  {
+                       "Enable":  false,
+                       "Mode":  "rotation"
+                   },
+    "BasicPermission":  "",
+    "DisableDefaultModelLeg":  false,
+    "DisableInstantChange":  true,
+    "DisablePrecache":  false,
+    "DisableRandomModel":  false,
+    "DisableAutoCheck":  false,
+    "DisablePlayerSelection":  false,
+    "AutoResyncCache":  false,
+    "ConfigVersion":  1
+}

@@ -6,9 +6,9 @@
 
 1. 解压后运行 `Install-Local.ps1`：只安装到独立 addon 目录，已有相同文件会跳过；不同文件会拒绝覆盖。当前电脑已经部署好，可直接下一步。
 2. Steam 正常运行，关闭其他 CS2，双击 `Start-Aluona-Test.cmd`。
-3. 等 Dust2 完全进入可操作画面，加入 T 或 CT，瞄准附近地面。
-4. 游戏控制台执行 `exec aluona_precache.cfg`，让游戏继续运行至少 **6 秒**。
-5. 再执行 `exec aluona_apply.cfg`，关闭控制台查看第三人称。
+3. 保持启动窗口开启，等待地图加载。启动器会自动探测客户端就绪、创建预缓存实体、等待至少 6 秒，再应用人物模型。
+4. 启动窗口出现绿色 `AUTO_APPLY_CONFIRMED` 表示脚本已回读确认模型路径；仍需查看游戏画面确认外观。失败时请看 `logs/` 中本次日志。
+5. 无需手动执行两个 exec。若使用备用 `Start-Aluona-Test.manual.ps1`，才需要先执行 `exec aluona_precache.cfg`，等至少 6 秒后执行 `exec aluona_apply.cfg`。
 6. `firstperson` 查看手部，`thirdperson` 切回人物；`+duck` / `-duck` 查看蹲姿。需要重试可执行 `cs2cm_apply`。
 
 不要把两个 exec 连在同一帧；不要在加载画面执行。预缓存实体可暂留，退出游戏即清除。
@@ -30,6 +30,6 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\Start-Aluona-Test.ps1 -Gam
 
 本机客户端和 listen server 使用同一个本地 addon 读取资源。本包没有 Workshop ID，不会自行完成社区服资源分发，也不代表 Linux/CSS/KeranStrat 已测试。
 
-没有修改官方 VPK、官方 gameinfo 或原始模型包，没有公开发布 Workshop，没有连接远程服务器。本次调试游戏已由用户关闭；启动器不启用 VConsole 监听。
+没有修改官方 VPK、官方 gameinfo 或原始模型包，没有公开发布 Workshop，没有连接远程服务器。新版自动启动器启用测试用 VConsole 端口 29000，仅连接本机执行切换命令；监听随 CS2 退出。不要将该测试端口转发至公网。手动备用启动器不启用 VConsole。
 
 移除本次新建的 `game/csgo_addons/cs2cm_aluona_localtest` 和对应 content addon 目录即可撤销。不要删除官方 csgo 目录。

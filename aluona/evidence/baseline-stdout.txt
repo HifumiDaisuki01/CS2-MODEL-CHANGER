@@ -1,0 +1,726 @@
+Steam AppId(730), BreakpadId(2347771)
+InitSteamLogin: Initializing breakpad.
+Steam Universe is invalid, possibly asking before Steam was successfully initialized.
+ResetBreakpadAppId: Universe is 0 (k_EUniverseInvalid)
+ResetBreakpadAppId: Setting dedicated server app id: 2347773
+Visibility enabled.
+USRLOCAL path not found!
+Trying to set dxlevel (111) which is higher than the card can support (110)!
+---------------
+Path ID:             File Path:
+ADDONS               "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\" 
+CONTENT              "Z:\steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\" 
+CONTENT              "Z:\steam\steamapps\common\Counter-Strike Global Offensive\content\core\" 
+CONTENTADDONS        "Z:\steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\" 
+CONTENTROOT          "Z:\steam\steamapps\common\Counter-Strike Global Offensive\content\" 
+DEFAULT_WRITE_PATH   "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pak01.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pak01.vpk
+DEFAULT_WRITE_PATH   "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\" 
+EXECUTABLE_PATH      "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\" 
+EXECUTABLE_PATH      "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\bin\" 
+GAME                 "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pak01.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pak01.vpk
+GAME                 "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\pak01.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\pak01.vpk
+GAME                 "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\shaders_pc.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\shaders_pc.vpk
+GAME                 "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\shaders_pc.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\shaders_pc.vpk
+GAME                 "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\" 
+GAME                 "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\" 
+GAMEBIN              "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\bin\win64\" 
+GAMEBIN              "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\bin\" 
+GAMEBIN              "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\bin\win64\" 
+GAMEBIN              "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\bin\" 
+GAMEROOT             "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\" 
+MOD                  "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pak01.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pak01.vpk
+MOD                  "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\" 
+OFFICIAL_ADDONS      "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_community_addons\" 
+PLATFORM             "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\pak01.vpk" (vpk) Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\pak01.vpk
+PLATFORM             "Z:\steam\steamapps\common\Counter-Strike Global Offensive\game\core\" 
+SHADER_SOURCE        "Z:\steam\steamapps\common\Counter-Strike Global Offensive\src\shaders\csgo\" 
+SHADER_SOURCE        "Z:\steam\steamapps\common\Counter-Strike Global Offensive\src\shaders\core\" 
+SHADER_SOURCE        "Z:\steam\steamapps\common\Counter-Strike Global Offensive\src\shaders\csgo_community_addons\" 
+SHADER_SOURCE_MOD    "Z:\steam\steamapps\common\Counter-Strike Global Offensive\src\shaders\csgo\" 
+SHADER_SOURCE_ROOT   "Z:\steam\steamapps\common\Counter-Strike Global Offensive\src\shaders\" 
+command line arguments:
+-dedicated -insecure -ip 127.0.0.1 -port 27125 +sv_lan 1 +sv_hibernate_when_empty 0 +map de_dust2
+Network System Initialized
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/cooperative).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/coopmission).
+Event System loaded 94 events from file: vpk:Z:/steam/steamapps/common/Counter-Strike Global Offensive/game/core/pak01.vpk:resource/core.gameevents.
+Event System loaded 50 events from file: vpk:Z:/steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/pak01.vpk:resource/game.gameevents.
+Event System loaded 145 events from file: vpk:Z:/steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/pak01.vpk:./resource/mod.gameevents.
+CEntitySystem::BuildEntityNetworking (parallel build of server) took 39.139 msecs for 222 out of 308 classes
+[STARTUP] {9.674} server module init ok
+CHostStateMgr::QueueNewRequest( Idle (console), 1 )
+Source2Init OK
+HostStateRequest::Start(HSR_IDLE):  loop(console) id(1) addons() desc(Idle (console))
+SwitchToLoop console requested:  id [1] addons []
+Host activate: Idle (console)
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+Loading map "de_dust2"
+CHostStateMgr::QueueNewRequest( Loading (de_dust2), 2 )
+HostStateRequest::Start(HSR_GAME):  loop(levelload) id(2) addons() desc(Loading (de_dust2))
+SwitchToLoop levelload requested:  id [2] addons []
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+SV:  Level loading started for 'de_dust2'
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+SwitchToLoop game requested:  id [2] addons []
+SteamGameServer_Init()
+Steam Universe valid after having been requested when invalid.  Universe is now 1
+ResetBreakpadAppId: Universe is 1 (k_EUniversePublic)
+ResetBreakpadAppId: Setting dedicated server app id: 2347773
+SteamGameServer_Init() OK, logging on to Steam
+****************************************************
+*                                                  *
+*  No Steam account token was specified.           *
+*  Logging into anonymous game server account.     *
+*  Connections will be restricted to LAN only.     *
+*                                                  *
+*  To create a game server account go to           *
+*  http://steamcommunity.com/dev/managegameservers *
+*                                                  *
+****************************************************
+CNetworkSystem::InitGameServer: SteamGameServerNetworking() OK
+Initialized low level socket/threading support.
+Set SteamNetworkingSockets P2P_STUN_ServerList to '' as per SteamNetworkingSocketsSerialized
+CNetworkGameServerBase::SetServerState (ss_dead -> ss_waitingforgamesessionmanifest)
+SV:  maxplayers set to 64
+Created poll group for socket 'server'
+SDR RelayNetworkStatus:  avail=Attempting  config=Attempting  anyrelay=Not Attempted   (Attempt #1 to fetch config (only-if-cached) from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=730)
+AuthStatus (invalid):  Waiting  (Waiting for Steam login)
+Network socket 'server' opened on port 27125
+Initializing CSGO VScript Game System
+SV:  Executing server defaults
+SV:  Executing dedicated server config file
+[STARTUP] {16.319} created game rules
+GameTypes: could not find matching game mode value of "" in any game type.
+SV:  CGameRulesGameSystem::GameInit installed game rules
+CPlayerVoiceListener::GameInit()
+LoadResponseSystem scripts/talker/response_rules.vrr - Start
+CResponseSystem:  scripts/talker/response_rules.vrr (7681 rules, 811 criteria, and 7681 responses)
+LoadResponseSystem scripts/talker/response_rules.vrr - Finish
+Entry player was not found in surfaceproperties_footsteps.txt
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+execing server_default.cfg
+execing server.cfg
+execing gamemode_competitive.cfg
+exec: couldn't exec '{*}cfg/gamemode_competitive_server.cfg', unable to read file
+Unknown command 'mp_weapons_glow_on_ground'!
+Unknown command 'sv_gameinstructor_enable'!
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+SV:  Spawn Server: de_dust2
+CSource2Server::ApplyGameSettings game settings payload received:
+  ::ExecGameTypeCfg {
+    map {
+      mapname de_dust2
+    }
+    launchoptions {
+      levelname de_dust2
+      mode dedicated
+      loadmap int( 1 = 0x1 )
+      changelevel int( 0 = 0x0 )
+      map de_dust2
+      mapgroup 
+      requires_attr 
+      requires_attr_value int( -1 = 0xFFFFFFFF )
+      requires_attr_reward 
+      reward_drop_list int( -1 = 0xFFFFFFFF )
+      numSlots int( 10 = 0xA )
+      c_game_type int( 0 = 0x0 )
+      c_game_mode int( 1 = 0x1 )
+      default_game_type int( 0 = 0x0 )
+      default_game_mode int( 0 = 0x0 )
+      ct_arms models/weapons/ct_arms_idf.vmdl
+      t_arms models/weapons/t_arms.vmdl
+      ct_models {
+         ctm_idf
+         ctm_idf_variantB
+         ctm_idf_variantC
+         ctm_idf_variantD
+         ctm_idf_variantE
+      }
+      t_models {
+         tm_leet_variantA
+         tm_leet_variantB
+         tm_leet_variantC
+         tm_leet_variantD
+         tm_leet_variantE
+      }
+    }
+  }
+CNetworkGameServerBase::SetServerState (ss_waitingforgamesessionmanifest -> ss_loading)
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+C:\buildworker\csgo_rel_win64\build\src\rendersystem\texturebase.cpp(3731):ResourceHandleToData( maps/de_dust2/lightmaps/direct_light_shadows.vtex ) failed! Falling back to error texture!
+C:\buildworker\csgo_rel_win64\build\src\rendersystem\texturebase.cpp(3731):ResourceHandleToData( maps/de_dust2/lightmaps/irradiance.vtex ) failed! Falling back to error texture!
+C:\buildworker\csgo_rel_win64\build\src\rendersystem\texturebase.cpp(3731):ResourceHandleToData( maps/de_dust2/lightmaps/directional_irradiance.vtex ) failed! Falling back to error texture!
+CWorldRendererMgr::ServiceWorldRequests long frame: 15.559780ms
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+C:\buildworker\csgo_rel_win64\build\src\rendersystem\texturebase.cpp(3731):ResourceHandleToData( maps/prefabs/de_dust2/de_dust2_skybox/lightmaps/direct_light_shadows.vtex ) failed! Falling back to error texture!
+C:\buildworker\csgo_rel_win64\build\src\rendersystem\texturebase.cpp(3731):ResourceHandleToData( maps/prefabs/de_dust2/de_dust2_skybox/lightmaps/irradiance.vtex ) failed! Falling back to error texture!
+C:\buildworker\csgo_rel_win64\build\src\rendersystem\texturebase.cpp(3731):ResourceHandleToData( maps/prefabs/de_dust2/de_dust2_skybox/lightmaps/directional_irradiance.vtex ) failed! Falling back to error texture!
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+Failed loading resource "maps/prefabs/misc/terrorist_team_intro_variant2/world_visibility.vvis_c" (ERROR_FILEOPEN: File not found)
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CNetworkGameServerBase::SetServerState (ss_loading -> ss_active)
+SV:  IGameSystem::LoopActivateAllSystems {
+HO:  IGameSystem::LoopActivateAllSystems {
+HO:  } IGameSystem::LoopActivateAllSystems done
+SV:  } IGameSystem::LoopActivateAllSystems done
+Created physics for de_dust2
+CNavGenParams - Nav mesh requests project default generation parameters but actual parameters
+  used during construction differ from defaults. Please re-export the map.
+CNavGenParams - Nav mesh requests project default generation parameters but actual parameters
+  used during construction differ from defaults. Please re-export the map.
+CNavGenParams - Nav mesh requests project default generation parameters but actual parameters
+  used during construction differ from defaults. Please re-export the map.
+CNavGenParams - Nav mesh requests project default generation parameters but actual parameters
+  used during construction differ from defaults. Please re-export the map.
+SV:  64 player server started
+CSource2Server::GameServerSteamAPIActivated()
+ClientPutInServer create new player controller [Mae]
+CRecipientFilter::AddAllPlayers - no recipients for this message, but 1 player in process of connecting was not included.
+[Mae] cl_interp_ratio='', LerpTime=0
+"Mae<0><BOT><Unassigned>" ChangeTeam() CTMDBG , team 0, req team 2 willSwitch 0, 1.17 
+ClientPutInServer create new player controller [Sas]
+[Sas] cl_interp_ratio='', LerpTime=0
+"Sas<1><BOT><Unassigned>" ChangeTeam() CTMDBG , team 0, req team 3 willSwitch 0, 1.17 
+Host activate: Loading (de_dust2)
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+"Mae<0><BOT><TERRORIST>" OnPreResetRound => CTMDBG, team 2  will switch 0 1.19 
+"Sas<1><BOT><CT>" OnPreResetRound => CTMDBG, team 3  will switch 0 1.19 
+Using spawn points configuration 0x2EF7A0FF
+[Server] Unpacked damage data for 2 bomb sites (171394 values) on de_dust2.
+1.187500 Long frame (WarmupPeriod): 29.70ms elapsed, 29.47ms sim time, 1 ticks, 76..76.
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+Got SDR network config.  Loaded revision 1792003701 OK
+SDR RelayNetworkStatus:  avail=Not Attempted  config=OK  anyrelay=Not Attempted   (No need for SDR client network access)
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
+CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents
