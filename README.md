@@ -24,3 +24,8 @@ Linux 正式服部署版：**v0.2.0-linux**。阿洛娜已完成 Workshop 下载
 - [v0.1.0-alpha recovery release](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.1.0-alpha)
 
 Use the Release for all compiled model assets and the fixed automatic launcher. The historical ZIP under deliverables is the older manual-launch build.
+
+
+## 三人物 Workshop 资源包
+
+[MIKA（dujiaoshou）+ Myers + Aluona 发布包](server/workshop/three-models/README.md)：保留已验证的内部路径，单个 Workshop ID 分发三个人物。工具与检查报告在上述目录，资源二进制通过新 Release 提供，原 Release 和阿洛娜作品保留。
