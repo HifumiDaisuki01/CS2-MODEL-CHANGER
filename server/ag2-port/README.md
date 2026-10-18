@@ -1,3 +1,7 @@
+## 最新成品：v0.3.0-ag2
+
+三个人物已实际编译成功、通过官方 cs_script 本地应用与路径回读；用户明确手测确认均正常。[成品下载](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.3.0-ag2) · [完整经验](EXPERIENCE_AG2_CN.md) · [安装和自动测试源码](runtime/README.md)。下方此前未验证状态保留为历史记录，最新用户确认见 reports/user-manual-test-confirmation.json。用户未逐项列举全部武器和命中盒验收，不能扩写结论。
+
 # 三个旧人物模型的 AG2 转换
 
 > 2026-10-18 最新状态：三个模型均实际编译成功，退出码均为 0；详情见 [本机编译报告](reports/2026-10-18-local-compilation.md)。118 项材质贴图解析及 87 个嵌套引用检查通过，阿洛娜等原资源哈希未变。下方涉及“尚未编译”的内容为此前源码交付阶段记录，以最新报告为准；实际游戏动作全部未验证。

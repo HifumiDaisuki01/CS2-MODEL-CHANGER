@@ -1,3 +1,7 @@
+## 2026-10-19 AG2 编译成品补充
+
+三个模型已实际编译、通过官方脚本在本地加载，用户已手测确认正常。后续先读 [AG2 运行与交付经验](ag2-port/EXPERIENCE_AG2_CN.md)，复用预缓存驻留后官方 JS SetModel 的固定流程。[下载成品 Release](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.3.0-ag2)。
+
 # 人物模型集成经验与下一批模型流程
 
 ## 本次已经证实的事情

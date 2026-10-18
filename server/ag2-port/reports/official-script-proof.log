@@ -1,0 +1,10 @@
+[AG2TEST] playerCount=1
+[AG2TEST] id=dujiaoshou before=characters/models/exg/aquaz/km_decade/km_decade.vmdl after=characters/models/exg/dujiaoshou/dujiaoshou.vmdl
+[AG2TEST] current=characters/models/exg/dujiaoshou/dujiaoshou.vmdl alive=true crouched=false
+[AG2TEST] playerCount=1
+[AG2TEST] id=km_decade before=characters/models/exg/myers/myers.vmdl after=characters/models/exg/aquaz/km_decade/km_decade.vmdl
+[AG2TEST] current=characters/models/exg/aquaz/km_decade/km_decade.vmdl alive=true crouched=false
+[AG2TEST] current=characters/models/exg/myers/myers.vmdl alive=true crouched=false
+[AG2TEST] official cs_script loaded; precache props must remain alive
+[AG2TEST] playerCount=1
+[AG2TEST] id=myers before=agents/models/ctm_sas/ctm_sas.vmdl after=characters/models/exg/myers/myers.vmdl

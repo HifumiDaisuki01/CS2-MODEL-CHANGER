@@ -1,0 +1,16 @@
+{
+    "Models":  [
+                   "ag2_myers",
+                   "ag2_km_decade",
+                   "ag2_dujiaoshou"
+               ],
+    "Compiled":  true,
+    "OfficialScriptModelPathsConfirmed":  true,
+    "UserManualTestConfirmed":  true,
+    "UserStatement":  "经过我手动测试 都没问题",
+    "Date":  "2026-10-18",
+    "AllWeaponCombinations":  "Not separately enumerated",
+    "NetworkDistribution":  "Unverified",
+    "HitboxDamageEquivalence":  "Unverified",
+    "WorkshopPublished":  false
+}

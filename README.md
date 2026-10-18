@@ -1,3 +1,7 @@
+## 三个人物 AG2 编译成品
+
+Myers、KM Decade、Dujiaoshou 已实际编译并由用户手动测试确认正常。[下载 v0.3.0-ag2 成品](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.3.0-ag2) · [后续必读经验](server/ag2-port/EXPERIENCE_AG2_CN.md)。历史 Linux 和阿洛娜版本保留。
+
 # CS2 人物模型系统
 
 Linux 正式服部署版：**v0.2.0-linux**。阿洛娜已完成 Workshop 下载、Linux 挂载与真人指令换模验证。
