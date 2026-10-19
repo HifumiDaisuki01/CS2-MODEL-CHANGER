@@ -1,0 +1,25 @@
+﻿{
+    "RepairPerformedOn":  "Current Windows developer computer",
+    "OS":  "Microsoft Windows NT 10.0.20348.0",
+    "ToolSHA256":  "871ccd710608baeab80f9c3c09cbe8931b8ce46c2f6e1610d4d817fe0280a944",
+    "ValveCompilerUsed":  false,
+    "PositiveStructuredRepairs":  4,
+    "NegativeTests":  [
+                          {
+                              "Case":  "refuse-unrelated-model",
+                              "Passed":  true,
+                              "ExitCode":  1
+                          },
+                          {
+                              "Case":  "refuse-wrong-arm-reference",
+                              "Passed":  true,
+                              "ExitCode":  1
+                          },
+                          {
+                              "Case":  "refuse-existing-output",
+                              "Passed":  true,
+                              "ExitCode":  1
+                          }
+                      ],
+    "GameTested":  false
+}

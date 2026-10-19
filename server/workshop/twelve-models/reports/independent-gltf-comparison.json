@@ -1,0 +1,34 @@
+﻿[
+    {
+        "Model":  "10089",
+        "MeshSkeletonAnimationBinaryIdentical":  true,
+        "BeforeSHA256":  "6bfd771931cf8279037a43ab663d2207e156b20f4569f287c7503b509b81ef28",
+        "AfterSHA256":  "6bfd771931cf8279037a43ab663d2207e156b20f4569f287c7503b509b81ef28",
+        "GLTFReExportPassed":  true,
+        "GameTested":  false
+    },
+    {
+        "Model":  "chiffon_fox",
+        "MeshSkeletonAnimationBinaryIdentical":  true,
+        "BeforeSHA256":  "6687b30fd6bfc2af22e2498c63260252eac4eebd8fd9779d5190b5a10d274982",
+        "AfterSHA256":  "6687b30fd6bfc2af22e2498c63260252eac4eebd8fd9779d5190b5a10d274982",
+        "GLTFReExportPassed":  true,
+        "GameTested":  false
+    },
+    {
+        "Model":  "baizhouxin",
+        "MeshSkeletonAnimationBinaryIdentical":  true,
+        "BeforeSHA256":  "0a21aa4400019c0b83801f3ecafcfd97a2d26244ad69cef8d00cc1295904f6d1",
+        "AfterSHA256":  "0a21aa4400019c0b83801f3ecafcfd97a2d26244ad69cef8d00cc1295904f6d1",
+        "GLTFReExportPassed":  true,
+        "GameTested":  false
+    },
+    {
+        "Model":  "hihumi",
+        "MeshSkeletonAnimationBinaryIdentical":  true,
+        "BeforeSHA256":  "3af0dbc76f0d407f4319ead9c1e977e6e64a446f3eb4b75ab333feac27c0dc3f",
+        "AfterSHA256":  "3af0dbc76f0d407f4319ead9c1e977e6e64a446f3eb4b75ab333feac27c0dc3f",
+        "GLTFReExportPassed":  true,
+        "GameTested":  false
+    }
+]

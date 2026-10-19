@@ -1,14 +1,20 @@
+## 十二人物 Workshop Tools 包
+
+保留原五人物并更新 Myers，新增 Lime E、Chikari、Serina、白洲梓、日富美、鸣潮菲比和 Chiffon Fox，共 **12 人物**。四个过期外部手臂引用已在当前 Windows 结构化清理；625 资源及 12 个主模型静态检查通过。新增人物游戏验证待完成，正式服未修改。
+
+[上传说明、配置、修复源码和报告](server/workshop/twelve-models/README.md) · [v0.6.0-twelve-models](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.6.0-twelve-models)。第三方模型资源保留在本地交付包，不公开重新分发。
+
 ## Lime E 人物与第一人称手臂成品
 
 Lime E 已在 Windows 实际编译，结构/依赖和第一人称网格检查通过；用户进游戏手动确认手臂正常。[下载 v0.5.0-lime-e](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.5.0-lime-e) · [恢复与使用](server/lime-e-windows/README.md) · [手臂测试经验](server/lime-e-windows/EXPERIENCE_LIME_E_CN.md)。本包与此前五人物包中的 VRC Lime 不同，旧版本和现有 Workshop 保留。
 
 ## 五人物 Workshop 上传包 v1.1
 
-**Aluona、Myers（新版，含第一人称网格）、Pardofelis、VRC Lime、Huahuo（花火）**，不含 Dujiaoshou。
+**Aluona、Myers（新版，含第一人称网格）、Pardofelis、VRC Lime、Huohuo（藿藿）**，不含 Dujiaoshou。
 
 [上传说明、配置和静态检查报告](server/workshop/five-models/README.md) · [下载五合一 v0.4.1-workshop-five](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.4.1-workshop-five)
 
-v1.1 替换旧版 Myers，并按用户确认将角色显示名/指令更正为花火 / `huahuo`；底层 `honkai_starrail_huohuo` 路径保留。五个人物均检测到第一人称网格，尚待实际游戏验证。正式服务器未修改，旧包和旧 Release 保留。
+v1.1 替换旧版 Myers。后续纠正：该角色为藿藿，当前使用 `huohuo`；旧 Release 中的花火名称已过时。底层 `honkai_starrail_huohuo` 路径保留。五个人物均检测到第一人称网格，尚待实际游戏验证。正式服务器未修改，旧包和旧 Release 保留。
 
 ## 三个人物 AG2 编译成品
 

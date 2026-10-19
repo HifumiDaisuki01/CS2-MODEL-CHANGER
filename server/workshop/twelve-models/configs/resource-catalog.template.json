@@ -1,0 +1,18 @@
+{
+  "Archives": {},
+  "Models": [
+    "characters/exg/10089/10089.vmdl",
+    "characters/models/aluona/aluona.vmdl",
+    "characters/models/chiffon_fox/chiffon_fox.vmdl",
+    "characters/models/chikari/chikari.vmdl",
+    "characters/models/cs2ze/baizhouxin/baizhouxin.vmdl",
+    "characters/models/exg/chrisan/lime_e/lime_e.vmdl",
+    "characters/models/exg/hihumi/hihumi.vmdl",
+    "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
+    "characters/models/exg/myers/myers.vmdl",
+    "characters/models/exg/pardofelis/pardofelis.vmdl",
+    "characters/models/exg/serina/serina.vmdl",
+    "characters/models/exg/vrc_lime/vrc_lime.vmdl"
+  ],
+  "Note": "Regenerate archive paths/hashes from the actual Steam download when deploying. This template is not a live catalog."
+}

@@ -1,0 +1,112 @@
+{
+  "Models": {
+    "aluona": {
+      "name": "Aluona（阿洛娜）",
+      "path": "characters/models/aluona/aluona.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "myers": {
+      "name": "Myers（新版）",
+      "path": "characters/models/exg/myers/myers.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "pardofelis": {
+      "name": "Pardofelis（帕朵菲莉丝）",
+      "path": "characters/models/exg/pardofelis/pardofelis.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "vrc_lime": {
+      "name": "VRC Lime",
+      "path": "characters/models/exg/vrc_lime/vrc_lime.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "huohuo": {
+      "name": "Huohuo（藿藿）",
+      "path": "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "lime_e": {
+      "name": "Lime E",
+      "path": "characters/models/exg/chrisan/lime_e/lime_e.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "chikari": {
+      "name": "Chikari",
+      "path": "characters/models/chikari/chikari.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "serina": {
+      "name": "Serina",
+      "path": "characters/models/exg/serina/serina.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "baizhouzi": {
+      "name": "Baizhouzi（白洲梓）",
+      "path": "characters/models/cs2ze/baizhouxin/baizhouxin.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "hifumi": {
+      "name": "Hifumi（日富美）",
+      "path": "characters/models/exg/hihumi/hihumi.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "mingchao_feibi": {
+      "name": "鸣潮·菲比",
+      "path": "characters/exg/10089/10089.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "chiffon_fox": {
+      "name": "Chiffon Fox",
+      "path": "characters/models/chiffon_fox/chiffon_fox.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    }
+  }
+}
