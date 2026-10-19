@@ -1,0 +1,30 @@
+{
+  "ExpectedResources": 207,
+  "MatchedResources": 204,
+  "VPKEntries": 222,
+  "ExtraEntries": [
+    "addoninfo.txt",
+    "cfg/maps/keran_models_pack_5.cfg",
+    "maps/keran_models_pack_5_cameras.txt",
+    "maps/keran_models_pack_5_retakes.txt",
+    "postprocess/basic_linear_post.vpost_c",
+    "postprocess/keran_models_pack_5.vpost_c",
+    "soundevents/soundevents_addon.vsndevts_c",
+    "sounds/bird_01.vsnd_c",
+    "sounds/bird_02.vsnd_c",
+    "sounds/bird_03.vsnd_c",
+    "sounds/bird_04.vsnd_c",
+    "sounds/bird_05.vsnd_c",
+    "sounds/bird_06.vsnd_c",
+    "sounds/interior_01.vsnd_c",
+    "sounds/vent_01.vsnd_c"
+  ],
+  "NoDujiaoshou": true,
+  "ExpectedMyersSHA256": "f155aba7d3e9da2719ae2c43710e7be1d1c79a1dd716e62147e0cc603822c6c5",
+  "ActualMyersSHA256": "ec542ea2c9f48fe913ed104372970ecde0fa95c2eb61464109dae9b9d8630c0a",
+  "AllEntryCRCsValid": true,
+  "ApprovedOldMyersResources": 3,
+  "TotalValidatedResources": 207,
+  "UserApprovedOldMyers": true,
+  "MyersFirstPersonFixed": false
+}

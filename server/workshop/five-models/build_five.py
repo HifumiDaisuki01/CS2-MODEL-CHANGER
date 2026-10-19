@@ -18,7 +18,7 @@ MODELS={
  'myers':('Myers','characters/models/exg/myers/myers.vmdl',NEW),
  'pardofelis':('Pardofelis（帕朵菲莉丝）','characters/models/exg/pardofelis/pardofelis.vmdl',NEW),
  'vrc_lime':('VRC Lime','characters/models/exg/vrc_lime/vrc_lime.vmdl',NEW),
- 'huahuo':('Huahuo（花火）','characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl',NEW)}
+ 'huohuo':('Huohuo（藿藿）','characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl',NEW)}
 base=set((REPO/'server/tools/base-resources-confirmed.txt').read_text().splitlines())|set((B/'ag2-work/reports/base-resources-confirmed.txt').read_text().splitlines())
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def dump(p,x):p.write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')
@@ -54,16 +54,16 @@ for n in sorted(assets):
  assert not re.search(r'characters/models/shared/(animgraphs|animsets)/',t)
  gm=re.search(r'\bm_meshGroups\s*=\s*\[(.*?)\]',t,re.S);groups=re.findall(r'"([^"]+)"',gm[1]) if gm else [];m=re.search(r'\bm_refMeshGroupMasks\s*=\s*\[(.*?)\]',t,re.S);masks=[int(v) for v in re.findall(r'\d+',m[1])] if m else []
  fp=[i for i,g in enumerate(groups) if 'firstperson' in g];actual=any(mask&(1<<i) for i in fp for mask in masks)
- if id in ['pardofelis','vrc_lime','huahuo','myers']:assert actual,(id,'no first-person mesh')
+ if id in ['pardofelis','vrc_lime','huohuo','myers']:assert actual,(id,'no first-person mesh')
  bm=re.search(r'\bm_boneName\s*=\s*\[(.*?)\]',t,re.S);bones=re.findall(r'"([^"]+)"',bm[1]);assert all(n in bones for n in ['root_motion','pelvis','hand_L','hand_R','head_0'])
  modelreports.append({'Id':id,'Name':MODELS[id][0],'Path':n.removesuffix('_c'),'SHA256':assets[n],'Source':origin[n],'AG2BindingsVerified':True,'BoneCount':len(bones),'FirstPersonMeshMaskPresent':actual,'FirstPersonGroups':[groups[i] for i in fp],'GameTestedForThisPackage':False,'Note':'Static resource checks only; first-person animation requires client testing'})
 print('Parsed all',len(parsed),'compiled resources',flush=True)
-info='"AddonInfo"\n{\n "addonname" "keran_five_models"\n "addontitle" "Aluona, Myers, Pardofelis, Lime and Huahuo - CS2 Player Models"\n "addonversion" "1.1"\n "addonauthor" "HifumiDaisuki01"\n "addondescription" "Five player-model resources, not a playable map. No Dujiaoshou."\n}\n'
+info='"AddonInfo"\n{\n "addonname" "keran_five_models"\n "addontitle" "Aluona, Myers, Pardofelis, Lime and Huohuo - CS2 Player Models"\n "addonversion" "1.1"\n "addonauthor" "HifumiDaisuki01"\n "addondescription" "Five player-model resources, not a playable map. No Dujiaoshou."\n}\n'
 (RES/'addoninfo.txt').write_text(info);content=D/'addon/content/csgo_addons/keran_five_models';content.mkdir(parents=True,exist_ok=True);(content/'addoninfo.txt').write_text(info)
 config={'Models':{k:{'name':v[0],'path':v[1],'permissions':[],'permissionsOr':[],'side':'All','disableleg':False,'hideinmenu':False} for k,v in MODELS.items()}}
 dump(D/'configs/PlayerModelChanger.merge.json',config)
 dump(D/'configs/resource-catalog.template.json',{'Archives':{},'Models':sorted(v[1] for v in MODELS.values()),'Note':'Template only. After Workshop download regenerate archive paths/hashes from actual downloaded VPK. Do not overwrite live catalog with this template.'})
-report={'Models':modelreports,'ResourceCount':len(assets),'ResourceBytes':sum((RES/n).stat().st_size for n in assets),'RuntimeFiles':assets,'OriginalGameReferences':sorted(official),'DependencyGraph':edges,'MissingReferences':[],'PathConflicts':[],'CaseCollisions':[],'AllCompiledResourcesParsed':True,'SourceBytesPreserved':True,'ExistingAluonaHashPreserved':True,'MyersReplacedWithNewPack':True,'DujiaoshouIncluded':False,'WorkshopPublished':False,'WorkshopMounted':False,'ProductionServerChanged':False,'NewThreeClientAnimationsTested':False,'MyersFirstPersonMeshPresent':True,'MyersFirstPersonGameVerified':False,'CharacterNameConfirmedByUser':'Huahuo (Sparkle), original internal path kept','SourceMainCommit':subprocess.check_output(['git','rev-parse','HEAD'],cwd=REPO).decode().strip()}
+report={'Models':modelreports,'ResourceCount':len(assets),'ResourceBytes':sum((RES/n).stat().st_size for n in assets),'RuntimeFiles':assets,'OriginalGameReferences':sorted(official),'DependencyGraph':edges,'MissingReferences':[],'PathConflicts':[],'CaseCollisions':[],'AllCompiledResourcesParsed':True,'SourceBytesPreserved':True,'ExistingAluonaHashPreserved':True,'MyersReplacedWithNewPack':True,'DujiaoshouIncluded':False,'WorkshopPublished':False,'WorkshopMounted':False,'ProductionServerChanged':False,'NewThreeClientAnimationsTested':False,'MyersFirstPersonMeshPresent':True,'MyersFirstPersonGameVerified':False,'CharacterNameConfirmedByUser':'Huohuo (Honkai: Star Rail), original internal path kept','SourceMainCommit':subprocess.check_output(['git','rev-parse','HEAD'],cwd=REPO).decode().strip()}
 dump(REPORT/'resource-review.json',report)
 pack(RES,D/'workshop-upload');vp=inspect(D/'workshop-upload/pak01_dir.vpk');assert {e['Path'] for e in vp['Entries']}==set(assets)|{'addoninfo.txt'}
 for e in vp['Entries']:
@@ -73,14 +73,14 @@ r=subprocess.run([viewer,'-i',str(D/'workshop-upload/pak01_dir.vpk'),'--vpk_veri
 shutil.copy2(B/'mika-work/MIKA-dujiaoshou-Workshop/Verify-Package.ps1',D/'Verify-Package.ps1')
 readme='''# CS2 五人物 Workshop 上传包
 
-包含 **Aluona、Myers、Pardofelis、VRC Lime、Huahuo（花火）**。不含 Dujiaoshou/MIKA。
+包含 **Aluona、Myers、Pardofelis、VRC Lime、Huohuo（藿藿）**。不含 Dujiaoshou/MIKA。
 
 ## 直接上传
 
 1. 解压 ZIP，用之前的 GWSteam / Workshop 发布工具。
 2. 上传内容目录选择 **workshop-upload**，同时包含 **pak01_dir.vpk 与 pak01_000.vpk**；不能只上传索引。
 3. 新建作品或由你明确选择更新作品；保留旧作品作为回滚资源。本次没有操作 Steam。
-4. 标题可用：Aluona, Myers, Pardofelis, Lime and Huahuo - CS2 Player Models。
+4. 标题可用：Aluona, Myers, Pardofelis, Lime and Huohuo - CS2 Player Models。
 5. 发布并可下载后，把 **Workshop ID / 链接** 发回来，再备份并切换服务器。
 
 这是人物资源包，不是可玩地图；不要用 host_workshop_map 启动它。沿用此前阿洛娜资源包上传流程，无需重新编译。工程目录为 addon/game/csgo_addons/keran_five_models，配套 content 只含 addoninfo。优先直接上传已校验 VPK，避免 Workshop Tools 默认白名单漏收 characters。
@@ -93,11 +93,11 @@ readme='''# CS2 五人物 Workshop 上传包
 | Myers | !model myers | characters/models/exg/myers/myers.vmdl |
 | Pardofelis | !model pardofelis | characters/models/exg/pardofelis/pardofelis.vmdl |
 | VRC Lime | !model vrc_lime | characters/models/exg/vrc_lime/vrc_lime.vmdl |
-| 花火 | !model huahuo | characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl |
+| 藿藿 | !model huohuo | characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl |
 
-Pardofelis、VRC Lime、花火和 Myers 均来自桌面新版模型包；Aluona 逐字节保留现用成品。VRC Lime 与 lime_e 不同。
+Pardofelis、VRC Lime、藿藿和 Myers 均来自桌面新版模型包；Aluona 逐字节保留现用成品。VRC Lime 与 lime_e 不同。
 
-**v1.1 已将 Myers 换为新版包中的成品，包含实际第一人称网格，AG2 和依赖检查通过；手臂持枪/换弹效果待游戏验证。花火名称由用户确认，菜单/ID 改为 huahuo，内部 honkai_starrail_huohuo 路径保留，未修改二进制引用。**
+**v1.1 已将 Myers 换为新版包中的成品，包含实际第一人称网格，AG2 和依赖检查通过；手臂持枪/换弹效果待游戏验证。藿藿名称由用户确认，菜单/ID 改为 huohuo，内部 honkai_starrail_huohuo 路径保留，未修改二进制引用。**
 
 ## 真实验证范围
 
@@ -127,7 +127,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\\Verify-Package.ps1
 
 reports/ 保存资源依赖、哈希与 VPK 验证结果。发布后的客户端需逐个检查第三/第一人称、持枪/换弹、重生/重连、T/CT 及恢复默认。静态检查不代替这些测试。
 '''
-(D/'README.md').write_text(readme,encoding='utf-8-sig');(D/'上传说明.txt').write_text('GWSteam 上传内容目录：workshop-upload\n必须将 pak01_dir.vpk 与 pak01_000.vpk 一起上传。\n五人物：Aluona / Myers / Pardofelis / VRC Lime / 花火；不含 Dujiaoshou。\n发布后把新 Workshop ID 发回来，正式服务器目前未改。\nMyers 已换新版，具备第一人称网格，游戏手臂效果待验证。花火指令：!model huahuo。\n',encoding='utf-8-sig')
+(D/'README.md').write_text(readme,encoding='utf-8-sig');(D/'上传说明.txt').write_text('GWSteam 上传内容目录：workshop-upload\n必须将 pak01_dir.vpk 与 pak01_000.vpk 一起上传。\n五人物：Aluona / Myers / Pardofelis / VRC Lime / 藿藿；不含 Dujiaoshou。\n发布后把新 Workshop ID 发回来，正式服务器目前未改。\nMyers 已换新版，具备第一人称网格，游戏手臂效果待验证。藿藿指令：!model huohuo。\n',encoding='utf-8-sig')
 manifest=[sha(p)+'  '+p.relative_to(D).as_posix() for p in sorted(D.rglob('*')) if p.is_file() and p.name!='SHA256SUMS.txt'];(D/'SHA256SUMS.txt').write_text('\n'.join(manifest)+'\n')
 archive=W/'CS2-FiveModels-Workshop-v1.1.zip'
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,6) as z:

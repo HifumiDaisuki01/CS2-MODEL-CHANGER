@@ -1,0 +1,36 @@
+{
+  "SourceRelease": "v0.5.0-lime-e",
+  "ZipSHA256": "f75fb4a6efc5e055cadca8d56ea930f93dea4aa1f0f189b4899e572bb8b215f2",
+  "ZipManifestFilesVerified": 164,
+  "ModelSHA256": "981f1d46fa80ad004972d2e04276ed6fde80208993191d47a832d4bf67ca778d",
+  "CompiledResourcesIndependentlyParsed": 140,
+  "OriginalMaterialTextureFilesUnchanged": 139,
+  "MissingDependencies": [],
+  "OfficialDependencies": [
+    "animation/graphs/ui/uimodel.vnmgraph_c",
+    "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+    "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+    "animation/skeletons/characters/viewmodel.vnmskel_c",
+    "animation/skeletons/characters/worldmodel.vnmskel_c"
+  ],
+  "LegacyReferencesRemain": false,
+  "ModelBoneCount": 241,
+  "Core24HierarchyPassed": true,
+  "FingerBones": 38,
+  "RenderMeshes": 19,
+  "FirstPersonMeshIndices": [
+    18
+  ],
+  "FirstPersonMeshMasks": [
+    2
+  ],
+  "FirstPersonLODVerified": true,
+  "ThirdPersonLODVerified": true,
+  "WindowsCompilerExitCodeReported": 0,
+  "UserArmsConfirmationInRelease": true,
+  "ThisReviewGameTested": false,
+  "LinuxMountedByThisReview": false,
+  "AddedToWorkshopByThisReview": false,
+  "StaticReviewPassed": true,
+  "CompiledMeshGroupChoices": 27
+}

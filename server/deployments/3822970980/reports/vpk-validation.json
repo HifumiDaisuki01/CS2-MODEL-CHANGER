@@ -1,0 +1,1343 @@
+{
+  "Vpk": "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822970980/3822970980_dir.vpk",
+  "Version": 2,
+  "Entries": [
+    {
+      "Path": "sounds/vent_01.vsnd_c",
+      "Bytes": 124564,
+      "SHA256": "58ceb0c829c26eae0c81aafa4e88c7c79e0072e25ff70c9b60a8652173b7c519",
+      "CRC32": "d888f6d8"
+    },
+    {
+      "Path": "sounds/interior_01.vsnd_c",
+      "Bytes": 149054,
+      "SHA256": "df93c97e9fd5b516ea37a42fc09111aa7fee15cdb14c6f64c5a61b579e5956fe",
+      "CRC32": "39b7627a"
+    },
+    {
+      "Path": "sounds/bird_06.vsnd_c",
+      "Bytes": 21851,
+      "SHA256": "6fcb857a10200262892bc2392bcf7e647812de00ba898924ec4fe0b099b02ee7",
+      "CRC32": "8d500bf0"
+    },
+    {
+      "Path": "sounds/bird_05.vsnd_c",
+      "Bytes": 19034,
+      "SHA256": "bd5acacddc224c95e328dca786e1bc9b043a7d9b976e63186b6106ca316b827d",
+      "CRC32": "e287f35c"
+    },
+    {
+      "Path": "sounds/bird_04.vsnd_c",
+      "Bytes": 18515,
+      "SHA256": "6be5acee2f59cd4b5e7dd74023d39a151ee0b9ed08d182c668c89566bdbf2187",
+      "CRC32": "362c3540"
+    },
+    {
+      "Path": "sounds/bird_03.vsnd_c",
+      "Bytes": 39885,
+      "SHA256": "4f92e40d8b2cfce91c7ae861a015ea84f936552e3f2df0b36306a244b7e5ea3d",
+      "CRC32": "de17264b"
+    },
+    {
+      "Path": "sounds/bird_02.vsnd_c",
+      "Bytes": 54063,
+      "SHA256": "9dbc8e2d2e550481a45a9e1c98550d4b683765bf6d6f60427f3aff0112ca8570",
+      "CRC32": "947edf7a"
+    },
+    {
+      "Path": "sounds/bird_01.vsnd_c",
+      "Bytes": 66365,
+      "SHA256": "111eba968a4486b3a8ecef01e6abb2e3fbcac45ce91fab813a8465dc40ed8c30",
+      "CRC32": "e37570b3"
+    },
+    {
+      "Path": "soundevents/soundevents_addon.vsndevts_c",
+      "Bytes": 3796,
+      "SHA256": "a574868224d93d10f9f8e28453267c3e606d99a1870953a862b14d697e2d8f5a",
+      "CRC32": "3f011980"
+    },
+    {
+      "Path": "postprocess/keran_models_pack_5.vpost_c",
+      "Bytes": 133507,
+      "SHA256": "d8b854e2edc3374a93e78dc337117ab717a631c4c7859e9e0ddf794f4fda86f8",
+      "CRC32": "f68b4c09"
+    },
+    {
+      "Path": "postprocess/basic_linear_post.vpost_c",
+      "Bytes": 133475,
+      "SHA256": "2fb0ea3a76c7ff30ce4d77a44dd481e416b92d238d286c8188812da73e65f515",
+      "CRC32": "2f31d484"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white.vmat_c",
+      "Bytes": 3999,
+      "SHA256": "f566e8cb361e1685e9086f8b7a86b52e33059df70c718584455f7ef3daaac947",
+      "CRC32": "c3df0955"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/underwear.vmat_c",
+      "Bytes": 4079,
+      "SHA256": "16dc790891ab5f99a329f3438155cf8c59601a476790bcf66cc1c4e330a2b8cb",
+      "CRC32": "1e2ad35e"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail.vmat_c",
+      "Bytes": 3983,
+      "SHA256": "32064b09f416c93c0da3305cccc8fe744acaf199a3f9c3ee2f24258598525ffe",
+      "CRC32": "c0720ff2"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ring.vmat_c",
+      "Bytes": 4032,
+      "SHA256": "7f1f6d5e3a587673298c4e5adc4374100eba33c0ba28f19afda12e7a63f43f8d",
+      "CRC32": "e34a84cf"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/nail.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "acf26428268c8da68d1817be21272a3d5cc193ff889136319c3730ba51aea0cf",
+      "CRC32": "57a342a9"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/highlight.vmat_c",
+      "Bytes": 4189,
+      "SHA256": "b23629f0774ff7461d718b043d46bb49262e3fed1c594851d18b7610ceef367f",
+      "CRC32": "5e443ccb"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair.vmat_c",
+      "Bytes": 3999,
+      "SHA256": "139ff30a6aa8ac6f34daed2b532232c544d7d1d1e91d66fd356c7b9739d18158",
+      "CRC32": "8ec0512d"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/face.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "69aa9e3c6c414244e67613f7ccb917a6d8826632e3a67a62805147c1487e7942",
+      "CRC32": "4b03f15b"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/eyes.vmat_c",
+      "Bytes": 4221,
+      "SHA256": "3d92b4a18221c2bfcf455e0bf9f4e2c62290ee15bb8441a795e50f042cf89e8f",
+      "CRC32": "55290cf5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ear.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "a16689c99dbe6ccd1df9574bede64bff570c03876a83a0fa137e4c7ae062ec38",
+      "CRC32": "ce05afb9"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c3.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "610b3942d3f0985f3cb41ff3c28fc40e0ace0408aebc38dbaf4fc10e0c1a58d0",
+      "CRC32": "e84cc53a"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c2.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "ab8db3bcf99e12389ff0f7adb0d85baa4edb7d5590a9ddb425609f1577bb56a9",
+      "CRC32": "17af5af8"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_c.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "646b2c6f13dd20d383a4763c59fb1a9a9f11449983b05384f3861e48f0cc0499",
+      "CRC32": "fcfb8b2f"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_b.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "fd7a7c47b17c63ee394bf0146f865b1c88b26bbf704b4051271f5fb44df8ce72",
+      "CRC32": "063a091d"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_a.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "0a6334de434f9cec5bc84fc134f0dd066bfef26b9c6fbba34e8cebee4f56f2bb",
+      "CRC32": "59daaf67"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/body.vmat_c",
+      "Bytes": 4063,
+      "SHA256": "5d9bd8ffc40e8a874f527e2c23970f24bd424182d47df84f827a60a2688e20f0",
+      "CRC32": "c22e89af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black.vmat_c",
+      "Bytes": 3999,
+      "SHA256": "3703fb930ccfdfedc8ead7ce63a72feb478e1bcbcefb6d71c2be4b611258e96b",
+      "CRC32": "da15713b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi2.vmat_c",
+      "Bytes": 4102,
+      "SHA256": "e7bbfb79a7fadd2da48e6a0903f768dfa59d2210586505a48fbaacd7b9ca56e4",
+      "CRC32": "fedf4087"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi1.vmat_c",
+      "Bytes": 4102,
+      "SHA256": "165a6658c9f054bb35edc1bbe7d8dc7f7b1953f0394f67717d28ffd498c55168",
+      "CRC32": "00ffc68a"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu2.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "22dcd3aeb1845ea94f21e470e675167f75edea704ed16d8f81eaf479abf1b017",
+      "CRC32": "553d496a"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu1.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "f17a6ba1bdf2fbb0cbe7b5f3d32e4d27b4bf0a46b62a383bfdd522c70971f31a",
+      "CRC32": "cb36183d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanr.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "0caff36e39df6a420f4e7f162e003f023e969c5f8affc005a1df7bde8e9c0b2a",
+      "CRC32": "db5e4ea4"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl2.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "2422cb2bf6426e7be284f81acea303248622219665e7187962a7b312526f4b30",
+      "CRC32": "88a93182"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl1.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "e077f9a4599740b21b3ff9378e4b65c63cf44fd4771ffa728d8321f54444f747",
+      "CRC32": "9ab1b90b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair2.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "3116342d097d17d0b5fe44704f472164e5ece34882079ca4ba6ef786fb38f2da",
+      "CRC32": "2c5abf1a"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair1.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "3835ee0b416929a2d36942bba9ff4ece91f619bdd4ac284c90895ad7200546b3",
+      "CRC32": "7c7369cb"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1.vmat_c",
+      "Bytes": 4231,
+      "SHA256": "24eb88db54a5f9832d3713524c683fa05572de1d5112217cd2d6ca0bbc1255f8",
+      "CRC32": "064a1ab9"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem.vmat_c",
+      "Bytes": 4247,
+      "SHA256": "5af3a21a6f95b7f2972cabfb652b6b191fb99fe780340fa8ebf5da41edb6ab4f",
+      "CRC32": "db8db2d8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/face.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "d5d13c05be523097a6b6e304003e07e7af23fa2367d010e14d4af525369951f0",
+      "CRC32": "105fd5d1"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyer.vmat_c",
+      "Bytes": 3958,
+      "SHA256": "d6f594df7fe523d41272c5273b0764013b1c656cbc147d6015b41bcc44c73970",
+      "CRC32": "875e5f9b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyel.vmat_c",
+      "Bytes": 3958,
+      "SHA256": "444d9673e4645b8d86e1621c4074a71129f3c5e8c4c2a01f6bbddc7ac48e9b3c",
+      "CRC32": "8c70c62f"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat1.vmat_c",
+      "Bytes": 4070,
+      "SHA256": "88eba87f58aefa826becb77d5d7d3f2bd27a01d7fb833e3bdb475655c0039e06",
+      "CRC32": "384c2a68"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "18a9a7fb6ac0c73f6d438d3236dbfd2216994ae4c58019dab7d34b4a21c77572",
+      "CRC32": "14d2cdc7"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/head.vmat_c",
+      "Bytes": 3984,
+      "SHA256": "78b778920c7f31c3b2846de207e22c4328e57312ddf8392afb702cb888d2d67d",
+      "CRC32": "dca6ca80"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "fba22cbe1a22cb0f3d71f4487b03ebfd5f19dc5b737dff650205c0cd45a48a3a",
+      "CRC32": "f4382bf0"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball.vmat_c",
+      "Bytes": 4048,
+      "SHA256": "f243214e894df496c8d9bfc64dbc3bb03999c9dd22b87ef5dec70f7f05c3a856",
+      "CRC32": "48d6dff9"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife.vmat_c",
+      "Bytes": 4016,
+      "SHA256": "94d61779496cd71a9d294b694135044f4ebb06e10318eb7b99f3bafd6dfb0cb7",
+      "CRC32": "07ca1bc1"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/body.vmat_c",
+      "Bytes": 3984,
+      "SHA256": "d442764ab910c5d8639701b8b3a77e4fcb47c4dac7859b5e8df52a980cddbebc",
+      "CRC32": "6cce0deb"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/outline.vmat_c",
+      "Bytes": 3670,
+      "SHA256": "cb0815b89d7287eacc042848fe9ede63a94ac485d146021f4ca4f080fc425582",
+      "CRC32": "649c1efc"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_tail_flame.vmat_c",
+      "Bytes": 3577,
+      "SHA256": "0ae61a328bac13cc9ac2b474542f6ca37ac82c13d7d2b45986d0630ff2ece636",
+      "CRC32": "e6c46cdb"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_hair.vmat_c",
+      "Bytes": 3894,
+      "SHA256": "262189db2c3a547eec4b5c5d45b7128c1eb012bd12a7080e9cb72a26ba22f7a3",
+      "CRC32": "eb2ece2b"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_face.vmat_c",
+      "Bytes": 3894,
+      "SHA256": "c8e5791021420f2d2bd03fcc7a6a0502ed4208ffe17dfc9776a9b13d4dce31e9",
+      "CRC32": "5d6111cf"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eye_trans.vmat_c",
+      "Bytes": 4022,
+      "SHA256": "7ddb0e1805310c2c77ff08e3362866c4cfbb73565834dbd3531a6a6d2f8df68c",
+      "CRC32": "65953761"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eyes.vmat_c",
+      "Bytes": 4022,
+      "SHA256": "03fdf5bc37d2f97539f3607bfa2e627b2605267d16f0ca1450766a020f58bdb7",
+      "CRC32": "978903a7"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_tp.vmat_c",
+      "Bytes": 3734,
+      "SHA256": "d62bb43e282db811d7f666aad63abb0fad85a050047c8a32acb7e40d74d4c14b",
+      "CRC32": "b854374b"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_selfillum.vmat_c",
+      "Bytes": 4070,
+      "SHA256": "ededc102eb0de5bbae26e2a0c10994c26be6c1f8018cdb00c8afba1dc566c8f7",
+      "CRC32": "504dc8dd"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth.vmat_c",
+      "Bytes": 3910,
+      "SHA256": "72169dbabe71400dd3e2bdbd1340cf1def44e297d1d8b5f9858f5b3b44b8a0b7",
+      "CRC32": "82ecc6bd"
+    },
+    {
+      "Path": "characters/models/aluona/materials/s.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "4188ba6b82b3486189900c06f8fda58f9410fcb797e53725fc028c5b81207a67",
+      "CRC32": "294dbc25"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph.vmat_c",
+      "Bytes": 2991,
+      "SHA256": "4454f3f2da04aea5765240edda165770dc930d390deea72c2c16d7f2664f7a60",
+      "CRC32": "a8ad1f29"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "d908c8f8fcef0e9986fd9ef8e71556dcb99fa7abf3afacc55b705a2cfbb3df41",
+      "CRC32": "ed2ec099"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "e84d071033483dd68806157a47c15cc113b176e4f1bf6838228397ef52eb30d9",
+      "CRC32": "7fb5e597"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "7b946fdbf77ae179d9a2d5d8ebc16283f8f9b1cd1b33cd96fdab8181841cb40b",
+      "CRC32": "9ca49065"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "6d50bb635dfaa78de5439a0aa899ead1684a3982f90db02f1c2d2278f21f276e",
+      "CRC32": "84c0b853"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vrc_lime.vmdl_c",
+      "Bytes": 2282244,
+      "SHA256": "b7fba838b47a6ef6457b322cbcb4d94bead659664e3275a33fb105dd51a08a8f",
+      "CRC32": "8a5fe94e"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/pardofelis.vmdl_c",
+      "Bytes": 2855382,
+      "SHA256": "8a4bb392bef164629db3c3f9259dc578213ac2c6a91fd66e18d5810c15eeef1c",
+      "CRC32": "68bf9ab1"
+    },
+    {
+      "Path": "characters/models/exg/myers/myers.vmdl_c",
+      "Bytes": 466497,
+      "SHA256": "ec542ea2c9f48fe913ed104372970ecde0fa95c2eb61464109dae9b9d8630c0a",
+      "CRC32": "c07711cb"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl_c",
+      "Bytes": 1661583,
+      "SHA256": "c8165dc8f38c2a3cb5e5e84fd97a8e7b5f0d0f53148f9dd36b4ffdd863a360ca",
+      "CRC32": "7b8b45a7"
+    },
+    {
+      "Path": "characters/models/aluona/aluona.vmdl_c",
+      "Bytes": 2039332,
+      "SHA256": "18954d150f6bad965c6d7449ca21632f6e7fa1b0270033f7a54eb4f7a712363a",
+      "CRC32": "d206a802"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vrc_lime/face_vmorf.vtex_c",
+      "Bytes": 42872,
+      "SHA256": "8365dfb287407472ce93cb9132a8f475508c43484193811140496b9f80f6c815",
+      "CRC32": "736f4a18"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white_vmat_g_tnormal_98e25b41.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "5cfd2e4783ae10e0f843106c29f617e52a8bbbb4e4ebafe73f0d93aa7c16c267",
+      "CRC32": "97cab2cb"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/underwear_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/underwear_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tnormal_d52512a9.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "7d161a2cc26ea3c9e7a1d8677332defbecd89ecdbf333f2d821a3c2d280463ec",
+      "CRC32": "65230f22"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "46f4f14ce04b8c2f2666b801cf8d9871ef4a903977507179262032ace399c98c",
+      "CRC32": "fbd446d5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ring_vmat_g_tnormal_f4bfd49a.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "675af72bea7bfc6d91bb0d4ab06b44d6645c3e61dc3ef9323708dd9cf97debbf",
+      "CRC32": "8ef17c47"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ring_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/nail_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/nail_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/highlight_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/highlight_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "46f4f14ce04b8c2f2666b801cf8d9871ef4a903977507179262032ace399c98c",
+      "CRC32": "fbd446d5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/face_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/face_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/eyes_vmat_g_tselfillummask_38bac7b9.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "4ac0928d2d6bd28cd4bc55dc3b4ea474c28876c531edce142ec15b179d8755af",
+      "CRC32": "6bb07562"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/eyes_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ear_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ear_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c3_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c3_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c2_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c2_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_c_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_c_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_b_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_b_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_a_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_a_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black_vmat_g_tnormal_98e25b41.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "5cfd2e4783ae10e0f843106c29f617e52a8bbbb4e4ebafe73f0d93aa7c16c267",
+      "CRC32": "97cab2cb"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black_vmat_g_tmetalness_743cf219.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "837e2fb53698d64eaa45bd40cc390c5f13bc610cc503edd80e34e50785bc7f2c",
+      "CRC32": "3614ec64"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black_vmat_g_tcolor_849f3641.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "95667fa0e5edeb9bd01609477b163f203fbad1671c6ce4d5c961164961d0daa1",
+      "CRC32": "79ab7fbd"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/underwear_png_dcf7adfb.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "2fa317fff70f1833dcd206c821d067d7188757ffe91079112b6ccfdc70c2ba55",
+      "CRC32": "0626b232"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/ring_png_5f37d736.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "59a7ba1866839f5c8c8ad3bcf1dbbcf77ffc2dfc9eb0272169d8abfcd84386d4",
+      "CRC32": "12a754cf"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/nail_png_b3572242.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "143d5a08dccf846e9cf4a4aa97759074ad8496b97df34c8d0aa0027b0a90e162",
+      "CRC32": "3e43e2c4"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/highlight_png_cd6179ed.vtex_c",
+      "Bytes": 13020,
+      "SHA256": "0fd6953361cda609d06b20c280887f7ae31104a8f684a1d7b7c418ce4ec6962f",
+      "CRC32": "9ae8feaa"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/hair_png_7cbd9325.vtex_c",
+      "Bytes": 351700,
+      "SHA256": "1e7f7f06f0dece640fd30e848c93edbbe73029b64ddda5f5bba3c65517aa0dad",
+      "CRC32": "8177d89c"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/face_jpg_5f5c36bb.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "e758772ace04b12acbb9c20f3b3b5f5dc54beb9fc2aca22b6fb7ef95187850aa",
+      "CRC32": "d234d0e3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/eyes_png_725c5b98.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "5f532dfcfce439f51716ca17dc0baa7497c7ed472a9a97688e27422a26373212",
+      "CRC32": "c5a78020"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/ear_png_9c8ca03.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "b274512ae5da8b9ceee46bcb253aa3642d55e8edd889826d6b27c6bb13b5f605",
+      "CRC32": "1a7b35f4"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c3_png_b8498e8.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "59547039e286eb40a02a7c1eefa069001e1e6e14939abf526d7f2449588b1e20",
+      "CRC32": "92c2e5ed"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c2_png_df58701b.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "52457d0b6e43ae1131201fa6dff4577a5bd3c82f9c72319410ecd13288b147e5",
+      "CRC32": "25eede8a"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c1_c_png_9dbda543.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "1d37c863014068ecbad000ccc43a1c14438ae54093cfe0b3ab72b35f7ebb10db",
+      "CRC32": "62d3d063"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c1_b_png_468bcdcb.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "67d0a0a908ee044afaf89a6e6651ffe9d3b1b67ce40827319cf5cb7539604e2d",
+      "CRC32": "7961cf31"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c1_a_png_bff0b260.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "716b15580e25f66d0a9c5db9b21e49dfed1fa1d8de6738306de2b3b0a7715d3b",
+      "CRC32": "d7c0df43"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yishi2_png_23666783.vtex_c",
+      "Bytes": 351668,
+      "SHA256": "a76b627803508a227d62e2e2cfa1e2bc6b363e6476b08696f6051d6885036dbe",
+      "CRC32": "fb8c9b85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yishi1_png_cce60963.vtex_c",
+      "Bytes": 351668,
+      "SHA256": "d250494b4dca2d12b958dbb1e39f2f487babd797f34d5d220e5ecda90e6c983c",
+      "CRC32": "106bdb22"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yifu2_png_3c83e7ad.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "85c76648acbb4b84798f13b50f6e621144f70607882d2a1ac15d8955d2a50432",
+      "CRC32": "5658001d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yifu1_png_7085db40.vtex_c",
+      "Bytes": 351572,
+      "SHA256": "d2f352ab47530717a91d2d58c2bdc4211b39a3e6a3039290fe3bbbfe4b22b6a4",
+      "CRC32": "4cd5619f"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/tkypi_png_45a64db6.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "c5d7df77390142ca2e5b3e7a8d6fcdf4f4e2ee6548d4cf45c4c5bb9fcb366ef4",
+      "CRC32": "6295164b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/shouhuanr_png_37bdce51.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "522c73326f0d5f4851b6c520c6a8c974530f5589c9719debf867f3bc52e51a50",
+      "CRC32": "5c978310"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/hair2_png_9d87b1d7.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "86c6e5e068061f9b16f51a1c0f142d9399d5a8605a6ae21c40c4e8ba53087be4",
+      "CRC32": "425953a8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/hair1_png_db71ac2f.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "ec83cd7cd1facb6533cc0c48054927330f2513c82059693ef0af6c06c59d291d",
+      "CRC32": "3f5ddf98"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/face_png_8b9b2b7f.vtex_c",
+      "Bytes": 45740,
+      "SHA256": "04082fe0b859d08bba54de1b60cb0a5fb9f68d58f843223c126eb2268ad77540",
+      "CRC32": "841461a7"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/eyer_png_265ec533.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "6ce76135607d6b8569a251aae269ad98623bfcaede360d40c6273f02d47a1517",
+      "CRC32": "a08d3b8d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/eyel_png_f87734c8.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "6092a83bf0cf8da290404f69ee75d1f6f8bee764377b2178ed430a411ef61a6b",
+      "CRC32": "e786b08b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/cat_png_a26d9520.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "3983d7a7932b79932ff99f7713604adda1d095d7dcc1fa02f16a9787ec02d7d0",
+      "CRC32": "e3b7a8b4"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/cat1_png_9f93a185.vtex_c",
+      "Bytes": 23972,
+      "SHA256": "2589c65f541caccf959ffd3590bd90b36453b78f9d1bd1880c740658acd0cd9f",
+      "CRC32": "55dc6432"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/ajs_png_9fa1ede1.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "4a14fbd727b04a0ca7d04bc0e3c8feecd4274a16b4413a934d857c4e3aa4d5f2",
+      "CRC32": "8f8f222e"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/pardofelis/cloth_vmorf.vtex_c",
+      "Bytes": 21620,
+      "SHA256": "f20b39a299c2c27d83b72143da39d78ee6190e702710a5555184ef229905b8dd",
+      "CRC32": "6b2404ea"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/pardofelis/cloth1_vmorf.vtex_c",
+      "Bytes": 20516,
+      "SHA256": "d790680f4c5140953077a710c3e94b847a70501febc6cb3f078c82be767c7854",
+      "CRC32": "8ce5f92d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanr_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanr_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_vmat_g_tnormala_a1e47e21.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "285b513f0a7df020f2dd15a5c020711df6fd7c527ab72a7d5c3f3f306ce842b4",
+      "CRC32": "c84ef4e8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_vmat_g_tliquidmask_b0af83e1.vtex_c",
+      "Bytes": 1992,
+      "SHA256": "dc998cb167ea7b16ebd55e317d698071b3993379e9b679bca2da504ecf6cbe21",
+      "CRC32": "d787ac85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_vmat_g_tcolora_aeb19b9d.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "952204a1e35abcc91bea3c882162b88683049608c7ce55f41e4dd703c63e339c",
+      "CRC32": "8b015976"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1_vmat_g_tnormala_a1e47e21.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "285b513f0a7df020f2dd15a5c020711df6fd7c527ab72a7d5c3f3f306ce842b4",
+      "CRC32": "c84ef4e8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1_vmat_g_tliquidmask_b0af83e1.vtex_c",
+      "Bytes": 1992,
+      "SHA256": "dc998cb167ea7b16ebd55e317d698071b3993379e9b679bca2da504ecf6cbe21",
+      "CRC32": "d787ac85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1_vmat_g_tcolora_498635a.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "5bd678d1542d4d84dd1474c819bd3acaf4df8fe4905b467de54323a0e6906d9a",
+      "CRC32": "b3a0eec7"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/face_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/face_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyer_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 1960,
+      "SHA256": "eaea220c33a4276f5c96b69ce558eb9f1a30daf5946bf21117fc1d352669e190",
+      "CRC32": "34536610"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyer_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyel_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 1960,
+      "SHA256": "eaea220c33a4276f5c96b69ce558eb9f1a30daf5946bf21117fc1d352669e190",
+      "CRC32": "34536610"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyel_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/head_png_dfd9569e.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "0b6af37197b32ba31d5214efdd2cd09fa6f762d5e60a9e8451ca1d666feddb5e",
+      "CRC32": "8a2e95b6"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/head_n_png_e2a748f2.vtex_c",
+      "Bytes": 351840,
+      "SHA256": "cd22b345f2befc33924ffdb5d519a7e589c58103f2c6c92c1b87dd88a73d23e8",
+      "CRC32": "6be9b8ab"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/hair_png_1c71024a.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "f0d184b209713dc408baf3e1ba3e8dcec722c98231f15cc03272b072e8251ac7",
+      "CRC32": "0b17ea75"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/eyeball_png_3dd12c66.vtex_c",
+      "Bytes": 45788,
+      "SHA256": "e660bdd6c4a92655e178d44f645d0debf4fe5a2a38504eb41e712eb1dec8b57a",
+      "CRC32": "97407b99"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/dbd_myers_knife_png_d7afb094.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "329a03ae544d9fa85cd6b89cebdb24b786d9e16d10dbaaf27c32aaf49eb7a1cf",
+      "CRC32": "8887aead"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/body_png_b25c214c.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "826423623eb0371f1edf285c202e0498e6d02be3e1e3d1cee028c148c9fa7d1c",
+      "CRC32": "4a10a5ff"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/body_n_png_b3161c07.vtex_c",
+      "Bytes": 351840,
+      "SHA256": "7dcc8e9b91dd06c44be902d1f676e1747a9e2e8dbf58fa98d5e3dcc5e8c50696",
+      "CRC32": "c777ad6d"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/head_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair_vmat_g_tnormal_31e5bc20.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "65a03808e5322be08d1b47ac43b9a52c2ef41509b4e3bb7bb79eba57e286ef61",
+      "CRC32": "41d7fbef"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball_vmat_g_tnormal_31e5bc20.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "65a03808e5322be08d1b47ac43b9a52c2ef41509b4e3bb7bb79eba57e286ef61",
+      "CRC32": "41d7fbef"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tnormal_f8abdf59.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "de2f81077141d6ea4a1bcec5d8b920217a9028f4c67240d1a532757651b538b8",
+      "CRC32": "58ac80d1"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tmetalness_170f1a40.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "f4fb3cc6d9739dbd7c1fd68a4f1f08ffd7c0c97bc08b5fe2ed57efd7256fd574",
+      "CRC32": "560ff705"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/body_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/texture/huohuo_tail_flame_translucent_png_dfbccbc7.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "7fdb918a3321ec9b0a6da36aa873c50a3d401990f7cb7e9202ce0729bf7d5f92",
+      "CRC32": "56e31a59"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/texture/huohuo_tail_flame_translucent1_png_14a2eb55.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "a3236d0784fc8c5fe492e98bf3c62898c541f46c0f7b1074ccbd00f75d5c2791",
+      "CRC32": "45332045"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/texture/huohuo_tail_flame_png_6b1ee2b2.vtex_c",
+      "Bytes": 1400244,
+      "SHA256": "6f680e9004b2ca453b096120f95a69082fc4b51cafe928b4cb9189fd79fd342e",
+      "CRC32": "39e30bb0"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/texture/huohuo_hair_png_cdc6dfdb.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "b7a949cf3c2010a83aed0e9f68008dd475a8c3e77b75d57c1d3114ac7ef05038",
+      "CRC32": "1215ae59"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/texture/huohuo_face_png_c7a5cd47.vtex_c",
+      "Bytes": 176828,
+      "SHA256": "89499ebe2446b4c842e1aebe6ce079a624253bffe343ec80197bcc15bcb7c530",
+      "CRC32": "e2acabf3"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/texture/huohuo_cloth_png_b1185755.vtex_c",
+      "Bytes": 351620,
+      "SHA256": "f90d0b7f6e3e4242e1478649fdf45f352abfd8936e6c5c51270b5d561027d725",
+      "CRC32": "9b373e0f"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/outline_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/outline_vmat_g_tcolor_6b6e411d.vtex_c",
+      "Bytes": 1976,
+      "SHA256": "b9579097a0f0182b56a73d44f3f652617b4561ad9c59653dd4a6f6f6fbc7c73b",
+      "CRC32": "930f6bbc"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_hair_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_hair_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2224,
+      "SHA256": "613f1a71013e26eedf06cebcf7b4cc86a53880881a341e0a923f90c7c434cf4b",
+      "CRC32": "08312678"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_face_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_face_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2224,
+      "SHA256": "613f1a71013e26eedf06cebcf7b4cc86a53880881a341e0a923f90c7c434cf4b",
+      "CRC32": "08312678"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eye_trans_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eye_trans_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2592,
+      "SHA256": "a9c23eb959bc43f01302353e42d492888a0c9b920c02e81c9f3867dcab627de7",
+      "CRC32": "a9c1ccd1"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eye_trans_vmat_g_tcolor_d3a37375.vtex_c",
+      "Bytes": 2240,
+      "SHA256": "43a8be0f4bb8e12fa352ec0fe609c05069855740a4057abd6d841bd4af63a6ee",
+      "CRC32": "be807efc"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eyes_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 1960,
+      "SHA256": "eaea220c33a4276f5c96b69ce558eb9f1a30daf5946bf21117fc1d352669e190",
+      "CRC32": "34536610"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_eyes_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2224,
+      "SHA256": "613f1a71013e26eedf06cebcf7b4cc86a53880881a341e0a923f90c7c434cf4b",
+      "CRC32": "08312678"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_tp_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_selfillum_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 1960,
+      "SHA256": "eaea220c33a4276f5c96b69ce558eb9f1a30daf5946bf21117fc1d352669e190",
+      "CRC32": "34536610"
+    },
+    {
+      "Path": "characters/models/exg/honkai_starrail_huohuo/huohuo_cloth_selfillum_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed_bo04_pack2/honkai_starrail_huohuo/outline_vmorf.vtex_c",
+      "Bytes": 17444,
+      "SHA256": "d50552a23b084c016e5612617f671bfb0e2d3cfe87dfb62d81026ac7bc7f8011",
+      "CRC32": "473b32ba"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed_bo04_pack2/honkai_starrail_huohuo/body_vmorf.vtex_c",
+      "Bytes": 27668,
+      "SHA256": "7cad1a1676c54055fe75c7b8ac3e84732a438c2e3ee3b6c00bc6c65447799f98",
+      "CRC32": "e7d8371e"
+    },
+    {
+      "Path": "characters/models/chiffon/materials/chiffon_body_png_572cfc12.vtex_c",
+      "Bytes": 701132,
+      "SHA256": "a736e771298b7492d008e541620204899631baa08c0d686aadd68d086cd10aa4",
+      "CRC32": "6858cdb2"
+    },
+    {
+      "Path": "characters/models/chiffon/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "21e05b1073cc9b3750b1c7e76cca57d0925edfae5e43f7ee5f447299c8806f23",
+      "CRC32": "ad9c1a4c"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "923777b5faba077e309e0d7c74adef3a0e41b07439de95fab99544e1ed8b8dab",
+      "CRC32": "b95be032"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "bcd27cdf7955f8b617a86a8090fc971c82e45937e3d6dd63d2082184ec474aba",
+      "CRC32": "dc0bc4f5"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+      "Bytes": 2798252,
+      "SHA256": "a84a6dc1966af62bf7cb65fdb0ad5ec82190c4ffdf03a16227d1417eea0c9e06",
+      "CRC32": "cd8816ca"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "3454703e07f7077b77e5a717cc3242ca2fea0d4a08afb5731fdcc0590e51c473",
+      "CRC32": "aaac60be"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "45a057ec03514b44925ce2be8b95879afcb0e29dbb6a63d32d19147528ac000c",
+      "CRC32": "6f3cb407"
+    },
+    {
+      "Path": "characters/models/aluona/aluona/face_vmorf.vtex_c",
+      "Bytes": 135976,
+      "SHA256": "3969929d77f551e23f2cb5d914bf1417e9bf81fc5f158c75d1a19ceaa0fb7e64",
+      "CRC32": "97ffb753"
+    },
+    {
+      "Path": "cfg/maps/keran_models_pack_5.cfg",
+      "Bytes": 30,
+      "SHA256": "cadc211369fdad9eaec95b1715ee089e7562b8908d9e475aa1979ae2bfe5f856",
+      "CRC32": "51abb2eb"
+    },
+    {
+      "Path": "maps/keran_models_pack_5_retakes.txt",
+      "Bytes": 1160,
+      "SHA256": "35f23c4b6bd281cc4561255c7f1f17a728c8c0310255260df2f07f92b5d32fae",
+      "CRC32": "a3d066e3"
+    },
+    {
+      "Path": "maps/keran_models_pack_5_cameras.txt",
+      "Bytes": 153,
+      "SHA256": "efeceafb0f91b56a03e2416778ed3b43d47d526d7b80e6112727a6d348ed353d",
+      "CRC32": "435171cf"
+    },
+    {
+      "Path": "addoninfo.txt",
+      "Bytes": 139,
+      "SHA256": "dc57f692857b31074b00792cfc0c7ad2cdd9dedd48c9ddedf283a229d9b8c34b",
+      "CRC32": "bc0663f5"
+    }
+  ],
+  "AllEntryCRCsValid": true,
+  "ArchiveSHA256": {
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822970980/3822970980_dir.vpk": "32d5719d80268b79e71b4bef5770fe61c92af01a25b8759d8ec6a5c1866d88fb",
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822970980/3822970980_000.vpk": "4422f0834b8658e52686ef94e1cf6d53709691bd0d53c32b99f56c840b7f6872"
+  }
+}

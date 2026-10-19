@@ -1,0 +1,55 @@
+{
+  "Workshop": "3822970980",
+  "Models": [
+    "aluona",
+    "myers",
+    "pardofelis",
+    "vrc_lime",
+    "huohuo"
+  ],
+  "PMCConfigured": 5,
+  "PMCVerifiedResources": 5,
+  "ResourceError": "none",
+  "OldModelAddonsNotMounted": true,
+  "OriginalActivePlugins": 11,
+  "KeranStratLoaded": true,
+  "Map": "de_dust2",
+  "GameType": 0,
+  "GameMode": 1,
+  "Humans": 0,
+  "Bots": 0,
+  "ProbeRemoved": true,
+  "BotApplyChecksPassed": 0,
+  "BotProbeStatus": "Not passed; attempt 1 timeout before apply; hot-reload attempt associated with SIGSEGV, stopped and removed; final clean process restarted without probe",
+  "BaselineCvarsRestored": false,
+  "CvarDifferences": {
+    "bot_dont_shoot": {
+      "Before": 1,
+      "After": 0,
+      "Reason": "Engine resets cheat-protected value when returning sv_cheats to 0; no bots remain"
+    }
+  },
+  "CheatsEnabled": false,
+  "PreservedOriginalFiles": 202,
+  "ConsumedKSRecoveryMarker": [
+    "/home/steam/cs2-ds/game/csgo/addons/counterstrikesharp/plugins/KeranStrat/data/practice-recovery.json"
+  ],
+  "PlayerDatabaseIntegrity": "ok",
+  "PlayerDatabaseLogicalContentUnchanged": true,
+  "CurrentProcessModelFailureLines": [],
+  "ModelPrecacheEvidence": {
+    "aluona": [],
+    "myers": [],
+    "pardofelis": [],
+    "vrc_lime": [],
+    "huahuo": []
+  },
+  "HumanClientRenderingTested": false,
+  "ClientAutoDownloadTested": false,
+  "HumanReconnectPersistenceTested": false,
+  "MyersVersion": "user-approved old version, first-person arms not fixed",
+  "PublishingTool": "Steam official CS2 Workshop Tools",
+  "FinalMainPID": "2154",
+  "SystemdAutoRestartsSinceFinalCleanRestart": "0",
+  "NameCorrection": "Huohuo (藿藿), config reloaded via css_modeladmin reload; no server restart"
+}

@@ -1,0 +1,22 @@
+game_type = 0
+game_mode = 1
+sv_cheats = false
+bot_quota = 0
+bot_join_after_player = false
+sv_hibernate_when_empty = false
+bot_stop = 0
+bot_dont_shoot = false
+mm_extra_addons = 3822970980
+mm_client_extra_addons =
+  [#1:LOADED]: "Advertisement" (v1.0.8-recompile) by thesamefabius
+  [#2:LOADED]: "CombatStats" (1.0.0) by Keran Technology Co., Ltd.
+  [#3:LOADED]: "CS2-Tags" (1.0.4c) by daffyy
+  [#4:LOADED]: "KnifeGuard" (1.2.0) by Shiyan Ops
+  [#5:LOADED]: "MenuManager [Core]" (1.4.1) by Nick Fox
+  [#6:LOADED]: "PlayerSettings [Core]" (0.9.4) by Nick Fox
+  [#7:LOADED]: "Welcome" (1.0.0) by Xenomoros
+  [#8:LOADED]: "WeaponPaints" (3.3a) by Nereziel & daffyy
+  [#9:LOADED]: "KeranStrat.BotControllerBridge" (0.1.0) by Keran Technology; native API by XBribo and contributors
+  [#10:LOADED]: "KeranStrat" (0.5.5) by Keran Technology
+  [#11:LOADED]: "Player Model Changer" (1.8.6-aluona.1) by samyyc
+PlayerModelChanger 1.8.6-aluona.1; configured=5; verifiedResources=5; storage=sqlite; commands=css_models,css_model; botModels=disabled; resourceError=none

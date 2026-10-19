@@ -1,0 +1,13 @@
+{
+  "Archives": {
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822970980/3822970980_dir.vpk": "32d5719d80268b79e71b4bef5770fe61c92af01a25b8759d8ec6a5c1866d88fb",
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822970980/3822970980_000.vpk": "4422f0834b8658e52686ef94e1cf6d53709691bd0d53c32b99f56c840b7f6872"
+  },
+  "Models": [
+    "characters/models/aluona/aluona.vmdl",
+    "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
+    "characters/models/exg/myers/myers.vmdl",
+    "characters/models/exg/pardofelis/pardofelis.vmdl",
+    "characters/models/exg/vrc_lime/vrc_lime.vmdl"
+  ]
+}

@@ -1,16 +1,16 @@
-﻿# CS2 五人物 Workshop 上传包
+# CS2 五人物 Workshop 上传包
 
-包含 **Aluona、Myers、Pardofelis、VRC Lime、Huahuo（花火）**。不含 Dujiaoshou/MIKA。
+包含 **Aluona、Myers、Pardofelis、VRC Lime、Huohuo（藿藿）**。不含 Dujiaoshou/MIKA。
 
-## 直接上传
+## 官方 Workshop Tools 发布
 
-1. 解压 ZIP，用之前的 GWSteam / Workshop 发布工具。
-2. 上传内容目录选择 **workshop-upload**，同时包含 **pak01_dir.vpk 与 pak01_000.vpk**；不能只上传索引。
-3. 新建作品或由你明确选择更新作品；保留旧作品作为回滚资源。本次没有操作 Steam。
-4. 标题可用：Aluona, Myers, Pardofelis, Lime and Huahuo - CS2 Player Models。
-5. 发布并可下载后，把 **Workshop ID / 链接** 发回来，再备份并切换服务器。
+用户使用 Steam 官方 CS2 Workshop Tools，继续沿用现有 addon 工程流程，目录结构保持不变；不要求使用 GWSteam 或改为 VPK 上传。
 
-这是人物资源包，不是可玩地图；不要用 host_workshop_map 启动它。沿用此前阿洛娜资源包上传流程，无需重新编译。工程目录为 addon/game/csgo_addons/keran_five_models，配套 content 只含 addoninfo。优先直接上传已校验 VPK，避免 Workshop Tools 默认白名单漏收 characters。
+- `addon/game/csgo_addons/keran_five_models`：已编译人物及材质贴图。
+- `addon/content/csgo_addons/keran_five_models`：配套 addoninfo。
+- `workshop-upload`：额外保留的已校验 VPK，作为备用产物。
+
+本地 v1.1 上传包含新版 Myers；目前 Workshop 3822970980 实际发布的是用户同意先测试的旧版 Myers，详见 [正式服部署记录](../../deployments/3822970980/README.md)。历史 Release 不改写。
 
 ## 五个人物与计划指令
 
@@ -20,11 +20,11 @@
 | Myers | !model myers | characters/models/exg/myers/myers.vmdl |
 | Pardofelis | !model pardofelis | characters/models/exg/pardofelis/pardofelis.vmdl |
 | VRC Lime | !model vrc_lime | characters/models/exg/vrc_lime/vrc_lime.vmdl |
-| 花火 | !model huahuo | characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl |
+| 藿藿 | !model huohuo | characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl |
 
-Pardofelis、VRC Lime、花火和 Myers 均来自桌面新版模型包；Aluona 逐字节保留现用成品。VRC Lime 与 lime_e 不同。
+Pardofelis、VRC Lime、藿藿和 Myers 均来自桌面新版模型包；Aluona 逐字节保留现用成品。VRC Lime 与 lime_e 不同。
 
-**v1.1 已将 Myers 换为新版包中的成品，包含实际第一人称网格，AG2 和依赖检查通过；手臂持枪/换弹效果待游戏验证。花火名称由用户确认，菜单/ID 改为 huahuo，内部 honkai_starrail_huohuo 路径保留，未修改二进制引用。**
+**v1.1 已将 Myers 换为新版包中的成品，包含实际第一人称网格，AG2 和依赖检查通过；手臂持枪/换弹效果待游戏验证。藿藿名称由用户确认，菜单/ID 改为 huohuo，内部 honkai_starrail_huohuo 路径保留，未修改二进制引用。**
 
 ## 真实验证范围
 
@@ -53,3 +53,5 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\Verify-Package.ps1
 ```
 
 reports/ 保存资源依赖、哈希与 VPK 验证结果。发布后的客户端需逐个检查第三/第一人称、持枪/换弹、重生/重连、T/CT 及恢复默认。静态检查不代替这些测试。
+
+最新菜单/指令名称为 Huohuo（藿藿）/ `!model huohuo`。历史 v1.1 ZIP 中的 huahuo 配置名称已过时，可按当前合并配置修正；模型二进制路径始终保持 huohuo，无需改名。

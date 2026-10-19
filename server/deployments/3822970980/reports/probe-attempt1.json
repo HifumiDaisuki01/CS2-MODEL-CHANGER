@@ -1,0 +1,12 @@
+{
+  "Result": "FAIL",
+  "Checks": [],
+  "OriginalBotModelRestoreVerified": false,
+  "Error": "System.TimeoutException: 45-second probe deadline\n   at FiveModelProbe.Tick()",
+  "TimeUtc": "2026-10-19T15:52:03.1639382+00:00",
+  "HumanSpawnReconnectPersistenceTested": false,
+  "HumanMenuOrDefaultCommandTested": false,
+  "ClientAutoDownloadTested": false,
+  "ClientRenderingTested": false,
+  "HitboxDamageEquivalenceTested": false
+}

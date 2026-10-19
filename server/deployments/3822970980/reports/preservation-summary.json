@@ -1,0 +1,13 @@
+{
+  "OriginalTrackedFiles": 203,
+  "PreservedFileCount": 202,
+  "ChangedOriginalFiles": [],
+  "ConsumedEphemeralRecoveryMarker": [
+    "/home/steam/cs2-ds/game/csgo/addons/counterstrikesharp/plugins/KeranStrat/data/practice-recovery.json"
+  ],
+  "RecoveryMarkerExplanation": "KeranStrat PracticeEnvironment deletes its one-time recovery marker on server startup; no tactics deleted",
+  "SQLiteIntegrity": "ok",
+  "PlayerDatabaseLogicalSHA256Unchanged": true,
+  "OriginalPMCPluginBinaryUnchanged": true,
+  "BackupPath": "/root/model-system-backups/20261019T154515Z-five-models"
+}

@@ -46,3 +46,9 @@ Use the Release for all compiled model assets and the fixed automatic launcher. 
 ## 三人物 Linux 部署结果
 
 新 Workshop **3822432137** 已替换旧阿洛娜挂载，开放 `!model aluona`、`!model myers`、`!model mika`。服务端资源及 12 项 T/CT BOT 检查通过，玩家数据库保留；真实客户端自动下载、菜单、重生与重连待进服验收。见 [完整部署报告](server/deployments/3822432137/README.md)。
+
+## Linux 当前状态与 Lime E 独立复核
+
+- [Workshop 3822970980 五人物部署、旧版 Myers 及真实测试边界](server/deployments/3822970980/README.md)。角色确认为 **Huohuo（藿藿）**，使用 `!model huohuo`。
+- [Lime E v0.5.0 编译成品独立复核](server/ag2-port/reports/2026-10-19-linux-offline-lime-e-review.md)：140 个资源解析、139 个材质贴图哈希、AG2/骨架/第一人称网格检查通过；本次未追加部署 Lime E。
+- 用户使用 **Steam 官方 Workshop Tools**；现有交付结构保留。历史 Release 和二进制不覆盖。
