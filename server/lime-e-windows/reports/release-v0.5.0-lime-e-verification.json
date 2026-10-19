@@ -1,0 +1,22 @@
+{
+    "ReleaseURL":  "https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.5.0-lime-e",
+    "Tag":  "v0.5.0-lime-e",
+    "TargetCommit":  "8d6c39db63b7d83d8a4b8409e7f58fdc53d189fc",
+    "Assets":  [
+                   {
+                       "Name":  "Lime-E-AG2-Windows-v0.5.0-lime-e.zip",
+                       "Bytes":  5557267,
+                       "SHA256":  "F75FB4A6EFC5E055CADCA8D56EA930F93DEA4AA1F0F189B4899E572BB8B215F2",
+                       "DownloadedSHA256Matched":  true,
+                       "URL":  "https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/download/v0.5.0-lime-e/Lime-E-AG2-Windows-v0.5.0-lime-e.zip"
+                   },
+                   {
+                       "Name":  "Lime-E-AG2-Windows-v0.5.0-lime-e.zip.sha256",
+                       "Bytes":  103,
+                       "SHA256":  "BE066BB95611B2D57FDD7F927CA703BCFFFF512E36B93D5BAE920574D90AD3BB",
+                       "DownloadedSHA256Matched":  true,
+                       "URL":  "https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/download/v0.5.0-lime-e/Lime-E-AG2-Windows-v0.5.0-lime-e.zip.sha256"
+                   }
+               ],
+    "VerifiedUTC":  "2026-10-19T16:02:21.3826198Z"
+}
