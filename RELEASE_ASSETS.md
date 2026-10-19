@@ -19,3 +19,11 @@ a0f6090fc0828ba9250ce019b6952cb559daf730114010e8735699c6afd14cff  CS2_Aluona_Pac
 - 207 个编译资源，VPK 含 addoninfo 共 208 项；字节、依赖及独立 VPK 校验通过。
 - 现用 Aluona/Myers 原样保留；Myers 手臂未修复；新人物实际动作及客户端下载待验证。未修改正式服。
 - 所有旧 Release 保留不变。
+
+## 五人物上传包修订 v0.4.1-workshop-five
+
+- [下载最新 v1.1](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.4.1-workshop-five)
+- `CS2-FiveModels-Workshop-v1.1.zip`：Myers 改用新版包的成品，第一人称网格存在；角色名更正为花火（Huahuo），内部路径保持不变。
+- SHA256：`9069487ff3e099e80fcdf0e7627a5be91c9eb755ffbc710adc50153d5b3e42a2`
+- 207 个资源解析及依赖检查通过，VPK 208 项 CRC/SHA256 和独立哈希校验通过；未完成本包游戏实测，未修改正式服。
+- v0.4.0-workshop-five 及其他旧 Release 原样保留。后续上传请用 v1.1。

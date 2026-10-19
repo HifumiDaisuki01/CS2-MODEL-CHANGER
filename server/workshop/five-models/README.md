@@ -1,13 +1,13 @@
 ﻿# CS2 五人物 Workshop 上传包
 
-包含 **Aluona、Myers、Pardofelis、VRC Lime、Huohuo（藿藿）**。不含 Dujiaoshou/MIKA。
+包含 **Aluona、Myers、Pardofelis、VRC Lime、Huahuo（花火）**。不含 Dujiaoshou/MIKA。
 
 ## 直接上传
 
 1. 解压 ZIP，用之前的 GWSteam / Workshop 发布工具。
 2. 上传内容目录选择 **workshop-upload**，同时包含 **pak01_dir.vpk 与 pak01_000.vpk**；不能只上传索引。
 3. 新建作品或由你明确选择更新作品；保留旧作品作为回滚资源。本次没有操作 Steam。
-4. 标题可用：Aluona, Myers, Pardofelis, Lime and Huohuo - CS2 Player Models。
+4. 标题可用：Aluona, Myers, Pardofelis, Lime and Huahuo - CS2 Player Models。
 5. 发布并可下载后，把 **Workshop ID / 链接** 发回来，再备份并切换服务器。
 
 这是人物资源包，不是可玩地图；不要用 host_workshop_map 启动它。沿用此前阿洛娜资源包上传流程，无需重新编译。工程目录为 addon/game/csgo_addons/keran_five_models，配套 content 只含 addoninfo。优先直接上传已校验 VPK，避免 Workshop Tools 默认白名单漏收 characters。
@@ -20,21 +20,21 @@
 | Myers | !model myers | characters/models/exg/myers/myers.vmdl |
 | Pardofelis | !model pardofelis | characters/models/exg/pardofelis/pardofelis.vmdl |
 | VRC Lime | !model vrc_lime | characters/models/exg/vrc_lime/vrc_lime.vmdl |
-| 藿藿 | !model huohuo | characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl |
+| 花火 | !model huahuo | characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl |
 
-新增三个来自桌面新版模型包；Aluona、Myers 逐字节保留现用三合一成品版本。VRC Lime 与 lime_e 不同。
+Pardofelis、VRC Lime、花火和 Myers 均来自桌面新版模型包；Aluona 逐字节保留现用成品。VRC Lime 与 lime_e 不同。
 
-**Myers 现用版本之前第一人称手臂不可见，本次保留该版本，没有将它换成新版包中的 Myers，也没有声称修好了它的手臂。**
+**v1.1 已将 Myers 换为新版包中的成品，包含实际第一人称网格，AG2 和依赖检查通过；手臂持枪/换弹效果待游戏验证。花火名称由用户确认，菜单/ID 改为 huahuo，内部 honkai_starrail_huohuo 路径保留，未修改二进制引用。**
 
 ## 真实验证范围
 
 - 五个主模型及所有自定义依赖逐一解析；AG2 图/骨架引用存在，无旧 animgraph/animset。
 - 递归闭包不缺自定义依赖；原版依赖根据既有正式游戏 VPK 索引确认，未把原版游戏资源打入包。
-- 新增三个人物的第一人称分组实际关联到网格。此项不是手臂持枪/换弹的游戏验证。
-- Aluona 与 Myers 的主文件 SHA256 与服务器现用成品一致；没有更改其编译资源。
+- 新版 Myers 和另外三个新版人物的第一人称分组实际关联到网格。此项不是手臂持枪/换弹的游戏验证。
+- Aluona SHA256 与服务器现用成品一致；Myers SHA256 与桌面新版包一致，与旧版不同；没有重新编译或修改资源二进制。
 - 无同路径不同内容冲突、大小写冲突；未混入 Dujiaoshou、测试地图、脚本、玩家数据库。
 - VPK 每个资源的 CRC/SHA256 与输入一致；Source2Viewer 独立验证 VPK MD5/分块哈希。
-- **本五合一尚未上传 Workshop、未挂载到服务器、未完成客户端自动下载与新增三个人物游戏实测。正式服务器未修改。**
+- **本五合一尚未上传 Workshop、未挂载到服务器、未完成客户端自动下载与新版四个人物游戏实测。正式服务器未修改。**
 
 ## 配置与后续接入
 

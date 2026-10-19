@@ -1,10 +1,10 @@
-## 五人物 Workshop 上传包
+## 五人物 Workshop 上传包 v1.1
 
-**Aluona、Myers、Pardofelis、VRC Lime、Huohuo（藿藿）**，不含 Dujiaoshou。新增三个人物取自新版包，Aluona/Myers 保留现用成品；Myers 原有第一人称手臂问题未在本包修复。
+**Aluona、Myers（新版，含第一人称网格）、Pardofelis、VRC Lime、Huahuo（花火）**，不含 Dujiaoshou。
 
-[上传说明、配置和静态检查报告](server/workshop/five-models/README.md) · [下载五合一 v0.4.0-workshop-five](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.4.0-workshop-five)
+[上传说明、配置和静态检查报告](server/workshop/five-models/README.md) · [下载五合一 v0.4.1-workshop-five](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.4.1-workshop-five)
 
-五合一已完成资源依赖及 VPK 完整性检查；尚待用户发布 Workshop 后接入。正式服务器目前仍使用现有三合一，未将文件检查写成客户端实测。
+v1.1 替换旧版 Myers，并按用户确认将角色显示名/指令更正为花火 / `huahuo`；底层 `honkai_starrail_huohuo` 路径保留。五个人物均检测到第一人称网格，尚待实际游戏验证。正式服务器未修改，旧包和旧 Release 保留。
 
 ## 三个人物 AG2 编译成品
 

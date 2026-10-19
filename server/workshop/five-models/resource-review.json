@@ -18,8 +18,8 @@
       "Note": "Static resource checks only; first-person animation requires client testing"
     },
     {
-      "Id": "huohuo",
-      "Name": "Huohuo（藿藿）",
+      "Id": "huahuo",
+      "Name": "Huahuo（花火）",
       "Path": "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
       "SHA256": "c8165dc8f38c2a3cb5e5e84fd97a8e7b5f0d0f53148f9dd36b4ffdd863a360ca",
       "Source": [
@@ -38,16 +38,18 @@
       "Id": "myers",
       "Name": "Myers",
       "Path": "characters/models/exg/myers/myers.vmdl",
-      "SHA256": "ec542ea2c9f48fe913ed104372970ecde0fa95c2eb61464109dae9b9d8630c0a",
+      "SHA256": "f155aba7d3e9da2719ae2c43710e7be1d1c79a1dd716e62147e0cc603822c6c5",
       "Source": [
-        "existing-live-three-model-package"
+        "desktop-new-model-pack"
       ],
       "AG2BindingsVerified": true,
-      "BoneCount": 131,
-      "FirstPersonMeshMaskPresent": false,
-      "FirstPersonGroups": [],
+      "BoneCount": 146,
+      "FirstPersonMeshMaskPresent": true,
+      "FirstPersonGroups": [
+        "first_or_third_person_@1_#&firstperson_default"
+      ],
       "GameTestedForThisPackage": false,
-      "Note": "Unchanged live Myers binary; previously missing arms remains unverified/unfixed"
+      "Note": "Static resource checks only; first-person animation requires client testing"
     },
     {
       "Id": "pardofelis",
@@ -85,7 +87,7 @@
     }
   ],
   "ResourceCount": 207,
-  "ResourceBytes": 25389465,
+  "ResourceBytes": 24812656,
   "RuntimeFiles": {
     "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl_c": "c8165dc8f38c2a3cb5e5e84fd97a8e7b5f0d0f53148f9dd36b4ffdd863a360ca",
     "characters/models/exg/honkai_starrail_huohuo/outline.vmat_c": "cb0815b89d7287eacc042848fe9ede63a94ac485d146021f4ca4f080fc425582",
@@ -259,10 +261,10 @@
     "characters/models/exg/pardofelis/tex/cat_png_a26d9520.vtex_c": "3983d7a7932b79932ff99f7713604adda1d095d7dcc1fa02f16a9787ec02d7d0",
     "characters/models/exg/pardofelis/cat_vmat_g_tnormal_53b47c48.vtex_c": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
     "characters/models/exg/pardofelis/cat_vmat_g_tmetalness_186644c.vtex_c": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
-    "characters/models/exg/myers/myers.vmdl_c": "ec542ea2c9f48fe913ed104372970ecde0fa95c2eb61464109dae9b9d8630c0a",
+    "characters/models/exg/myers/myers.vmdl_c": "f155aba7d3e9da2719ae2c43710e7be1d1c79a1dd716e62147e0cc603822c6c5",
     "characters/models/exg/myers/vmat/head.vmat_c": "78b778920c7f31c3b2846de207e22c4328e57312ddf8392afb702cb888d2d67d",
     "characters/models/exg/myers/vtex/head_png_dfd9569e.vtex_c": "0b6af37197b32ba31d5214efdd2cd09fa6f762d5e60a9e8451ca1d666feddb5e",
-    "characters/models/exg/myers/vtex/head_n_png_e2a748f2.vtex_c": "cd22b345f2befc33924ffdb5d519a7e589c58103f2c6c92c1b87dd88a73d23e8",
+    "characters/models/exg/myers/vtex/head_n_png_e2a748f2.vtex_c": "87d5d7d0b52fb8ea8bf2b9802529c94ba2f2afd79e091cd6dbdecda17b965d89",
     "characters/models/exg/myers/vmat/head_vmat_g_tmetalness_10974e8a.vtex_c": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
     "characters/models/exg/myers/vmat/hair.vmat_c": "fba22cbe1a22cb0f3d71f4487b03ebfd5f19dc5b737dff650205c0cd45a48a3a",
     "characters/models/exg/myers/vtex/hair_png_1c71024a.vtex_c": "f0d184b209713dc408baf3e1ba3e8dcec722c98231f15cc03272b072e8251ac7",
@@ -278,7 +280,7 @@
     "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tmetalness_170f1a40.vtex_c": "f4fb3cc6d9739dbd7c1fd68a4f1f08ffd7c0c97bc08b5fe2ed57efd7256fd574",
     "characters/models/exg/myers/vmat/body.vmat_c": "d442764ab910c5d8639701b8b3a77e4fcb47c4dac7859b5e8df52a980cddbebc",
     "characters/models/exg/myers/vtex/body_png_b25c214c.vtex_c": "826423623eb0371f1edf285c202e0498e6d02be3e1e3d1cee028c148c9fa7d1c",
-    "characters/models/exg/myers/vtex/body_n_png_b3161c07.vtex_c": "7dcc8e9b91dd06c44be902d1f676e1747a9e2e8dbf58fa98d5e3dcc5e8c50696",
+    "characters/models/exg/myers/vtex/body_n_png_b3161c07.vtex_c": "87d5d7d0b52fb8ea8bf2b9802529c94ba2f2afd79e091cd6dbdecda17b965d89",
     "characters/models/exg/myers/vmat/body_vmat_g_tmetalness_10974e8a.vtex_c": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
     "characters/models/aluona/aluona.vmdl_c": "18954d150f6bad965c6d7449ca21632f6e7fa1b0270033f7a54eb4f7a712363a",
     "characters/models/aluona/materials/s.vmat_c": "4188ba6b82b3486189900c06f8fda58f9410fcb797e53725fc028c5b81207a67",
@@ -854,12 +856,15 @@
   "CaseCollisions": [],
   "AllCompiledResourcesParsed": true,
   "SourceBytesPreserved": true,
-  "ExistingAluonaMyersHashesPreserved": true,
+  "ExistingAluonaHashPreserved": true,
+  "MyersReplacedWithNewPack": true,
   "DujiaoshouIncluded": false,
   "WorkshopPublished": false,
   "WorkshopMounted": false,
   "ProductionServerChanged": false,
   "NewThreeClientAnimationsTested": false,
-  "MyersFirstPersonFixed": false,
-  "SourceMainCommit": "862e535e12ffbb15cc23b343091575abd345c606"
+  "MyersFirstPersonMeshPresent": true,
+  "MyersFirstPersonGameVerified": false,
+  "CharacterNameConfirmedByUser": "Huahuo (Sparkle), original internal path kept",
+  "SourceMainCommit": "e7c8fbcaad3ec52b0a3427d7e230d1b9a08b7e55"
 }

@@ -36,8 +36,8 @@
       "disableleg": false,
       "hideinmenu": false
     },
-    "huohuo": {
-      "name": "Huohuo（藿藿）",
+    "huahuo": {
+      "name": "Huahuo（花火）",
       "path": "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
       "permissions": [],
       "permissionsOr": [],
