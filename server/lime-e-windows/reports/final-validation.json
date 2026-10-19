@@ -1,0 +1,17 @@
+{
+    "Model":  "lime_e",
+    "Compiled":  true,
+    "CompilerExitCode":  0,
+    "CompiledSHA256":  "981f1d46fa80ad004972d2e04276ed6fde80208993191d47a832d4bf67ca778d",
+    "OriginalMaterialTextureFilesUnchanged":  139,
+    "CompiledFirstPersonMeshMaskVerified":  true,
+    "LocalToolsMountVerified":  true,
+    "OfficialPlayerModelReadback":  true,
+    "FirstPersonArmsUserConfirmed":  true,
+    "UserStatement":  "非常好 我手动看了 手臂没问题",
+    "AgentArmsVisualPassClaimed":  false,
+    "PerWeaponAnimationMatrix":  "Not independently completed",
+    "HitboxDamageEquivalence":  "Unverified",
+    "WorkshopDistribution":  "Unverified",
+    "Date":  "2026-10-19"
+}

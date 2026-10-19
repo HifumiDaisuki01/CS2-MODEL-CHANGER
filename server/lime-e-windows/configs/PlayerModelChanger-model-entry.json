@@ -1,0 +1,13 @@
+{
+  "Models": {
+    "lime_e": {
+      "name": "Lime E",
+      "path": "characters/models/exg/chrisan/lime_e/lime_e.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    }
+  }
+}

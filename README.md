@@ -1,3 +1,7 @@
+## Lime E 人物与第一人称手臂成品
+
+Lime E 已在 Windows 实际编译，结构/依赖和第一人称网格检查通过；用户进游戏手动确认手臂正常。[下载 v0.5.0-lime-e](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.5.0-lime-e) · [恢复与使用](server/lime-e-windows/README.md) · [手臂测试经验](server/lime-e-windows/EXPERIENCE_LIME_E_CN.md)。本包与此前五人物包中的 VRC Lime 不同，旧版本和现有 Workshop 保留。
+
 ## 五人物 Workshop 上传包 v1.1
 
 **Aluona、Myers（新版，含第一人称网格）、Pardofelis、VRC Lime、Huahuo（花火）**，不含 Dujiaoshou。

@@ -1,0 +1,3 @@
+[LIME_TEST] official script loaded; precache prop must remain alive
+[LIME_TEST] before=agents/models/ctm_sas/ctm_sas.vmdl after=characters/models/exg/chrisan/lime_e/lime_e.vmdl
+[LIME_TEST] model=characters/models/exg/chrisan/lime_e/lime_e.vmdl alive=true crouched=false weapon=weapon_m4a1 clip=20 origin={"x":182.24990844726562,"y":2439.01171875,"z":-120.96875}

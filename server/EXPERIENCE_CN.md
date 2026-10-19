@@ -1,3 +1,7 @@
+## 2026-10-19 Lime E 手臂编译与本地验证
+
+Lime E 人物内嵌第一人称手臂已经真实编译，用户手动确认正常。后续处理手臂先读 [Lime E 专项经验](lime-e-windows/EXPERIENCE_LIME_E_CN.md)：检查真实第一人称网格和 LOD，区分空手截图与手臂缺失，先确认实际装备武器，再观察；继续使用预缓存驻留后官方 JS SetModel 路线。
+
 ## 2026-10-19 AG2 编译成品补充
 
 三个模型已实际编译、通过官方脚本在本地加载，用户已手测确认正常。后续先读 [AG2 运行与交付经验](ag2-port/EXPERIENCE_AG2_CN.md)，复用预缓存驻留后官方 JS SetModel 的固定流程。[下载成品 Release](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.3.0-ag2)。
