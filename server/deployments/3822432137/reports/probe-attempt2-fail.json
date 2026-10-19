@@ -1,0 +1,12 @@
+{
+  "Result": "FAIL",
+  "Checks": [],
+  "OriginalBotModelRestoreVerified": false,
+  "Error": "System.InvalidOperationException: Reference types must be accessed using \u0060GetReferenceValue\u0060\n   at CounterStrikeSharp.API.Modules.Cvars.ConVar.GetPrimitiveValue[T]() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Cvars/ConVar.cs:line 87\n   at ThreeModelProbe.ReadCvar(ConVar value)\n   at ThreeModelProbe.\u003CLoad\u003Eb__22_0(CCSPlayerController p, CommandInfo c)",
+  "TimeUtc": "2026-10-19T01:44:26.6582577+00:00",
+  "HumanSpawnReconnectPersistenceTested": false,
+  "HumanMenuOrDefaultCommandTested": false,
+  "ClientAutoDownloadTested": false,
+  "ClientRenderingTested": false,
+  "HitboxDamageEquivalenceTested": false
+}

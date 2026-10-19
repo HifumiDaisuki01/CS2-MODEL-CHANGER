@@ -13,6 +13,12 @@ try
   var first=new SqliteStorage(root);first.SetPlayerTModel(76561198000000001,"aluona",false);first.SetPlayerCTModel(76561198000000001,"aluona",false);
   var reopened=new SqliteStorage(root);Check(reopened.GetPlayerTModel(76561198000000001)=="aluona"&&reopened.GetPlayerCTModel(76561198000000001)=="aluona","Selection not committed");
  });
+ Test("all three deployed model IDs persist independently on T and CT",()=>{
+  foreach(var id in new[]{"aluona","myers","mika"}){
+   var db=new SqliteStorage(root);db.SetPlayerTModel(76561198000000003,id,false);db.SetPlayerCTModel(76561198000000003,id,false);
+   var reopened=new SqliteStorage(root);Check(reopened.GetPlayerTModel(76561198000000003)==id&&reopened.GetPlayerCTModel(76561198000000003)==id,"Three-model persistence failed: "+id);
+  }
+ });
  Test("default selection persists independently for both teams",()=>{
   var db=new SqliteStorage(root);db.SetPlayerTModel(76561198000000001,"@default",false);db.SetPlayerCTModel(76561198000000001,"@default",false);
   var reopened=new SqliteStorage(root);Check(reopened.GetPlayerTModel(76561198000000001)=="@default"&&reopened.GetPlayerCTModel(76561198000000001)=="@default","Reset lost");

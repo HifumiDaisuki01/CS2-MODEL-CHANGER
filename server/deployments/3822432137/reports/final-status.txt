@@ -1,0 +1,24 @@
+game_type = 3
+game_mode = 0
+bot_quota = 0
+sv_hibernate_when_empty = true
+bot_join_after_player = true
+bot_stop = 0
+bot_dont_shoot = false
+PlayerModelChanger 1.8.6-aluona.1; configured=3; verifiedResources=3; storage=sqlite; commands=css_models,css_model; botModels=disabled; resourceError=none
+  List of all plugins currently loaded by CounterStrikeSharp: 12 plugins loaded.
+  [#1:LOADED]: "Advertisement" (v1.0.8-recompile) by thesamefabius
+  [#2:LOADED]: "CombatStats" (1.0.0) by Keran Technology Co., Ltd.
+  [#3:LOADED]: "CS2-Tags" (1.0.4c) by daffyy
+  [#4:LOADED]: "KnifeGuard" (1.2.0) by Shiyan Ops
+  [#5:LOADED]: "MenuManager [Core]" (1.4.1) by Nick Fox
+  [#6:LOADED]: "PlayerSettings [Core]" (0.9.4) by Nick Fox
+  [#7:LOADED]: "Welcome" (1.0.0) by Xenomoros
+  [#8:LOADED]: "WeaponPaints" (3.3a) by Nereziel & daffyy
+  [#9:LOADED]: "KeranStrat.BotControllerBridge" (0.1.0) by Keran Technology; native API by XBribo and contributors
+  [#10:LOADED]: "KeranStrat" (0.5.5) by Keran Technology
+  [#11:LOADED]: "Player Model Changer" (1.8.6-aluona.1) by samyyc
+  [#12:UNLOADED]: "ThreeModelProbe" (1.0.0) by HifumiDaisuki01
+[KeranStrat] mode=Deathmatch, changing=False, state=idle, fileBusy=False, practice=False, ABI=22, ticks=8898, selftestPhase=0, tactic=none, roles=
+[KeranStrat] lastError=none
+[KeranStrat] warmup=False, freeze=False, setupIssued=False, phase=1, started=False, waitingResume=False

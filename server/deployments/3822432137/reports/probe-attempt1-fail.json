@@ -1,0 +1,12 @@
+{
+  "Result": "FAIL",
+  "Checks": [],
+  "OriginalBotModelRestoreVerified": false,
+  "Error": "System.InvalidOperationException: ConVar is a Bool but you are trying to get a System.Int32 value.\n   at CounterStrikeSharp.API.Modules.Cvars.ConVar.GetPrimitiveValue[T]() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Cvars/ConVar.cs:line 42\n   at ThreeModelProbe.\u003CLoad\u003Eb__21_0(CCSPlayerController p, CommandInfo c)",
+  "TimeUtc": "2026-10-19T01:43:25.656722+00:00",
+  "HumanSpawnReconnectPersistenceTested": false,
+  "HumanMenuOrDefaultCommandTested": false,
+  "ClientAutoDownloadTested": false,
+  "ClientRenderingTested": false,
+  "HitboxDamageEquivalenceTested": false
+}

@@ -1,0 +1,97 @@
+{
+  "Result": "PASS",
+  "Checks": [
+    {
+      "Id": "aluona",
+      "Team": 2,
+      "AfterRespawnExplicitReapply": false,
+      "Model": "characters/models/aluona/aluona.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "aluona",
+      "Team": 3,
+      "AfterRespawnExplicitReapply": false,
+      "Model": "characters/models/aluona/aluona.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "aluona",
+      "Team": 2,
+      "AfterRespawnExplicitReapply": true,
+      "Model": "characters/models/aluona/aluona.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "aluona",
+      "Team": 3,
+      "AfterRespawnExplicitReapply": true,
+      "Model": "characters/models/aluona/aluona.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "myers",
+      "Team": 2,
+      "AfterRespawnExplicitReapply": false,
+      "Model": "characters/models/exg/myers/myers.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "myers",
+      "Team": 3,
+      "AfterRespawnExplicitReapply": false,
+      "Model": "characters/models/exg/myers/myers.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "myers",
+      "Team": 2,
+      "AfterRespawnExplicitReapply": true,
+      "Model": "characters/models/exg/myers/myers.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "myers",
+      "Team": 3,
+      "AfterRespawnExplicitReapply": true,
+      "Model": "characters/models/exg/myers/myers.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "mika",
+      "Team": 2,
+      "AfterRespawnExplicitReapply": false,
+      "Model": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "mika",
+      "Team": 3,
+      "AfterRespawnExplicitReapply": false,
+      "Model": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "mika",
+      "Team": 2,
+      "AfterRespawnExplicitReapply": true,
+      "Model": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    },
+    {
+      "Id": "mika",
+      "Team": 3,
+      "AfterRespawnExplicitReapply": true,
+      "Model": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+      "BoundsHealthArmorUnchanged": true
+    }
+  ],
+  "OriginalBotModelRestoreVerified": true,
+  "Error": null,
+  "TimeUtc": "2026-10-19T01:45:42.8197586+00:00",
+  "HumanSpawnReconnectPersistenceTested": false,
+  "HumanMenuOrDefaultCommandTested": false,
+  "ClientAutoDownloadTested": false,
+  "ClientRenderingTested": false,
+  "HitboxDamageEquivalenceTested": false
+}

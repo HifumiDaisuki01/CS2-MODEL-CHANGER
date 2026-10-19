@@ -106,3 +106,13 @@ bash /root/model-system-backups/20261018T033239Z/rollback.sh
 - [CS2-PlayerModelChanger](https://github.com/samyycX/CS2-PlayerModelChanger)，本部署保留其 GPL-3.0 源码和署名。
 - Powered by [Source 2 Viewer](https://s2v.app) ([ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat))，用于编译资源检查。
 - 上游 PMC 明确提示 GSLT 封禁风险；无 GSLT 的当前部署不能证明其他认证环境同样没有风险。
+
+
+## 10. 三人物包实际替换经验（3822432137）
+
+- 旧 ID 替换为新 ID 时，同时从 resource-catalog.json 移除旧归档，保留 aluona ID 和内部路径，新增 myers / mika，避免玩家数据库选择失效。
+- 本机实际观察：修改 extra addon 列表、重载同地图之后旧 VPK 仍可能留在进程搜索路径；需干净重启并再次检查，不能只看 cvar 值。
+- 当前 map 是用户运行时选的 Workshop aim_map1v1cfg，永久启动入口仍是 Dust2。重启前捕获运行时地图/模式，Steam/RCON 就绪后恢复；人物包 ID 不能用作 host_workshop_map。一次性启动覆盖用后移除。
+- 对新 VPK 的 70 项 CRC 校验成功，55 项人物资源哈希与编译交付完全一致。资源包可能由发布器补入 metadata/sound/postprocess，不能只按原 ZIP 文件数判错。
+- 诊断工具需区分 Bool / Int32 等 ConVar 类型；通过真实 RCON 快照恢复原值。反射调用当前 PMC 的公开应用 API 可验证服务端模型状态，不应把测试 BOT 的显式复活重应用扩写成真人自动持久化验收。
+- 12 项实服 BOT 检查、8 项临时 SQLite/资源测试、183 个原文件及真实玩家库逻辑校验记录见 deployments/3822432137。

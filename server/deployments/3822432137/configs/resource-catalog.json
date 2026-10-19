@@ -1,0 +1,11 @@
+{
+  "Archives": {
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822432137/3822432137_000.vpk": "5c1f9d8ceb17b713b90a71bff68d44ac6a907da6a54590b6ae946ed39f572343",
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822432137/3822432137_dir.vpk": "075a9006223409d7688a657fca200dc86ab5a57faf74977ce89b1022b252fd49"
+  },
+  "Models": [
+    "characters/models/aluona/aluona.vmdl",
+    "characters/models/exg/dujiaoshou/dujiaoshou.vmdl",
+    "characters/models/exg/myers/myers.vmdl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "WorkshopID": "3822432137",
+  "ReplacedWorkshopID": "3821951835",
+  "Models": [
+    "aluona",
+    "myers",
+    "mika"
+  ],
+  "DatabaseIntegrity": "ok",
+  "PlayerDatabaseLogicalSHA256Unchanged": true,
+  "OriginalFilesVerified": 183,
+  "OriginalFilesChanged": [],
+  "PMCPluginBinaryUnchanged": true,
+  "MapBeforeAfter": "aim_map1v1cfg",
+  "GameTypeBeforeAfter": 3,
+  "GameModeBeforeAfter": 0,
+  "OldModelVPKAbsentFromFinalSearchPaths": true,
+  "NewModelVPKMounted": true,
+  "TemporaryProbeRemoved": true,
+  "PermanentStartupSettingsUnchanged": true,
+  "TemporarySystemdOverrideRemoved": true,
+  "TimeUtc": "2026-10-19T01:46:05.253620+00:00",
+  "OriginalActivePluginCount": 11,
+  "TemporaryProbeStatus": "UNLOADED; files moved out of plugins; CSS retains a historical registry entry"
+}

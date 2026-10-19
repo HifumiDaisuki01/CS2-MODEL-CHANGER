@@ -29,3 +29,8 @@ Use the Release for all compiled model assets and the fixed automatic launcher. 
 ## 三人物 Workshop 资源包
 
 [MIKA（dujiaoshou）+ Myers + Aluona 发布包](server/workshop/three-models/README.md)：保留已验证的内部路径，单个 Workshop ID 分发三个人物。工具与检查报告在上述目录，资源二进制通过新 Release 提供，原 Release 和阿洛娜作品保留。
+
+
+## 三人物 Linux 部署结果
+
+新 Workshop **3822432137** 已替换旧阿洛娜挂载，开放 `!model aluona`、`!model myers`、`!model mika`。服务端资源及 12 项 T/CT BOT 检查通过，玩家数据库保留；真实客户端自动下载、菜单、重生与重连待进服验收。见 [完整部署报告](server/deployments/3822432137/README.md)。

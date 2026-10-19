@@ -1,0 +1,431 @@
+{
+  "Vpk": "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822432137/3822432137_dir.vpk",
+  "Version": 2,
+  "Entries": [
+    {
+      "Path": "sounds/vent_01.vsnd_c",
+      "Bytes": 124564,
+      "SHA256": "2e07b853bb8f28a376f3b663c0b396675ef47b00e5dd7fddd549a31fd1c6933a",
+      "CRC32": "9e69a28c"
+    },
+    {
+      "Path": "sounds/interior_01.vsnd_c",
+      "Bytes": 149054,
+      "SHA256": "085d65915db2eae1e1bc11f8de199eeb084bac6ecee8a99e52fcfab9f3c92c40",
+      "CRC32": "bb4d359b"
+    },
+    {
+      "Path": "sounds/bird_06.vsnd_c",
+      "Bytes": 21851,
+      "SHA256": "8fa7c6e535d6fb4b2443ac4194ee8c7aaef4f479f770d5ddb86e8025c6828f95",
+      "CRC32": "c12ced9b"
+    },
+    {
+      "Path": "sounds/bird_05.vsnd_c",
+      "Bytes": 19034,
+      "SHA256": "efdb43058807a9d0e6a21ea7514096166981d86e3b7579524176b0faf18e4bbe",
+      "CRC32": "d536478c"
+    },
+    {
+      "Path": "sounds/bird_04.vsnd_c",
+      "Bytes": 18515,
+      "SHA256": "e5fe413b2ef402703688a1541d56017147f86bdd316f84d7fb183810744b3f16",
+      "CRC32": "6dc3d8e1"
+    },
+    {
+      "Path": "sounds/bird_03.vsnd_c",
+      "Bytes": 39885,
+      "SHA256": "d9c0f39a43eb0af3e03c323b3e8269c7b2a95c2336958a41078e06ac2f04e98a",
+      "CRC32": "a1f11068"
+    },
+    {
+      "Path": "sounds/bird_02.vsnd_c",
+      "Bytes": 54063,
+      "SHA256": "c48af1cbb8d860cbad5d5fcea272f78a7ab2170185e3e93b8da3c05b7689f981",
+      "CRC32": "4c27b6dd"
+    },
+    {
+      "Path": "sounds/bird_01.vsnd_c",
+      "Bytes": 66365,
+      "SHA256": "fb19404f67d7fb6ec0883fa1aa2babf0229f06ce57d8906add62911a95b88048",
+      "CRC32": "7a8d0aaa"
+    },
+    {
+      "Path": "soundevents/soundevents_addon.vsndevts_c",
+      "Bytes": 3796,
+      "SHA256": "a9bcf0311652ffae7498441538756df7c3ffca164ce0c42ab1210c02e41af7eb",
+      "CRC32": "6fc231bc"
+    },
+    {
+      "Path": "postprocess/keran_character_pack.vpost_c",
+      "Bytes": 133507,
+      "SHA256": "039edd38e85bd764be152e7b291605da34ff0c5b7cc792f7375254cad1b2835b",
+      "CRC32": "c32c60b8"
+    },
+    {
+      "Path": "postprocess/basic_linear_post.vpost_c",
+      "Bytes": 133475,
+      "SHA256": "33144fcb537b53844b99866c40f2d6e22acf998b75b8467154904e16d32703aa",
+      "CRC32": "42365770"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/head.vmat_c",
+      "Bytes": 3984,
+      "SHA256": "78b778920c7f31c3b2846de207e22c4328e57312ddf8392afb702cb888d2d67d",
+      "CRC32": "dca6ca80"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "fba22cbe1a22cb0f3d71f4487b03ebfd5f19dc5b737dff650205c0cd45a48a3a",
+      "CRC32": "f4382bf0"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball.vmat_c",
+      "Bytes": 4048,
+      "SHA256": "f243214e894df496c8d9bfc64dbc3bb03999c9dd22b87ef5dec70f7f05c3a856",
+      "CRC32": "48d6dff9"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife.vmat_c",
+      "Bytes": 4016,
+      "SHA256": "94d61779496cd71a9d294b694135044f4ebb06e10318eb7b99f3bafd6dfb0cb7",
+      "CRC32": "07ca1bc1"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/body.vmat_c",
+      "Bytes": 3984,
+      "SHA256": "d442764ab910c5d8639701b8b3a77e4fcb47c4dac7859b5e8df52a980cddbebc",
+      "CRC32": "6cce0deb"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2t.vmat_c",
+      "Bytes": 4272,
+      "SHA256": "3e8395a86340da527754a297a910c80695dbf32a7bb1b9182791f340fe1409ca",
+      "CRC32": "deaaa3ac"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "7889026b2b339ed022cfa247a8a4333637b34e071812318502d57a6a9e0f5f13",
+      "CRC32": "fcf0d9f4"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/eye.vmat_c",
+      "Bytes": 4284,
+      "SHA256": "cc1a5fb0d1b0cae3c105d1b53934ccdbe8357566599beb71ee70655790f21c0c",
+      "CRC32": "8b34bd28"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/body2.vmat_c",
+      "Bytes": 4432,
+      "SHA256": "ef56b3d4b9701315a6dddeb04d128183f2da5ac35584ca8b7e221291cd9d77bd",
+      "CRC32": "99e4647f"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/body.vmat_c",
+      "Bytes": 4432,
+      "SHA256": "0c2b97b20566cedefa3b3a5c29d804b4793afdbd943d714a940b3d7404cbe025",
+      "CRC32": "54947fad"
+    },
+    {
+      "Path": "characters/models/aluona/materials/s.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "4188ba6b82b3486189900c06f8fda58f9410fcb797e53725fc028c5b81207a67",
+      "CRC32": "294dbc25"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph.vmat_c",
+      "Bytes": 2991,
+      "SHA256": "4454f3f2da04aea5765240edda165770dc930d390deea72c2c16d7f2664f7a60",
+      "CRC32": "a8ad1f29"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "d908c8f8fcef0e9986fd9ef8e71556dcb99fa7abf3afacc55b705a2cfbb3df41",
+      "CRC32": "ed2ec099"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "e84d071033483dd68806157a47c15cc113b176e4f1bf6838228397ef52eb30d9",
+      "CRC32": "7fb5e597"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "7b946fdbf77ae179d9a2d5d8ebc16283f8f9b1cd1b33cd96fdab8181841cb40b",
+      "CRC32": "9ca49065"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "6d50bb635dfaa78de5439a0aa899ead1684a3982f90db02f1c2d2278f21f276e",
+      "CRC32": "84c0b853"
+    },
+    {
+      "Path": "characters/models/exg/myers/myers.vmdl_c",
+      "Bytes": 466497,
+      "SHA256": "ec542ea2c9f48fe913ed104372970ecde0fa95c2eb61464109dae9b9d8630c0a",
+      "CRC32": "c07711cb"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/dujiaoshou.vmdl_c",
+      "Bytes": 897208,
+      "SHA256": "3b0b77d109acca5d4bb620203bfbfd5c9fbd99ed94ac79183ae942c0274fd342",
+      "CRC32": "8a99f61b"
+    },
+    {
+      "Path": "characters/models/aluona/aluona.vmdl_c",
+      "Bytes": 2039332,
+      "SHA256": "18954d150f6bad965c6d7449ca21632f6e7fa1b0270033f7a54eb4f7a712363a",
+      "CRC32": "d206a802"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/head_png_dfd9569e.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "0b6af37197b32ba31d5214efdd2cd09fa6f762d5e60a9e8451ca1d666feddb5e",
+      "CRC32": "8a2e95b6"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/head_n_png_e2a748f2.vtex_c",
+      "Bytes": 351840,
+      "SHA256": "cd22b345f2befc33924ffdb5d519a7e589c58103f2c6c92c1b87dd88a73d23e8",
+      "CRC32": "6be9b8ab"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/hair_png_1c71024a.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "f0d184b209713dc408baf3e1ba3e8dcec722c98231f15cc03272b072e8251ac7",
+      "CRC32": "0b17ea75"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/eyeball_png_3dd12c66.vtex_c",
+      "Bytes": 45788,
+      "SHA256": "e660bdd6c4a92655e178d44f645d0debf4fe5a2a38504eb41e712eb1dec8b57a",
+      "CRC32": "97407b99"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/dbd_myers_knife_png_d7afb094.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "329a03ae544d9fa85cd6b89cebdb24b786d9e16d10dbaaf27c32aaf49eb7a1cf",
+      "CRC32": "8887aead"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/body_png_b25c214c.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "826423623eb0371f1edf285c202e0498e6d02be3e1e3d1cee028c148c9fa7d1c",
+      "CRC32": "4a10a5ff"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/body_n_png_b3161c07.vtex_c",
+      "Bytes": 351840,
+      "SHA256": "7dcc8e9b91dd06c44be902d1f676e1747a9e2e8dbf58fa98d5e3dcc5e8c50696",
+      "CRC32": "c777ad6d"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/head_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair_vmat_g_tnormal_31e5bc20.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "65a03808e5322be08d1b47ac43b9a52c2ef41509b4e3bb7bb79eba57e286ef61",
+      "CRC32": "41d7fbef"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball_vmat_g_tnormal_31e5bc20.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "65a03808e5322be08d1b47ac43b9a52c2ef41509b4e3bb7bb79eba57e286ef61",
+      "CRC32": "41d7fbef"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tnormal_f8abdf59.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "de2f81077141d6ea4a1bcec5d8b920217a9028f4c67240d1a532757651b538b8",
+      "CRC32": "58ac80d1"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tmetalness_170f1a40.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "f4fb3cc6d9739dbd7c1fd68a4f1f08ffd7c0c97bc08b5fe2ed57efd7256fd574",
+      "CRC32": "560ff705"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/body_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/unicorn_tex2_jpg_7c73eb5a.vtex_c",
+      "Bytes": 5594736,
+      "SHA256": "db264a75981ab0676ba66dede478714ceca74ff3389bf8ff1ae6f6945ef63346",
+      "CRC32": "df5d9698"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/unicorn_tex1_jpg_d533ce3f.vtex_c",
+      "Bytes": 2798456,
+      "SHA256": "9f7aab0335ee73894ab34a4e608937827377206ea94a98b9578457d074a1240e",
+      "CRC32": "3b94554e"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/unicorn_tex1_jpg_814cbe47.vtex_c",
+      "Bytes": 5594736,
+      "SHA256": "67db7830e8dae8df9b1b4bf9a044895042769cda1d1a73084e870f8d6a70f17c",
+      "CRC32": "d1e020bc"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/se_jpg_27f81299.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "f92d077f28b41533a7e4159b3f8b74f87fb93ecacd06ef5211f73caaec47a20c",
+      "CRC32": "37fe3de0"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2_vmat_g_tnormal_2c2b7730.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6722b683f2d8584d9c845bfb0177c2d0cdaea9c1199b92611227fb963a62c783",
+      "CRC32": "4e7bcd06"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "8d6899c080ce5365084e66b50c4cf1374d13926485eb83061b9cfb50e9adc533",
+      "CRC32": "a2f8f6da"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2_vmat_g_tcolor_d5982a93.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "7253da877801d5296845fac1d4783edac0e7142bbb172aaa2caa0e8fa4e09613",
+      "CRC32": "b6ba433f"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2t_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "8d6899c080ce5365084e66b50c4cf1374d13926485eb83061b9cfb50e9adc533",
+      "CRC32": "a2f8f6da"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/main2t_vmat_g_tcolor_d9d9249c.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "0f67f94cee3a702d6bc81d6f43d1384dcddb1bf3932ab0f0c408bd478477e915",
+      "CRC32": "9ed410b8"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/eye_vmat_g_tnormal_450303e8.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6fe08ba70cf326fd9faa9c07f647774c37eb54a812fdd147db6995d3126089e1",
+      "CRC32": "953880b9"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/body_vmat_g_tnormal_725baaa2.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "a41ec7bf216522480af71c1b95cbcfa50d26ba126e793137a34868a028618257",
+      "CRC32": "522de172"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "8d6899c080ce5365084e66b50c4cf1374d13926485eb83061b9cfb50e9adc533",
+      "CRC32": "a2f8f6da"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/body2_vmat_g_tnormal_41105ef.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "f2a2891b066a41d0dba55c29a3d0c1035f8bbe47cf756fbc448a67ff679ce0f5",
+      "CRC32": "8d4b3996"
+    },
+    {
+      "Path": "characters/models/exg/dujiaoshou/materials/body2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "8d6899c080ce5365084e66b50c4cf1374d13926485eb83061b9cfb50e9adc533",
+      "CRC32": "a2f8f6da"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "21e05b1073cc9b3750b1c7e76cca57d0925edfae5e43f7ee5f447299c8806f23",
+      "CRC32": "ad9c1a4c"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "923777b5faba077e309e0d7c74adef3a0e41b07439de95fab99544e1ed8b8dab",
+      "CRC32": "b95be032"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "bcd27cdf7955f8b617a86a8090fc971c82e45937e3d6dd63d2082184ec474aba",
+      "CRC32": "dc0bc4f5"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+      "Bytes": 2798252,
+      "SHA256": "a84a6dc1966af62bf7cb65fdb0ad5ec82190c4ffdf03a16227d1417eea0c9e06",
+      "CRC32": "cd8816ca"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "3454703e07f7077b77e5a717cc3242ca2fea0d4a08afb5731fdcc0590e51c473",
+      "CRC32": "aaac60be"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "45a057ec03514b44925ce2be8b95879afcb0e29dbb6a63d32d19147528ac000c",
+      "CRC32": "6f3cb407"
+    },
+    {
+      "Path": "characters/models/aluona/aluona/face_vmorf.vtex_c",
+      "Bytes": 135976,
+      "SHA256": "3969929d77f551e23f2cb5d914bf1417e9bf81fc5f158c75d1a19ceaa0fb7e64",
+      "CRC32": "97ffb753"
+    },
+    {
+      "Path": "cfg/maps/keran_character_pack.cfg",
+      "Bytes": 30,
+      "SHA256": "cadc211369fdad9eaec95b1715ee089e7562b8908d9e475aa1979ae2bfe5f856",
+      "CRC32": "51abb2eb"
+    },
+    {
+      "Path": "maps/keran_character_pack_retakes.txt",
+      "Bytes": 1160,
+      "SHA256": "35f23c4b6bd281cc4561255c7f1f17a728c8c0310255260df2f07f92b5d32fae",
+      "CRC32": "a3d066e3"
+    },
+    {
+      "Path": "maps/keran_character_pack_cameras.txt",
+      "Bytes": 153,
+      "SHA256": "efeceafb0f91b56a03e2416778ed3b43d47d526d7b80e6112727a6d348ed353d",
+      "CRC32": "435171cf"
+    },
+    {
+      "Path": "addoninfo.txt",
+      "Bytes": 139,
+      "SHA256": "dc57f692857b31074b00792cfc0c7ad2cdd9dedd48c9ddedf283a229d9b8c34b",
+      "CRC32": "bc0663f5"
+    }
+  ],
+  "AllEntryCRCsValid": true,
+  "ArchiveSHA256": {
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822432137/3822432137_000.vpk": "5c1f9d8ceb17b713b90a71bff68d44ac6a907da6a54590b6ae946ed39f572343",
+    "/home/steam/cs2-ds/game/bin/linuxsteamrt64/steamapps/workshop/content/730/3822432137/3822432137_dir.vpk": "075a9006223409d7688a657fca200dc86ab5a57faf74977ce89b1022b252fd49"
+  }
+}
