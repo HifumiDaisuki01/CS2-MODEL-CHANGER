@@ -1,3 +1,11 @@
+## 五人物 Workshop 上传包
+
+**Aluona、Myers、Pardofelis、VRC Lime、Huohuo（藿藿）**，不含 Dujiaoshou。新增三个人物取自新版包，Aluona/Myers 保留现用成品；Myers 原有第一人称手臂问题未在本包修复。
+
+[上传说明、配置和静态检查报告](server/workshop/five-models/README.md) · [下载五合一 v0.4.0-workshop-five](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.4.0-workshop-five)
+
+五合一已完成资源依赖及 VPK 完整性检查；尚待用户发布 Workshop 后接入。正式服务器目前仍使用现有三合一，未将文件检查写成客户端实测。
+
 ## 三个人物 AG2 编译成品
 
 Myers、KM Decade、Dujiaoshou 已实际编译并由用户手动测试确认正常。[下载 v0.3.0-ag2 成品](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.3.0-ag2) · [后续必读经验](server/ag2-port/EXPERIENCE_AG2_CN.md)。历史 Linux 和阿洛娜版本保留。

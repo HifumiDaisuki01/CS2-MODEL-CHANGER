@@ -1,0 +1,11 @@
+{
+  "Archives": {},
+  "Models": [
+    "characters/models/aluona/aluona.vmdl",
+    "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
+    "characters/models/exg/myers/myers.vmdl",
+    "characters/models/exg/pardofelis/pardofelis.vmdl",
+    "characters/models/exg/vrc_lime/vrc_lime.vmdl"
+  ],
+  "Note": "Template only. After Workshop download regenerate archive paths/hashes from actual downloaded VPK. Do not overwrite live catalog with this template."
+}

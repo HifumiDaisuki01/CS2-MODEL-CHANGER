@@ -1,0 +1,49 @@
+{
+  "Models": {
+    "aluona": {
+      "name": "Aluona（阿洛娜）",
+      "path": "characters/models/aluona/aluona.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "myers": {
+      "name": "Myers",
+      "path": "characters/models/exg/myers/myers.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "pardofelis": {
+      "name": "Pardofelis（帕朵菲莉丝）",
+      "path": "characters/models/exg/pardofelis/pardofelis.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "vrc_lime": {
+      "name": "VRC Lime",
+      "path": "characters/models/exg/vrc_lime/vrc_lime.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    },
+    "huohuo": {
+      "name": "Huohuo（藿藿）",
+      "path": "characters/models/exg/honkai_starrail_huohuo/honkai_starrail_huohuo.vmdl",
+      "permissions": [],
+      "permissionsOr": [],
+      "side": "All",
+      "disableleg": false,
+      "hideinmenu": false
+    }
+  }
+}
