@@ -1,5 +1,12 @@
 ## Unreleased — batch model preparation (2026-10-18)
 
+## v0.7.0 正式验收 — 2026-10-20
+
+- Workshop 3823495199 deployed: fifteen configured/verified/precached models; actual 824 resource hashes match, old Huohuo/Hifumi removed.
+- User manually confirmed all models work normally; designated this package for formal use. No exhaustive weapon/hitbox validation claimed.
+- Added server-migration guide covering complete plugin/config/SQLite transfer, MAM and absolute-path resource catalog regeneration. Existing release assets and older releases unchanged.
+
+
 ## v0.7.0-fifteen-models — 2026-10-20
 
 - Removed Huohuo and Hifumi from the upload package; preserved all ten retained model hashes, current Lime E and latest Myers.

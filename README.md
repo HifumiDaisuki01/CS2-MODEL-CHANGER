@@ -1,8 +1,8 @@
-## 十五人物 Workshop Tools 最终候选包
+## 十五人物正式包（用户实测正常）
 
-原十二人移除藿藿/日富美，新增守岸人10092、花火10073、Elysia10096、xmanuka、10052。保留十人原版本与已实测Lime E。824资源静态检查通过，新增五人待游戏验证，正式服未改。
+原十二人移除藿藿/日富美，新增守岸人10092、花火10073、Elysia10096、xmanuka、10052。保留十人原版本与已实测Lime E。824资源静态检查通过，Workshop **3823495199** 已部署，用户确认十五人物全部正常。
 
-[上传说明、十五人物ID、配置和修复源码](server/workshop/fifteen-models/README.md) · [完整上传包 v0.7.0](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.7.0-fifteen-models)。旧Release保留。
+[正式包、十五人物ID与修复记录](server/workshop/fifteen-models/README.md) · [更换服务器迁移](server/workshop/fifteen-models/SERVER_MIGRATION_CN.md) · [完整上传包 v0.7.0](https://github.com/HifumiDaisuki01/CS2-MODEL-CHANGER/releases/tag/v0.7.0-fifteen-models)。旧Release保留。
 
 ## 新包人物与 Lime E 手部复查
 

@@ -1,0 +1,22 @@
+{
+  "Status": "formal",
+  "Workshop": "3823495199",
+  "Release": "v0.7.0-fifteen-models",
+  "UserFeedback": "可以 全部正常",
+  "UserManualGameplayConfirmed": true,
+  "PriorServerDeploymentVerification": {
+    "ConfiguredModels": 15,
+    "VerifiedResources": 15,
+    "ResourceError": null,
+    "ResourcesMatched": 824,
+    "PrecachedModels": 15,
+    "Mounted": true,
+    "Map": "de_dust2",
+    "GameType": 1,
+    "GameMode": 2,
+    "PlayerDatabasePreserved": true
+  },
+  "EvidenceBoundary": "User confirmed overall normal gameplay; no new client test performed during documentation update and no exhaustive weapon/hitbox/multiclient matrix claimed.",
+  "HistoricalBuildReportsPreserved": true,
+  "ReleaseBinaryAssetsChanged": false
+}
