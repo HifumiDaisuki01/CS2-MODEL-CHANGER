@@ -1,0 +1,426 @@
+{
+  "StaticSourcePassed": true,
+  "Compiled": false,
+  "Mounted": false,
+  "GameAnimationVerified": false,
+  "Failures": [],
+  "Warnings": [
+    "Original magic effect is unskinned; unchanged rigid payload accepted, verify behavior in game"
+  ],
+  "SourceBoneCount": 240,
+  "CriticalBonesPresent": 24,
+  "MissingCore": [],
+  "ParentDifferences": {},
+  "UnresolvedBoneReferences": [],
+  "PelvisOrigin": [
+    -0.0,
+    42.824818,
+    -2.853549
+  ],
+  "Graphs": [
+    "animation/graphs/worldmodel/worldmodel.vnmgraph",
+    "animation/graphs/ui/uimodel.vnmgraph",
+    "animation/graphs/viewmodel/viewmodel.vnmgraph",
+    "animation/graphs/worldmodel/worldmodel.vnmgraph"
+  ],
+  "Skeletons": [
+    "animation/skeletons/characters/worldmodel.vnmskel",
+    "animation/skeletons/characters/viewmodel.vnmskel"
+  ],
+  "MissingBaseResources": [],
+  "LegacyReferences": [],
+  "DMX": [
+    {
+      "File": "lime_e_ModelDoc_anim_fix.dmx",
+      "JointListCount": 238,
+      "WeightedJointCount": 0,
+      "SkinStreams": 0,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [],
+      "Materials": [],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_cloth1.dmx",
+      "JointListCount": 241,
+      "WeightedJointCount": 71,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_cloth1"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/body.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_2.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light2.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_cloth1_21.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 53,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_cloth1_21"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/body.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_2.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_cloth22.dmx",
+      "JointListCount": 241,
+      "WeightedJointCount": 76,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_cloth22"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/body.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/uv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/uv2.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/uv3.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/uv_tail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/uv_trans.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_face13.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 1,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_face13"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/face.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/face_eye.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_face24.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 1,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_face24"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/face.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/face_eye.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_face45.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 1,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_face45"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/face.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/face_effect.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/face_eye.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_face66.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 1,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_face66"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/face.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/face_effect.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_firstperson.dmx",
+      "JointListCount": 85,
+      "WeightedJointCount": 42,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_ag2_unnamed_1",
+        "s2"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/a271.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/a437.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/body.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/eye_purple.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/glass.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/hab_in_side.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/hab_out_side.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/metal1_4.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/metal1_5.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/purple.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_glass7.dmx",
+      "JointListCount": 241,
+      "WeightedJointCount": 1,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_glass7"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evilfall_facemask_v2_name.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_facemask_v2.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_hair8.dmx",
+      "JointListCount": 239,
+      "WeightedJointCount": 23,
+      "SkinStreams": 1,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_hair8"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/m_fairytwin.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_halo9.dmx",
+      "JointListCount": 239,
+      "WeightedJointCount": 1,
+      "SkinStreams": 1,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_halo9"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/halo.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_headacc110.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 1,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_headacc110"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_headacc211.dmx",
+      "JointListCount": 239,
+      "WeightedJointCount": 5,
+      "SkinStreams": 1,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_headacc211"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/uv2.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_magic12.dmx",
+      "JointListCount": 239,
+      "WeightedJointCount": 0,
+      "SkinStreams": 0,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_magic12"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/magic.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/magic2.vmat"
+      ],
+      "Failures": [
+        "Render mesh has no recognized skin stream"
+      ]
+    },
+    {
+      "File": "lime_e_mask113.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 1,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_mask113"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_mask214.dmx",
+      "JointListCount": 241,
+      "WeightedJointCount": 1,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_mask214"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_facemask_v2.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_mask315.dmx",
+      "JointListCount": 240,
+      "WeightedJointCount": 2,
+      "SkinStreams": 2,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_mask315"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_sword17.dmx",
+      "JointListCount": 241,
+      "WeightedJointCount": 1,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_sword17"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_blade.vmat"
+      ],
+      "Failures": []
+    },
+    {
+      "File": "lime_e_wing116.dmx",
+      "JointListCount": 241,
+      "WeightedJointCount": 1,
+      "SkinStreams": 3,
+      "UnresolvedWeightedJoints": [],
+      "UnweightedOrHelperNames": [
+        "lime_e_wing116"
+      ],
+      "Materials": [
+        "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+        "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_blade.vmat"
+      ],
+      "Failures": []
+    }
+  ],
+  "Materials": [
+    "characters/models/exg/chrisan/lime_e/materials/a271.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/a437.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/body.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evilfall_facemask_v2_name.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_2.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_blade.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_facemask_v2.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light2.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/eye_purple.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/face.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/face_effect.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/face_eye.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/glass.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/hab_in_side.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/hab_out_side.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/halo.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/m_fairytwin.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/magic.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/magic2.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/metal1_4.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/metal1_5.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/purple.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/uv.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/uv2.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/uv3.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/uv_tail.vmat",
+    "characters/models/exg/chrisan/lime_e/materials/uv_trans.vmat"
+  ],
+  "MissingMaterials": [],
+  "MissingSourceFiles": [],
+  "Geometry": {
+    "ShapeCountBefore": 34,
+    "ShapeCountAfter": 34,
+    "NamesAndNumericGeometryPreserved": true
+  },
+  "RigidMeshPreservation": {
+    "File": "lime_e_magic12.dmx",
+    "OriginallyUnskinned": true,
+    "OnlyCanonicalBoneNamesChanged": true,
+    "OriginalNumericPayloadPreserved": true
+  }
+}

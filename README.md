@@ -1,3 +1,7 @@
+## 新包人物与 Lime E 手部复查
+
+[七个候选可用性与新版 Lime E 对照](server/model-audits/2026-10-20-seven-models/README.md) · [手部绑定、编译及验证经验](server/lime-e-windows/EXPERIENCE_LIME_E_CN.md#7-可复用的手部迁移流程2026-10-20-补充)。10096、10018可优先打包测试；当前已实测 Lime E 保留，本次不改服务器。
+
 ## 十二人物 Workshop Tools 包
 
 保留原五人物并更新 Myers，新增 Lime E、Chikari、Serina、白洲梓、日富美、鸣潮菲比和 Chiffon Fox，共 **12 人物**。四个过期外部手臂引用已在当前 Windows 结构化清理；625 资源及 12 个主模型静态检查通过。新增人物游戏验证待完成，正式服未修改。

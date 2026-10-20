@@ -1,0 +1,12 @@
+{
+  "SerializedDMXRoundTrip": true,
+  "SerializedBoneParentsMatchBody": true,
+  "SerializedBindPositionsMatchBody": true,
+  "FiniteArmVertexPositions": true,
+  "ArmVertices": 48691,
+  "Polygons": 54059,
+  "OriginalUVSkinWeightsAndFaceIndicesPreserved": true,
+  "OriginalBodyHitboxPhysicsNumericGeometryPreserved": true,
+  "WindowsCompiled": false,
+  "GameAnimationVerified": false
+}

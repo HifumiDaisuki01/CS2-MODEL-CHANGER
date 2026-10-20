@@ -1,5 +1,12 @@
 ## Unreleased — batch model preparation (2026-10-18)
 
+## 2026-10-20 — Model audit and Lime E hand-repair record
+
+- Audited seven new-collection player models and corresponding phase2 resources; distinguished complete AG2 candidates, obsolete arm references, mixed AG1/AG2 dependencies and full AG1 migration.
+- Compared new-collection Lime E with deployed v0.5.0; retain game-tested build while collection build retains legacy dependencies.
+- Published actual bind-pose rebind development references, stage reports and explicit glTF skin-export validation requirements. No server/model changes or new client tests in this audit.
+
+
 ## v0.6.0-twelve-models — 2026-10-19
 
 - Prepared 12-character official Workshop Tools package; retained existing five, selected latest Myers, added compiled Lime E and Chikari/Serina/Baizhouzi/Hifumi/Feibi/Chiffon Fox.

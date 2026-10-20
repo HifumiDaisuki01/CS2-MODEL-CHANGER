@@ -1,0 +1,490 @@
+[
+    {
+        "Id":  "10018",
+        "Path":  "characters/exg/10018/10018.vmdl_c",
+        "SHA256":  "c8b29503072ad43ee14171c464c4d1d48675427415c2cfeba9d906d4a2464ed5",
+        "Bones":  291,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       18
+                                   ],
+        "FirstPersonSkinnedVertices":  29481,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "10032",
+        "Path":  "characters/exg/10032/10032.vmdl_c",
+        "SHA256":  "8ceefefd8088a466be22ffb0ead780e43fc5bfe6a135137bee17712ea9eeb82a",
+        "Bones":  487,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "pelvis: - != root_motion",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "characters/models/cs2ze/leilv/leilv_arms.vmdl_c",
+                                       "characters/models/shared/animgraphs/player_ct.vanmgrph_c",
+                                       "characters/models/shared/animsets/animset_ct.vmdl_c",
+                                       "materials/default/default_mask_tga_cac76a2f.vtex_c",
+                                       "materials/default/default_skin_diffusewarp_tga_e58a9ed.vtex_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  true,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "10052",
+        "Path":  "characters/exg/10052/10052.vmdl_c",
+        "SHA256":  "6ebc7c80c53befdb2face68f0b74e9ed4be9998d5d2c5d05a08f8e6f3676ccd0",
+        "Bones":  313,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+                                       "characters/models/shared/animsets/animset_ct.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       25
+                                   ],
+        "FirstPersonSkinnedVertices":  19605,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "10073",
+        "Path":  "characters/exg/10073/10073.vmdl_c",
+        "SHA256":  "c6e8823182bc09a84d549a20206481d447f3416ee3dcb00332a24a9f6766b43b",
+        "Bones":  268,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+                                       "characters/models/exg/tioplato/xingqiongtiedao_huahuo/huahuo_arms.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       2
+                                   ],
+        "FirstPersonSkinnedVertices":  25543,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  true,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "10092",
+        "Path":  "characters/exg/10092/10092.vmdl_c",
+        "SHA256":  "2e764019200f91a232aac3706ce1a9b4b460b2b73b73f8213b36f53994846178",
+        "Bones":  230,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+                                       "characters/models/exg/qiliu/shouanren/arms/shouanren_arms.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       1
+                                   ],
+        "FirstPersonSkinnedVertices":  29312,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  true,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "10096",
+        "Path":  "characters/exg/10096/10096.vmdl_c",
+        "SHA256":  "3ca076d85a3590d7cb5037b4cbf9d911b5917086d31b026cf5aa9ebcbfb28d24",
+        "Bones":  544,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       23
+                                   ],
+        "FirstPersonSkinnedVertices":  8770,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "lime_e",
+        "Path":  "characters/models/exg/chrisan/lime_e/lime_e.vmdl_c",
+        "SHA256":  "dc09ec62b0ec86c9da80d54c39af604fc9550b981119eb974ad73a709ae5928a",
+        "Bones":  236,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+                                       "characters/models/shared/animgraphs/player_ct.vanmgrph_c",
+                                       "characters/models/shared/animsets/animset_ct.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       19
+                                   ],
+        "FirstPersonSkinnedVertices":  48693,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "xmanuka",
+        "Path":  "characters/models/neon/xmanuka/xmanuka.vmdl_c",
+        "SHA256":  "6a1c881ca7aecb2c989503184bcf3d3b5a58080416b33dad41d7cdbb279fa54a",
+        "Bones":  258,
+        "AG2GraphPresent":  true,
+        "Core24Issues":  [
+
+                         ],
+        "UnresolvedInCollection":  [
+                                       "characters/models/neon/xmanuka/xmanuka_arms.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+                                       32
+                                   ],
+        "FirstPersonSkinnedVertices":  8660,
+        "StandardHandFingerSkinInfluence":  true,
+        "LegacyVWeaponWeightedBones":  [
+
+                                       ],
+        "ArmConfigPresent":  true,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "phase2_10018",
+        "Path":  "phase2/weapons/exg/10018/10018.vmdl_c",
+        "SHA256":  "e2f796ec6277aab067588d923e72ed6bca62bc5cdaf02a15a680fd25f0288371",
+        "Bones":  38,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "Missing root_motion",
+                             "Missing pelvis",
+                             "Missing spine_0",
+                             "Missing spine_1",
+                             "Missing spine_2",
+                             "Missing spine_3",
+                             "Missing neck_0",
+                             "Missing head_0",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "animation/skeletons/weapons/m249.vnmskel_c",
+                                       "weapons/models/m249/weapon_mach_m249.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "phase2_10032",
+        "Path":  "phase2/weapons/exg/10032/10032.vmdl_c",
+        "SHA256":  "c94b1a52bceb36d73d4e1ecfe1131f22ba122762abb8fb3ac56095773978442d",
+        "Bones":  6,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "Missing root_motion",
+                             "Missing pelvis",
+                             "Missing spine_0",
+                             "Missing spine_1",
+                             "Missing spine_2",
+                             "Missing spine_3",
+                             "Missing neck_0",
+                             "Missing head_0",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "animation/skeletons/weapons/hegrenade.vnmskel_c",
+                                       "weapons/models/grenade/hegrenade/weapon_hegrenade.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "phase2_10052",
+        "Path":  "phase2/weapons/exg/10052/10052.vmdl_c",
+        "SHA256":  "0b9fb866b63817a926a36ca63ff77c54008aa7fefc41c3016b5c5daa96ac6bd4",
+        "Bones":  38,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "Missing root_motion",
+                             "Missing pelvis",
+                             "Missing spine_0",
+                             "Missing spine_1",
+                             "Missing spine_2",
+                             "Missing spine_3",
+                             "Missing neck_0",
+                             "Missing head_0",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "animation/skeletons/weapons/m249.vnmskel_c",
+                                       "weapons/models/m249/weapon_mach_m249.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "phase2_10073",
+        "Path":  "phase2/weapons/exg/10073/10073.vmdl_c",
+        "SHA256":  "324f2fd026b4a9ab06b03d010b57c99eaf68d21893d77612d285403dec36e535",
+        "Bones":  7,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "Missing root_motion",
+                             "Missing pelvis",
+                             "Missing spine_0",
+                             "Missing spine_1",
+                             "Missing spine_2",
+                             "Missing spine_3",
+                             "Missing neck_0",
+                             "Missing head_0",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "animation/skeletons/weapons/ak47.vnmskel_c",
+                                       "weapons/models/ak47/weapon_rif_ak47.vmdl_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "phase2_10092",
+        "Path":  "phase2/weapons/exg/10092/10092.vmdl_c",
+        "SHA256":  "d0fd5e9f8e5e51bc7035998d4b7e1c0b0c567aec78e10b7e0dc4c743ade13cd1",
+        "Bones":  42,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "Missing root_motion",
+                             "Missing pelvis",
+                             "Missing spine_0",
+                             "Missing spine_1",
+                             "Missing spine_2",
+                             "Missing spine_3",
+                             "Missing neck_0",
+                             "Missing head_0",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "animation/skeletons/weapons/knife_butterfly.vnmskel_c",
+                                       "materials/cs_italy/metal/metal_basic_1.vmat_c",
+                                       "materials/de_dust/hr_dust/hr_dust_sand_02.vmat_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    },
+    {
+        "Id":  "phase2_10096",
+        "Path":  "phase2/weapons/exg/10096/10096.vmdl_c",
+        "SHA256":  "d9469fe76bdd958a23c91b34599caa414d1234871c79eac5788a08d8c5f2f9e3",
+        "Bones":  24,
+        "AG2GraphPresent":  false,
+        "Core24Issues":  [
+                             "Missing root_motion",
+                             "Missing pelvis",
+                             "Missing spine_0",
+                             "Missing spine_1",
+                             "Missing spine_2",
+                             "Missing spine_3",
+                             "Missing neck_0",
+                             "Missing head_0",
+                             "Missing clavicle_L",
+                             "Missing arm_upper_L",
+                             "Missing arm_lower_L",
+                             "Missing hand_L",
+                             "Missing clavicle_R",
+                             "Missing arm_upper_R",
+                             "Missing arm_lower_R",
+                             "Missing hand_R",
+                             "Missing leg_upper_L",
+                             "Missing leg_lower_L",
+                             "Missing ankle_L",
+                             "Missing leg_upper_R",
+                             "Missing leg_lower_R",
+                             "Missing ankle_R",
+                             "Missing wpnPivot",
+                             "Missing wpn"
+                         ],
+        "UnresolvedInCollection":  [
+                                       "animation/skeletons/weapons/hegrenade.vnmskel_c",
+                                       "models/props/containers/barrels/steel_drum_barrel_01a.vmat_c"
+                                   ],
+        "FirstPersonMeshIndices":  [
+
+                                   ],
+        "FirstPersonSkinnedVertices":  null,
+        "StandardHandFingerSkinInfluence":  null,
+        "LegacyVWeaponWeightedBones":  null,
+        "ArmConfigPresent":  false,
+        "GameTested":  false,
+        "DependencyBasis":  "Prior recursive dependency inventory, freshly checked against current collection and confirmed base list; root DATA/RERL freshly parsed."
+    }
+]
