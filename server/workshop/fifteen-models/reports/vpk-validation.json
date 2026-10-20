@@ -1,0 +1,4961 @@
+{
+  "Vpk": "/root/model-system-work/fifteen-work/CS2-FifteenModels-Workshop/workshop-upload/pak01_dir.vpk",
+  "Version": 2,
+  "Entries": [
+    {
+      "Path": "addoninfo.txt",
+      "Bytes": 244,
+      "SHA256": "8f078af351dfd47d8b54bbf651949d556a3458e01c5345d23d57b5726850e549",
+      "CRC32": "704f0a78"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "6d50bb635dfaa78de5439a0aa899ead1684a3982f90db02f1c2d2278f21f276e",
+      "CRC32": "84c0b853"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "7b946fdbf77ae179d9a2d5d8ebc16283f8f9b1cd1b33cd96fdab8181841cb40b",
+      "CRC32": "9ca49065"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "e84d071033483dd68806157a47c15cc113b176e4f1bf6838228397ef52eb30d9",
+      "CRC32": "7fb5e597"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair.vmat_c",
+      "Bytes": 3023,
+      "SHA256": "d908c8f8fcef0e9986fd9ef8e71556dcb99fa7abf3afacc55b705a2cfbb3df41",
+      "CRC32": "ed2ec099"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph.vmat_c",
+      "Bytes": 2991,
+      "SHA256": "4454f3f2da04aea5765240edda165770dc930d390deea72c2c16d7f2664f7a60",
+      "CRC32": "a8ad1f29"
+    },
+    {
+      "Path": "characters/models/aluona/materials/s.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "4188ba6b82b3486189900c06f8fda58f9410fcb797e53725fc028c5b81207a67",
+      "CRC32": "294dbc25"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/body.vmat_c",
+      "Bytes": 4063,
+      "SHA256": "5d9bd8ffc40e8a874f527e2c23970f24bd424182d47df84f827a60a2688e20f0",
+      "CRC32": "c22e89af"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth1.vmat_c",
+      "Bytes": 4111,
+      "SHA256": "a9eb93bee393d41c67595815efe72fce8d7644d58509d04795a785496f02c724",
+      "CRC32": "66e3b787"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth2.vmat_c",
+      "Bytes": 4095,
+      "SHA256": "1571be714ad936441892cba08780fe77bb322ac852bb71d37858c43b75593ade",
+      "CRC32": "d7421b6e"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth_2.vmat_c",
+      "Bytes": 4079,
+      "SHA256": "ba138dea2f50ea7f2c8593e5bbfe3274746d44cf373f7443d85ef485d18e05e1",
+      "CRC32": "65274df1"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth_3.vmat_c",
+      "Bytes": 4031,
+      "SHA256": "1a6b1b50d85f66b2c1cc8331e718ad0f517590542aed1ae41a556bcf6d8b3f2d",
+      "CRC32": "2c74b128"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/eye.vmat_c",
+      "Bytes": 4173,
+      "SHA256": "d0fd72e718cb45c2a16413acc23a45079caf2ceafad1f7fd6e5af026c385bb02",
+      "CRC32": "3e336b9e"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/face_effect.vmat_c",
+      "Bytes": 3965,
+      "SHA256": "3da4800d6d2b3a1e31f8618fb0d859a8b96af301b44fdf7a4ef49130f6e3ee8f",
+      "CRC32": "9864fe94"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/gold.vmat_c",
+      "Bytes": 3757,
+      "SHA256": "474ef91074d76f7c9adf1e3951bbb9bf4f7e0d59020ccae46bb780a087bf1d47",
+      "CRC32": "adabf56b"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/hair.vmat_c",
+      "Bytes": 3853,
+      "SHA256": "ea1a46ce06991e917068e48eb2275a8b0ea132c593bae0c41ddf518c4fdc2616",
+      "CRC32": "a5a4a01e"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/hat.vmat_c",
+      "Bytes": 3949,
+      "SHA256": "57424ea535d24f65ad30f726dbef91ccc5e1b0051bc4cd548abc6cfa1457befa",
+      "CRC32": "80fdfa47"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/holo.vmat_c",
+      "Bytes": 4253,
+      "SHA256": "ed352029e3ec39c72dbb7fd3c4d612497822e009047a94049ab2f50098d93484",
+      "CRC32": "b951cba6"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/jewely.vmat_c",
+      "Bytes": 4157,
+      "SHA256": "db68a3070eb37285f1d0dc9fb7a7ae5dd77a1efad94c67a0867852b02fd23deb",
+      "CRC32": "13cb54a0"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/main.vmat_c",
+      "Bytes": 4157,
+      "SHA256": "0805693b4883b9cfc7c6cd4d324a877faf576e70eafdb689d702ed8616b9b3b9",
+      "CRC32": "6d515ea4"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/ribbon.vmat_c",
+      "Bytes": 4141,
+      "SHA256": "145263e0e328104e8425a2b67df77ac3ad1d01b45883dcfb5a9d0d660fd4e210",
+      "CRC32": "3ce609df"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/tail_ear.vmat_c",
+      "Bytes": 4095,
+      "SHA256": "66f638da2c96f5a6a8e4ed3c13f6ec1daa1fff29bfd73566d3c725cdf13f7683",
+      "CRC32": "dabf0034"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/tran.vmat_c",
+      "Bytes": 4301,
+      "SHA256": "6adc4a0f49d3228b50a9819a3151ee7a5adf291a9df919a5a190f61e026e8672",
+      "CRC32": "e9cdd7e6"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/white.vmat_c",
+      "Bytes": 4269,
+      "SHA256": "920d943b8ead09029ae7fcead43b3559d1a22bb8caa59b74954fc4697a17e1f7",
+      "CRC32": "5031541b"
+    },
+    {
+      "Path": "characters/models/chikari/material/band.vmat_c",
+      "Bytes": 3916,
+      "SHA256": "4234911ad0bbf0191877b842032db451795cbb2aa25821876700ee1cdc077963",
+      "CRC32": "92b83b08"
+    },
+    {
+      "Path": "characters/models/chikari/material/bikini1.vmat_c",
+      "Bytes": 4144,
+      "SHA256": "fc4d6ba504eda677293c37b2dab960b03a38b7669019f5acd8c65dab5c073d7b",
+      "CRC32": "8e7fa864"
+    },
+    {
+      "Path": "characters/models/chikari/material/bikini2.vmat_c",
+      "Bytes": 4144,
+      "SHA256": "87c405ada89da93f1b9ff408b7b3f9420dac5992b6abbba3cc1e5e92070d1871",
+      "CRC32": "5791ee00"
+    },
+    {
+      "Path": "characters/models/chikari/material/body.vmat_c",
+      "Bytes": 4063,
+      "SHA256": "5d9bd8ffc40e8a874f527e2c23970f24bd424182d47df84f827a60a2688e20f0",
+      "CRC32": "c22e89af"
+    },
+    {
+      "Path": "characters/models/chikari/material/clothes1.vmat_c",
+      "Bytes": 4144,
+      "SHA256": "b9503277551b366129b77f737fb197949ccf88a2b64d240f76ec01a3bdbcc5dd",
+      "CRC32": "c5d753e1"
+    },
+    {
+      "Path": "characters/models/chikari/material/clothes2.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "5ecc71e63f53e92b30b766ff4fbcc3ebc48c482a09e5e3e20d9ea1b24874d6f3",
+      "CRC32": "da26122f"
+    },
+    {
+      "Path": "characters/models/chikari/material/effect.vmat_c",
+      "Bytes": 4013,
+      "SHA256": "031469d430b00dd3c251e182b7c364b6e522e63a0ab79309f6a6ed9034f8ce20",
+      "CRC32": "d3059e50"
+    },
+    {
+      "Path": "characters/models/chikari/material/eye.vmat_c",
+      "Bytes": 4284,
+      "SHA256": "385efd08fb1c44b6ba7582f8569911816fef018e91aab438e496bd0239dc98b2",
+      "CRC32": "d9ab77ea"
+    },
+    {
+      "Path": "characters/models/chikari/material/face.vmat_c",
+      "Bytes": 4236,
+      "SHA256": "87048d4b1973dc4def2bbec51e3bb90953478f1ad23568c74ade7a52b584400a",
+      "CRC32": "dfbc9c47"
+    },
+    {
+      "Path": "characters/models/chikari/material/hair.vmat_c",
+      "Bytes": 3868,
+      "SHA256": "4d70c1ebdf223d3b9796710c17bd288d06ad903b65fcd43a531e8edceac1e122",
+      "CRC32": "a2fb3719"
+    },
+    {
+      "Path": "characters/models/chikari/material/hat.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "cc2c4e7c0ca054c5a01ceb2cdee8753df2f71f0bd02f81fee9a0e47558bd383a",
+      "CRC32": "1c55fbc1"
+    },
+    {
+      "Path": "characters/models/chikari/material/holo.vmat_c",
+      "Bytes": 4220,
+      "SHA256": "86aa4b4f88c97a7321c99b1e4afab81168bb458d774f393c7d1c14101b5ea224",
+      "CRC32": "50c08b2c"
+    },
+    {
+      "Path": "characters/models/chikari/material/light.vmat_c",
+      "Bytes": 4140,
+      "SHA256": "01ab8394ef7e6e08c138bd02efd8fd9823ab5efca11b12217b4710c24ea85be3",
+      "CRC32": "41fa269c"
+    },
+    {
+      "Path": "characters/models/chikari/material/shark.vmat_c",
+      "Bytes": 3901,
+      "SHA256": "b2ea498d0680f3ca876850b3371a5019884963bc1a6c6f15a5c5fb7c5ab4a3fe",
+      "CRC32": "18942f6c"
+    },
+    {
+      "Path": "characters/models/chikari/material/shark2.vmat_c",
+      "Bytes": 3917,
+      "SHA256": "6bafa603b315b20a454bacbd65e879c616ce5b252d3fc8ed530617bd7ee0e495",
+      "CRC32": "357af837"
+    },
+    {
+      "Path": "characters/models/chikari/material/stocking.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "16bd0ce5167a4d4c39a50b61ba7190e0ce6c438e6ed9fa6c7f64a376b6d5d45c",
+      "CRC32": "022abc12"
+    },
+    {
+      "Path": "characters/models/chikari/material/stocking_neko.vmat_c",
+      "Bytes": 4106,
+      "SHA256": "4c5f23fee5c295738b513fa4586b8df2e7880d773931e1dc1e8af2428e1272f8",
+      "CRC32": "5bc80926"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm.vmat_c",
+      "Bytes": 4048,
+      "SHA256": "354ef81bca16bac0ebd8ad7a65a40a1ddcb83809bd416ed8feedc1e17ee41ea6",
+      "CRC32": "f9e5c4ea"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm2.vmat_c",
+      "Bytes": 4268,
+      "SHA256": "49fe549c66cb336a93528486a5fa9756bfd8cded0001932ccf45657224186898",
+      "CRC32": "5fe6fb5c"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzz_fix.vmat_c",
+      "Bytes": 4268,
+      "SHA256": "31d21bc14155ac374b2a629b5ff16ce1f551c6be34272242a79a9408d73b0338",
+      "CRC32": "33da3dec"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzz_halo.vmat_c",
+      "Bytes": 4458,
+      "SHA256": "04647f2dbcfe266fd57e501c29e5a020b552d191ab0f6b044b2d5dac4f6063e9",
+      "CRC32": "f815cd5e"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/face2.vmat_c",
+      "Bytes": 4160,
+      "SHA256": "d68a2ad5765c90714fbd661142d6433a880c90cc176cee9140c962a02fa76398",
+      "CRC32": "d357f5e9"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/face2eye.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "c52d3eab4ef8b233168570a0b22fba09b01ce272cac9bddf293bd6b27d1a9731",
+      "CRC32": "7e5b1e5b"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/hb.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "02abb9279b68491f8a8212693bbf4c026a8beb2dc7f8c517ed7d7423304bb447",
+      "CRC32": "45a11a54"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/chit.vmat_c",
+      "Bytes": 4300,
+      "SHA256": "69ddce78718919be0cdb6cb8b46d19fa3bc0f9460834cc6e23589897068e3b50",
+      "CRC32": "9a6297ae"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/fahua1.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "d4e9ee686de87d0d4024d24cfbc183429b5849bd81666f8867aaebb62fa12b8a",
+      "CRC32": "30919cd4"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/fahua2.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "b34d76a22d4743917a4443c9bf0e5815ee38b27a30587bcaf96634f1717ea1d3",
+      "CRC32": "b8a2a14f"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/hua1.vmat_c",
+      "Bytes": 4348,
+      "SHA256": "025d4c6426fb8ed5e9d654a99843156162989d694641b751f5e4c9d8fa18a9a4",
+      "CRC32": "3648c7bd"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/hua2.vmat_c",
+      "Bytes": 4348,
+      "SHA256": "74f336b7a8cf61689ecbbee81ff5511c2a2c15d428ce31ae5c5a8cd2b84c952f",
+      "CRC32": "059ce1f3"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/hua3.vmat_c",
+      "Bytes": 4348,
+      "SHA256": "8bf44eeb5b64cb5dbc88c135da616d9d0581fd6e7c1b3e08583187f27e68c026",
+      "CRC32": "9c55d34f"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/huan.vmat_c",
+      "Bytes": 4284,
+      "SHA256": "d67a40d9d0be97f65834c3af71a2e73337d845771091c1e7a006f63356eb76b6",
+      "CRC32": "dbb1b9c1"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/lingdang.vmat_c",
+      "Bytes": 4300,
+      "SHA256": "63e88411486e9dd2bbf8c5b7294501abaaac75f7f06d7887de4ba531480a1891",
+      "CRC32": "8764e6e2"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/main.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "5426cade4dbca67b534ceed180ed8dd008bfc1f65e78b780c155dfe12c20265f",
+      "CRC32": "cd67f668"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/taohua.vmat_c",
+      "Bytes": 4348,
+      "SHA256": "fa37043bd4d6b30a1a8873accdf786cb2aefa4eabf0cb28ece2ab98232ee69a4",
+      "CRC32": "c28c499c"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/taohua2.vmat_c",
+      "Bytes": 4348,
+      "SHA256": "9e5ecf986d931ecea42f051ae038c5c67ac48e751035d5532f8c266d3c8a176f",
+      "CRC32": "21b2f2d8"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqi1_1.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "35207b9551ac6333e85b9a096d6a30871a2be71b0350c137a55d61954ec1c6c8",
+      "CRC32": "ed33d27b"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqi1_2.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "f5839338761e29719e9c1d69c362be6540dcfe06fcd6b1085f386743cef254b4",
+      "CRC32": "f6a379c8"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqihua1.vmat_c",
+      "Bytes": 4284,
+      "SHA256": "4a6882eac7dbfc69f046e9e1d3e2b3160f3eee933038a6b45dcce77bd6342bc2",
+      "CRC32": "21f0f989"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/yu.vmat_c",
+      "Bytes": 4284,
+      "SHA256": "3eebe0c71fe1734e602a7d71fb36c9d0ca5682dc85831fd002051e2529fcdfcc",
+      "CRC32": "6f612a7a"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/banyue.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "3e57e01ea93bb5e78ce661e1f238e9f7ce8621d713555a734db90b72ee260c3c",
+      "CRC32": "9461dd14"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/beishi.vmat_c",
+      "Bytes": 4268,
+      "SHA256": "547a4668dbf7331ab83773386352bbacbe224d2ad54e0e05b637c88e68f4e3db",
+      "CRC32": "a682b459"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/chi1.vmat_c",
+      "Bytes": 4300,
+      "SHA256": "7aba9bb2297c34e6c62ba971162e222f2d65d1668692a4b8717ec92edbe9840d",
+      "CRC32": "31f12d36"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/chibang.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "d3dd32c49076ea45bfd6e97d94a8f39026c5896d6e2bbef620e916bbdaba6823",
+      "CRC32": "5387921e"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/clothes.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "61e6d7aaf8a7d60366015c3177aa963a71f031a87e3d09a4d1e5aa5a7fc70800",
+      "CRC32": "c9f0dd7b"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/clothes2.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "ba575b9f7545284907252013474a03e043fc912a9a38cc72da83132a4816cb56",
+      "CRC32": "ea17fea4"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/eye.vmat_c",
+      "Bytes": 4252,
+      "SHA256": "77ba5ffb12a5f8233dc99d07522c4a5a71beb23fbbf01cb7fa3c2761b375e8de",
+      "CRC32": "508adfce"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/face.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "810a61ffd2853448ccfc5c9e0b6e123fed4c6c5f0f9e7a741cb77f7017863fb7",
+      "CRC32": "b93fe65b"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair1.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "90d3d200e5fd4d00bacc5326f3bba9f835eb8c12256001d37b56001c5521238f",
+      "CRC32": "2a83ec02"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair2.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "d64e386bc54b81f2a137ddfc3badfb284a5118bf0cd75352baa08b1435b0cc79",
+      "CRC32": "a8bd3294"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/huan.vmat_c",
+      "Bytes": 4284,
+      "SHA256": "0912185d9d65b2491cd4453a204a39bb2e46d49747bb2d64888851a314f0c233",
+      "CRC32": "e8c1d9d8"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/lvbaoshi.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "1abf26b88622ccb4443ad571c9347f2cee706308b61bc5c987e3afdc37dc04f6",
+      "CRC32": "c01cb3e7"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/qiu.vmat_c",
+      "Bytes": 4268,
+      "SHA256": "a4052e408846b704ea563cb54f58a40745624f82a11655c9815a7ee40d02e908",
+      "CRC32": "ebba6dbd"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/skirt1_1.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "9e351357c967b9649a7540b37e1b8fb5e81e58faa982e4834cffa1d0d93cb617",
+      "CRC32": "0c7fbb49"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/skirt1_2.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "1c0db3d265a2e6269b6a0ab20af42aa2462475ddb4996edfa2276758267417b0",
+      "CRC32": "d6bfdb1a"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/wuqi2_1.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "dd772243ac5ace50bb3bd58da9848527fa5193b1b99eb7538a7a4eb4b4522958",
+      "CRC32": "ba41e2f2"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/wuqi2_2.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "3df0faaf2d1dba73812fa4a11eefbd9d29e23385d7257302507333fbd7826ebb",
+      "CRC32": "bd634ed8"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/xin.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "794655b19fbe46412f7cd53cf81deb8ebfc68218912595e07471724addbef60d",
+      "CRC32": "2169a19d"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/zhongguashi.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "ab8786ac7c78861bf1a35a4ce138663c9c5279324e973c819e3085eb4b47dd8e",
+      "CRC32": "cfdc2909"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a271.vmat_c",
+      "Bytes": 4474,
+      "SHA256": "5239627a930d4a83f32c9b24598c917b83762f8d5c5640d5dbacb81b2cf569d5",
+      "CRC32": "d8a11fe5"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a437.vmat_c",
+      "Bytes": 4442,
+      "SHA256": "52339077af690c1da1156983b506375607cc4a1ff8417522862f7818c12be0be",
+      "CRC32": "36cdfb42"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/body.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "3b5ebc7723ec1eda1476b4daad82f1a6597880a947639886daf09594a20431db",
+      "CRC32": "9b711aee"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/body2.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "d6e46ff3f53e21d72994d3db4d300fec7af78f422126c78d319fe1d6a1340291",
+      "CRC32": "a744a2d6"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evilfall_facemask_v2_name.vmat_c",
+      "Bytes": 4474,
+      "SHA256": "e5323040d4807f95e83e33799343aafb2742e23bbc3887bdfc6856dd59decccc",
+      "CRC32": "e007bde1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evilfallmetail.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "e4a0bfb04d4cee83ff1fcf3f6b5007766a704b520a3144d6c7d1d801e17ad7af",
+      "CRC32": "f1985b07"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1.vmat_c",
+      "Bytes": 4364,
+      "SHA256": "cd2ba5d211037419e38e8ada5a89a86fec833c514d422479fee7d9d02eb3c103",
+      "CRC32": "f3db98ad"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastc.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "f75eaf2cd0ce640c91a933a7401e7ed88948256df0265a24a09b688f4d1a31be",
+      "CRC32": "00410684"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv.vmat_c",
+      "Bytes": 4192,
+      "SHA256": "8983749d61d013c66e88e699d1dc6d36ceef1372c687e3ae8e6807aedc773208",
+      "CRC32": "b491ed90"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans.vmat_c",
+      "Bytes": 4320,
+      "SHA256": "f3372040da6b8d6ba3d0adb7f3282e48e6acac12a3f8e38aedd551cbf526ee12",
+      "CRC32": "ef08f29d"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_2.vmat_c",
+      "Bytes": 4176,
+      "SHA256": "b2139029dc2be76f2e320a9630aba48179721540aa49f2faa06c43b76bc37e8b",
+      "CRC32": "10482521"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_blade.vmat_c",
+      "Bytes": 4522,
+      "SHA256": "702c500baccedb695332ef0199759e80a10ee7e976bee68033876acdbc3b83f9",
+      "CRC32": "b6f0cb50"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_facemask_v2.vmat_c",
+      "Bytes": 4554,
+      "SHA256": "4970012f2c7206984688c13d41cf21324672e928e1451f1ae7805fbeba69bec0",
+      "CRC32": "0ebf1bbc"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket.vmat_c",
+      "Bytes": 4522,
+      "SHA256": "ae63240a1dbec352c7437819cc05a3f3ef1eada23ed841621b6d087e02159de8",
+      "CRC32": "6b6568c4"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light.vmat_c",
+      "Bytes": 4618,
+      "SHA256": "c82ff7021e12ca3f906efa1acdc11f3b3726a108cdf93a1bfc0a0e277dcd6b2e",
+      "CRC32": "7a8cad22"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light2.vmat_c",
+      "Bytes": 4602,
+      "SHA256": "f04f99cec929817d3c09eac5e51f2085e81e4c3cd1d4db1e38e190c1379ccf4b",
+      "CRC32": "46bb14e8"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/eye_purple.vmat_c",
+      "Bytes": 4380,
+      "SHA256": "84b179cd9e4a6f108361f2d58c54162920e405c665207c120b4dbc57ad9875e5",
+      "CRC32": "27737684"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face.vmat_c",
+      "Bytes": 4160,
+      "SHA256": "4158cdb69c232c659f5d7cd13aa22a519b4f6db235e462bc22b89b4b52a42ef4",
+      "CRC32": "eff99df4"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_effect.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "3482db233e63476250265dbf70fabd1b3b591185126013200487935d60f27810",
+      "CRC32": "fc1bc742"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_eye.vmat_c",
+      "Bytes": 4316,
+      "SHA256": "d8c19707a17c5f2579c0a7218825247bd1eece4f833240a8605d735956c98683",
+      "CRC32": "131cc4ad"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/glass.vmat_c",
+      "Bytes": 4208,
+      "SHA256": "19a9411a4742a4f8820441463c27055dd2cba45276f1c79407f88f5c0aac6a9e",
+      "CRC32": "74dac1ad"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/hab_in_side.vmat_c",
+      "Bytes": 4442,
+      "SHA256": "a1b9a2d6e1671f0602ed9be57eb2476cd33b36dcf89f7d903474d086fc8b9f85",
+      "CRC32": "0d8f9e18"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/hab_out_side.vmat_c",
+      "Bytes": 4442,
+      "SHA256": "303ecc8138a46216d87eae3d0791f63edfcc9c38e12c229354ad4aee023eeb4e",
+      "CRC32": "afc00746"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/halo.vmat_c",
+      "Bytes": 4458,
+      "SHA256": "4709cebb4ce7b68deef92b6fd571e57547ef13ecea3ca504f1b4997f8dc96f9a",
+      "CRC32": "1be5f1ac"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/m_fairytwin.vmat_c",
+      "Bytes": 4224,
+      "SHA256": "0618af830ea09dbae97760e2bf2afd27dda2aefd5d776574910ac4af0f296080",
+      "CRC32": "962f9955"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/m_fairytwin2.vmat_c",
+      "Bytes": 4176,
+      "SHA256": "026c474e5faf9d85f7b595a0effbe921859a7c56db4e1ba153f2528f3f6bea4f",
+      "CRC32": "99244320"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/magic.vmat_c",
+      "Bytes": 4474,
+      "SHA256": "6bc9457488d23947c65717a9e094e38a590b13cd7ae1aba2df92d192a51c28f1",
+      "CRC32": "e9c5e1f1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/magic2.vmat_c",
+      "Bytes": 4506,
+      "SHA256": "ac429829fd0ca3530d99dd059281ffdd6d980ecb9e6a5b0be2caaa01b29a338e",
+      "CRC32": "b778b31f"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_4.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "8e6c0f0998e5017f8502135dc6a0f72b01aa3a460c66d93129d5cfb53af2967c",
+      "CRC32": "11dff91e"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_5.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "b250db621a651dde42aff33dd0a1c5ff0297bbf877c070b04fc5bd5fac8d48d8",
+      "CRC32": "65e2a7bd"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/purple.vmat_c",
+      "Bytes": 4300,
+      "SHA256": "1a7664b226eee65f429780ff1ef6b71cbb683feeff7dcb589bdb9a5e6202c7fa",
+      "CRC32": "9181f9a2"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv.vmat_c",
+      "Bytes": 4208,
+      "SHA256": "78ac7dbc1db999a93f7efbf421021ab6f6011f2c534cc2bb1cc6190d53c33cfb",
+      "CRC32": "a1328c6d"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv2.vmat_c",
+      "Bytes": 4192,
+      "SHA256": "333505e2d22310911c80a3a583b8abbe0bf7146e695848ef532c45f8df4d86b3",
+      "CRC32": "1813489e"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv3.vmat_c",
+      "Bytes": 4332,
+      "SHA256": "bd3cbc99b09268a257ffa4f651c442c8d2694d774d9925b0f4ad2a3055c40cf6",
+      "CRC32": "9323a32b"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv_tail.vmat_c",
+      "Bytes": 4442,
+      "SHA256": "50b448a4d7ac3af4de22bfd3c4da1f8e14f7a5a0fd4b0354f2531f639be513b3",
+      "CRC32": "2da1480b"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv_trans.vmat_c",
+      "Bytes": 4352,
+      "SHA256": "5100236cc3acc9d0c90b27c840f48f8439ad52a19b9a50020751986e5c7ea1ea",
+      "CRC32": "d8578b47"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/bai.vmat_c",
+      "Bytes": 4204,
+      "SHA256": "183466d34e5f937716be25292b1696c447ba12b8265bf77b62f9b743c37d0dd1",
+      "CRC32": "afd96ff3"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/c.vmat_c",
+      "Bytes": 4064,
+      "SHA256": "4f35aa70889c735eeaafea72ba32029f9375cd16460c23c6ccbae5205b49373a",
+      "CRC32": "67ccb391"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/lan.vmat_c",
+      "Bytes": 4204,
+      "SHA256": "8572d528dd5916b796363eddc2fef77887d25e7f8c49b40c1f42e225a711fd3b",
+      "CRC32": "a71091be"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/lv.vmat_c",
+      "Bytes": 4204,
+      "SHA256": "ad4f39cd14266dd5e7b6545d4937ca3d0af09ccce7b4ac3756417aad776d1811",
+      "CRC32": "694c7dd4"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/mb.vmat_c",
+      "Bytes": 4204,
+      "SHA256": "0e9c77306fef6e42535501eab3b3e8208b767b44863a527323cbbf9fa0e9646e",
+      "CRC32": "7d02413d"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/tou.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "039c19bf49df35804343defd1715a82b48eedcd4704f951257c5b3eb1b46e2ad",
+      "CRC32": "ea0ec46d"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/body.vmat_c",
+      "Bytes": 3984,
+      "SHA256": "d442764ab910c5d8639701b8b3a77e4fcb47c4dac7859b5e8df52a980cddbebc",
+      "CRC32": "6cce0deb"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife.vmat_c",
+      "Bytes": 4016,
+      "SHA256": "94d61779496cd71a9d294b694135044f4ebb06e10318eb7b99f3bafd6dfb0cb7",
+      "CRC32": "07ca1bc1"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball.vmat_c",
+      "Bytes": 4048,
+      "SHA256": "f243214e894df496c8d9bfc64dbc3bb03999c9dd22b87ef5dec70f7f05c3a856",
+      "CRC32": "48d6dff9"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "fba22cbe1a22cb0f3d71f4487b03ebfd5f19dc5b737dff650205c0cd45a48a3a",
+      "CRC32": "f4382bf0"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/head.vmat_c",
+      "Bytes": 3984,
+      "SHA256": "78b778920c7f31c3b2846de207e22c4328e57312ddf8392afb702cb888d2d67d",
+      "CRC32": "dca6ca80"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "18a9a7fb6ac0c73f6d438d3236dbfd2216994ae4c58019dab7d34b4a21c77572",
+      "CRC32": "14d2cdc7"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat1.vmat_c",
+      "Bytes": 4070,
+      "SHA256": "88eba87f58aefa826becb77d5d7d3f2bd27a01d7fb833e3bdb475655c0039e06",
+      "CRC32": "384c2a68"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyel.vmat_c",
+      "Bytes": 3958,
+      "SHA256": "444d9673e4645b8d86e1621c4074a71129f3c5e8c4c2a01f6bbddc7ac48e9b3c",
+      "CRC32": "8c70c62f"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyer.vmat_c",
+      "Bytes": 3958,
+      "SHA256": "d6f594df7fe523d41272c5273b0764013b1c656cbc147d6015b41bcc44c73970",
+      "CRC32": "875e5f9b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/face.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "d5d13c05be523097a6b6e304003e07e7af23fa2367d010e14d4af525369951f0",
+      "CRC32": "105fd5d1"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem.vmat_c",
+      "Bytes": 4247,
+      "SHA256": "5af3a21a6f95b7f2972cabfb652b6b191fb99fe780340fa8ebf5da41edb6ab4f",
+      "CRC32": "db8db2d8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1.vmat_c",
+      "Bytes": 4231,
+      "SHA256": "24eb88db54a5f9832d3713524c683fa05572de1d5112217cd2d6ca0bbc1255f8",
+      "CRC32": "064a1ab9"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair1.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "3835ee0b416929a2d36942bba9ff4ece91f619bdd4ac284c90895ad7200546b3",
+      "CRC32": "7c7369cb"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair2.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "3116342d097d17d0b5fe44704f472164e5ece34882079ca4ba6ef786fb38f2da",
+      "CRC32": "2c5abf1a"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl1.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "e077f9a4599740b21b3ff9378e4b65c63cf44fd4771ffa728d8321f54444f747",
+      "CRC32": "9ab1b90b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl2.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "2422cb2bf6426e7be284f81acea303248622219665e7187962a7b312526f4b30",
+      "CRC32": "88a93182"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanr.vmat_c",
+      "Bytes": 3846,
+      "SHA256": "0caff36e39df6a420f4e7f162e003f023e969c5f8affc005a1df7bde8e9c0b2a",
+      "CRC32": "db5e4ea4"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu1.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "f17a6ba1bdf2fbb0cbe7b5f3d32e4d27b4bf0a46b62a383bfdd522c70971f31a",
+      "CRC32": "cb36183d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu2.vmat_c",
+      "Bytes": 3830,
+      "SHA256": "22dcd3aeb1845ea94f21e470e675167f75edea704ed16d8f81eaf479abf1b017",
+      "CRC32": "553d496a"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi1.vmat_c",
+      "Bytes": 4102,
+      "SHA256": "165a6658c9f054bb35edc1bbe7d8dc7f7b1953f0394f67717d28ffd498c55168",
+      "CRC32": "00ffc68a"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi2.vmat_c",
+      "Bytes": 4102,
+      "SHA256": "e7bbfb79a7fadd2da48e6a0903f768dfa59d2210586505a48fbaacd7b9ca56e4",
+      "CRC32": "fedf4087"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/body.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "59ff44885c532840474c4a34df0abd344eb222e9eceded28d39eab7097932f53",
+      "CRC32": "df212ee1"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/cl2b.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "2f215cf59c970ff3cac5d24d42d1805e3a880209ad2f555e0979f38620907a0c",
+      "CRC32": "852d0deb"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/metal2.vmat_c",
+      "Bytes": 3900,
+      "SHA256": "f119e29807ac56130a65cf74a64ee3719e05bb5d0ff3e43c6b029c2ce4f4e86e",
+      "CRC32": "91aee3bf"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/body.vmat_c",
+      "Bytes": 4079,
+      "SHA256": "0d06360b732aa52e78060c65306eb5c8e3cb0756cd84d8f0f5f5e9cad6915535",
+      "CRC32": "3fe07aba"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/cla.vmat_c",
+      "Bytes": 4189,
+      "SHA256": "0cf84bc290105cac5f18a1483caae0672a03e10267a71bfd19554cb0d50a0b35",
+      "CRC32": "45513a4c"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/clb.vmat_c",
+      "Bytes": 4191,
+      "SHA256": "b043dd2d5c4c8e3c5fd513031d04ac1fcbd588c08c00669b7561aac767869818",
+      "CRC32": "15065409"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/eye.vmat_c",
+      "Bytes": 4141,
+      "SHA256": "8bb4f1f973b9848c316cccd581c2bc7d6fa95c95f0b34f84ff80fad6a53eea46",
+      "CRC32": "4758911c"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/face.vmat_c",
+      "Bytes": 3853,
+      "SHA256": "cff570d5c77c3b9d7fceb294c71769a30a5fea2850b4789454c339da3d964930",
+      "CRC32": "7b47495e"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/hair.vmat_c",
+      "Bytes": 3853,
+      "SHA256": "5a2a0d755cc674a276e0e607beb2c49e173abff023bb28676502f9d1adbe869f",
+      "CRC32": "4afcc418"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/hair2.vmat_c",
+      "Bytes": 3869,
+      "SHA256": "1c8efbfc846fa583a77c693963fddf015b779a5f55699adcc61bb63ae09d43c2",
+      "CRC32": "6887fab7"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/shengheng.vmat_c",
+      "Bytes": 4173,
+      "SHA256": "73adadc15598856f1a3a4df20d82b25c57be414a56205eff841a495dab14d632",
+      "CRC32": "43d4fb3b"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_1.vmat_c",
+      "Bytes": 4191,
+      "SHA256": "20e851d16ebb5e855e213668355dc010801ba72735853d1424f92f7766754edf",
+      "CRC32": "3dc2b1ee"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_lese.vmat_c",
+      "Bytes": 4447,
+      "SHA256": "6a86396ee26d2a97472e4a495dac3129cb7c585bb3ed7fcfd4840874fe6bde67",
+      "CRC32": "454c966c"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/metal.vmat_c",
+      "Bytes": 4032,
+      "SHA256": "b8c5b0bb3013afa9839a1cf61ea0cd051dc178ebe7b2b789a6cdebbcf5e93aae",
+      "CRC32": "2c4c380a"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/rbg.vmat_c",
+      "Bytes": 4236,
+      "SHA256": "97a5b47334ed7c2020fce5a93b354e3cb18a6958c74a0d47bddec56ffff473fe",
+      "CRC32": "e0c69587"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/metal_glod.vmat_c",
+      "Bytes": 4048,
+      "SHA256": "a031ba06952a9677260f0cf8b187ec1ebc310b1d25ba69199c9fad879e6ae780",
+      "CRC32": "49f623ea"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/nail.vmat_c",
+      "Bytes": 4773,
+      "SHA256": "7ece7f3af47ecdef6ed5c878042b335be139b55185c7074bae92b3b0499cfb7d",
+      "CRC32": "d26fa426"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/body.vmat_c",
+      "Bytes": 4064,
+      "SHA256": "cd5c214326c0e5aefee2ba46527fac4f5e09999f905c3ca025f45dba2df85ac5",
+      "CRC32": "018dddc3"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth1.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "88044377046b61fb1ff0a9bdff5b87e70852b374afd8a52f47fc7033b22ae687",
+      "CRC32": "52a70870"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth2.vmat_c",
+      "Bytes": 4175,
+      "SHA256": "3193069b2e926b17ad14e7efece93f18bc9c52094e866ca6b28e597f04bbea0d",
+      "CRC32": "7500ce42"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth3.vmat_c",
+      "Bytes": 4447,
+      "SHA256": "9f3829c25202c07c4652c2491c136c7c168330ba9bf5feb5cfd4d9181e7dedb8",
+      "CRC32": "aab081a1"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth4.vmat_c",
+      "Bytes": 4112,
+      "SHA256": "3c53c6e519d87cc17378ae07ce192c3cf492d19f50727d60c4f58de3bf70e010",
+      "CRC32": "4916dc8f"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth5.vmat_c",
+      "Bytes": 4415,
+      "SHA256": "86b17a5ad36e217d06b43b4e7820c24c2de2be4a02abde7c9133380af206af81",
+      "CRC32": "76ba152d"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/face.vmat_c",
+      "Bytes": 4220,
+      "SHA256": "51a1b0efa2edb4cbc7cd7486357f1980cb77c8c09f54c0349e072bbb24b9cef7",
+      "CRC32": "ac8c75e1"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/hair.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "01763685acb84472653119fcc68d6765648c3a2c6f51a68c9607f9f03df618bc",
+      "CRC32": "cb945104"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "5288eb41fb1dd7c63b5695764258e941a61d2f9812d28ea315a1b2a3c070edd9",
+      "CRC32": "714e3508"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes_lens.vmat_c",
+      "Bytes": 4368,
+      "SHA256": "2aee0e7d6abf2a585f58a5c3e127501ebfd8eeae791b523fa1a79f439a7b83bd",
+      "CRC32": "1ae99b82"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/stocking.vmat_c",
+      "Bytes": 4400,
+      "SHA256": "b7b497134f1981e8e31488c388f16a47627f06e546b7f5a9d00cae25138144bf",
+      "CRC32": "cbcd2c40"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/arms.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "8cd16580b2c8e55ee30ece60f142622b1c6f66103e8456f4b1f2bcdba02c448b",
+      "CRC32": "b015afb9"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/bag.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "519f823de7a4285844d2982577e96586be9f5352e6ee517799c288cc34c1a6b3",
+      "CRC32": "b47cc1a2"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/body.vmat_c",
+      "Bytes": 4031,
+      "SHA256": "6c509aba30c2f685002d6ee2aac68cce99aadf1e9eaf4b447e619aa8eb118657",
+      "CRC32": "dd2c34cc"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/cloth.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "36b852f78bda63f3156c7c9e9cfdfe9ed5693f6e14b8450b9b67ba2c1a331d0c",
+      "CRC32": "2e3670af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye.vmat_c",
+      "Bytes": 4157,
+      "SHA256": "9d4666419c28f2876141e5c7c181f8b9f7cfb5739a12199dcc177868915a65e2",
+      "CRC32": "4a7433af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye1.vmat_c",
+      "Bytes": 4125,
+      "SHA256": "e67bd74b817dabf6fb79c18c7e72f654d212d6dca24250747782f6b31888a57e",
+      "CRC32": "c569e9a8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye_trans.vmat_c",
+      "Bytes": 4191,
+      "SHA256": "cae5bbe130fd9fb53cae588d56fe0171d1413a80f63174a62f1799dd1b06b8a8",
+      "CRC32": "3e4881bc"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/hair.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "cc7be54799d4326b0bfd317f8533825ab8778f7c88b0b098453ad2bcc662bbcf",
+      "CRC32": "6a76e645"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo.vmat_c",
+      "Bytes": 4125,
+      "SHA256": "fa260e7008a9512c42d17a0a9f0637045a75dabcf42648b7d7bf7e45096c2081",
+      "CRC32": "8eac9e5a"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo1.vmat_c",
+      "Bytes": 4125,
+      "SHA256": "e0a361bf14e3b2dccf1a39cf478818dec640aec2695c23b6f24dad026848c8e8",
+      "CRC32": "bbbcfddd"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/head.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "d2a517e3eceb72226910f6a5c6fe67ffe07ad13918bde1be003ac48beed31297",
+      "CRC32": "c168200e"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/nail.vmat_c",
+      "Bytes": 4157,
+      "SHA256": "6382396bc2d1e1d24f695770096630010b69e28b690306de957b1338527ba118",
+      "CRC32": "37a7275f"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/other.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "ee2f301cecd43659c9d5729f8e00db827d519774c4fe383acf42f882f54a4317",
+      "CRC32": "7bde4ce8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/pantyhose.vmat_c",
+      "Bytes": 4079,
+      "SHA256": "b396da8853dd6de478bf339f9881130bc6b39af8814718048eb5518258493cd1",
+      "CRC32": "88fff653"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/shoesbra.vmat_c",
+      "Bytes": 4079,
+      "SHA256": "4e147ccaec4b33d2790699ce3860d0be25e88e0bdf2127ae5d0d2a6de71d8bb3",
+      "CRC32": "ca2ea52f"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/huohua1.vmat_c",
+      "Bytes": 4220,
+      "SHA256": "8a13b8024f3ad9fdd1b72b56d4fe101a6a366ee323dbfc42f3ae4377f6a01745",
+      "CRC32": "70806e4b"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/huohua2.vmat_c",
+      "Bytes": 4394,
+      "SHA256": "dc3e07fc5c05c8d0e7481f0f90993e810e1f993a796cc1981ae770d541ccef97",
+      "CRC32": "2361c227"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/5xing.vmat_c",
+      "Bytes": 4189,
+      "SHA256": "906f6c198125462b664d01e093e841b8e3be44a58f8a37cc1a9ecb88da4811a2",
+      "CRC32": "57e1b8ec"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/bangs.vmat_c",
+      "Bytes": 3901,
+      "SHA256": "b6722becb0286da4800c0d167fad91ff8a9173dd89e80c0e73dd35bb31d4aaa0",
+      "CRC32": "4a620a52"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/down_d.vmat_c",
+      "Bytes": 4175,
+      "SHA256": "577fcb686ab4b0d69f13bdea49886e2fc0accf08492d56a45d945b7348d5d929",
+      "CRC32": "b827e605"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/eye.vmat_c",
+      "Bytes": 3901,
+      "SHA256": "cbe09df85348f72e1d850022124fc680f6146bb62847452c14a767a2b99b330d",
+      "CRC32": "28d81444"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/face.vmat_c",
+      "Bytes": 3901,
+      "SHA256": "eb9aacb0796e09db20fd036bb3c16ba697448e26cbaf4e8d110141272d1a9bdb",
+      "CRC32": "629af0b8"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/gaoguang.vmat_c",
+      "Bytes": 4141,
+      "SHA256": "aa748916e5e56402e9baf4f6740cdc03b285be99b6b3307b662922cd2f0bffbe",
+      "CRC32": "9e156434"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/hairs.vmat_c",
+      "Bytes": 3901,
+      "SHA256": "0ba6a841896d69139fd32fe1fccba8988113be24d50e700170b998c2ec54165c",
+      "CRC32": "5b5af1cb"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/leisi.vmat_c",
+      "Bytes": 4162,
+      "SHA256": "f9e9ab18a30e3fa87cd0b2121877d95c87a3ddaa760d5cf263653e631db01d62",
+      "CRC32": "dd751668"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/up_d.vmat_c",
+      "Bytes": 3901,
+      "SHA256": "517de87cd738a0524ea2553a867c5ae5e1994a811bd519c8271ab135550bcdda",
+      "CRC32": "22747b63"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/body.vmat_c",
+      "Bytes": 4144,
+      "SHA256": "ffc179e0517d03f6021f8bf6bbf4d6c3263217096270eeab546b98f315103b83",
+      "CRC32": "09d7b8ae"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/body_shine.vmat_c",
+      "Bytes": 4348,
+      "SHA256": "784722d60aa36799e061f5a8729a844876d3e5e040e61df83df06fba13d73d7e",
+      "CRC32": "35eeba83"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/face.vmat_c",
+      "Bytes": 3910,
+      "SHA256": "d72735d3746c4d128ccaca02b4d622a7c4de9fccb755fe522c70aa7e8a08b2c1",
+      "CRC32": "34574f75"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/hair.vmat_c",
+      "Bytes": 3910,
+      "SHA256": "2990fe11a71aafeb3a0b9e2a4601c0a6fe173ddf15f53570016a766b0773628c",
+      "CRC32": "c5c6ff61"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/mask.vmat_c",
+      "Bytes": 3702,
+      "SHA256": "1773edaad6fc0a8b997eccf85187ea8ccf096dbeeb43eb9ea8d7baf389db5e47",
+      "CRC32": "e47c3252"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/miaobian.vmat_c",
+      "Bytes": 3686,
+      "SHA256": "a9b16438ff20c82dd79ce4455f13514126e1bb9ee5604fc0851402949b461a3e",
+      "CRC32": "61ef2362"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/touming.vmat_c",
+      "Bytes": 4006,
+      "SHA256": "4fa3a01e7d5fce6a76d47a35d505ec1735f7769ec32f10c8fc788fcf406be14f",
+      "CRC32": "4ceba7a5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black.vmat_c",
+      "Bytes": 3999,
+      "SHA256": "3703fb930ccfdfedc8ead7ce63a72feb478e1bcbcefb6d71c2be4b611258e96b",
+      "CRC32": "da15713b"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/body.vmat_c",
+      "Bytes": 4063,
+      "SHA256": "5d9bd8ffc40e8a874f527e2c23970f24bd424182d47df84f827a60a2688e20f0",
+      "CRC32": "c22e89af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_a.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "0a6334de434f9cec5bc84fc134f0dd066bfef26b9c6fbba34e8cebee4f56f2bb",
+      "CRC32": "59daaf67"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_b.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "fd7a7c47b17c63ee394bf0146f865b1c88b26bbf704b4051271f5fb44df8ce72",
+      "CRC32": "063a091d"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_c.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "646b2c6f13dd20d383a4763c59fb1a9a9f11449983b05384f3861e48f0cc0499",
+      "CRC32": "fcfb8b2f"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c2.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "ab8db3bcf99e12389ff0f7adb0d85baa4edb7d5590a9ddb425609f1577bb56a9",
+      "CRC32": "17af5af8"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c3.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "610b3942d3f0985f3cb41ff3c28fc40e0ace0408aebc38dbaf4fc10e0c1a58d0",
+      "CRC32": "e84cc53a"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ear.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "a16689c99dbe6ccd1df9574bede64bff570c03876a83a0fa137e4c7ae062ec38",
+      "CRC32": "ce05afb9"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/eyes.vmat_c",
+      "Bytes": 4221,
+      "SHA256": "3d92b4a18221c2bfcf455e0bf9f4e2c62290ee15bb8441a795e50f042cf89e8f",
+      "CRC32": "55290cf5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/face.vmat_c",
+      "Bytes": 4047,
+      "SHA256": "69aa9e3c6c414244e67613f7ccb917a6d8826632e3a67a62805147c1487e7942",
+      "CRC32": "4b03f15b"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair.vmat_c",
+      "Bytes": 3999,
+      "SHA256": "139ff30a6aa8ac6f34daed2b532232c544d7d1d1e91d66fd356c7b9739d18158",
+      "CRC32": "8ec0512d"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/highlight.vmat_c",
+      "Bytes": 4189,
+      "SHA256": "b23629f0774ff7461d718b043d46bb49262e3fed1c594851d18b7610ceef367f",
+      "CRC32": "5e443ccb"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/nail.vmat_c",
+      "Bytes": 4080,
+      "SHA256": "acf26428268c8da68d1817be21272a3d5cc193ff889136319c3730ba51aea0cf",
+      "CRC32": "57a342a9"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ring.vmat_c",
+      "Bytes": 4032,
+      "SHA256": "7f1f6d5e3a587673298c4e5adc4374100eba33c0ba28f19afda12e7a63f43f8d",
+      "CRC32": "e34a84cf"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail.vmat_c",
+      "Bytes": 3983,
+      "SHA256": "32064b09f416c93c0da3305cccc8fe744acaf199a3f9c3ee2f24258598525ffe",
+      "CRC32": "c0720ff2"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/underwear.vmat_c",
+      "Bytes": 4079,
+      "SHA256": "16dc790891ab5f99a329f3438155cf8c59601a476790bcf66cc1c4e330a2b8cb",
+      "CRC32": "1e2ad35e"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white.vmat_c",
+      "Bytes": 3999,
+      "SHA256": "f566e8cb361e1685e9086f8b7a86b52e33059df70c718584455f7ef3daaac947",
+      "CRC32": "c3df0955"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/eye.vmat_c",
+      "Bytes": 4252,
+      "SHA256": "4f0ed03019acf66897ef45d9e209bb2f0696252683c6e9339b836d928c9d50ad",
+      "CRC32": "80a12fe1"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_body.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "79b11cf2ab7b44111cdc350b763ceece00aff5e462394c0ba066c677f6170184",
+      "CRC32": "816c0dce"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_costume.vmat_c",
+      "Bytes": 4176,
+      "SHA256": "c0f9708d595ab66e77b8ac22ed1886f2494b73c92d66c574bc50d09d7b798887",
+      "CRC32": "ea05d39c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_face.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "a6f0b593f66390ac45a43a647e937f6dbbd851c6739363be6e7c58c066b3e229",
+      "CRC32": "e74eb1fb"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_hair.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "62d1367908c74a55c1c7a874c28046f7b5f7af200910120f2610fead9bb92f11",
+      "CRC32": "39fe46cd"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/a.vmat_c",
+      "Bytes": 4192,
+      "SHA256": "c16893cca85e5636f0ce8ec529235ade5f3081973cb7137b007a2a8b8dfa0c83",
+      "CRC32": "85153b59"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/b.vmat_c",
+      "Bytes": 4192,
+      "SHA256": "7926eb871cc6ec3ec4bcc481b22cf3220520af47890f2eea4a47fb6d7fa78a8c",
+      "CRC32": "4a1891a7"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/c.vmat_c",
+      "Bytes": 4096,
+      "SHA256": "a755cf066d5486571e36adc8f0d4c9319d890bee4fe912dc1856d045853ded11",
+      "CRC32": "1c4d5ad6"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/d.vmat_c",
+      "Bytes": 4192,
+      "SHA256": "23ef72b9a400901e4490f28f79e2c9912e914d991414d68481ea856709fce416",
+      "CRC32": "423006af"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/dress.vmat_c",
+      "Bytes": 4544,
+      "SHA256": "811c9af3aacb4cdabe879b3b5fa49aa3459866876d889a3e065f90904974af79",
+      "CRC32": "09f9dc6b"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/horn.vmat_c",
+      "Bytes": 4160,
+      "SHA256": "07bb5a4d609de71e7bb7a58278fc130cf644e7b710983544122dbb7deb6b0abd",
+      "CRC32": "b03f8aa1"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/shoes.vmat_c",
+      "Bytes": 4208,
+      "SHA256": "4e7cb2c4b0ac383f222579eb0bc771129c29ddac8fb0392f790025737f3d397b",
+      "CRC32": "f5944132"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/tiara.vmat_c",
+      "Bytes": 4128,
+      "SHA256": "9848b288c777defbd791c9ec7bbf690e30038db8aa5a26c36790ecce3d891e84",
+      "CRC32": "536991e7"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/wing.vmat_c",
+      "Bytes": 4208,
+      "SHA256": "b732dea7cc9dadbd096f802fc5c89e1c79fdbac5d71a0f2b6177c22bccfefd9e",
+      "CRC32": "5bb7251f"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/goth_twin_tail/pony.vmat_c",
+      "Bytes": 4144,
+      "SHA256": "0668b2a9b5df32585976bfafe6f297bddc19cf26f2ee6f535db6a0ba42bf6e75",
+      "CRC32": "760689d1"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_crystals.vmat_c",
+      "Bytes": 4208,
+      "SHA256": "633ec7d96f63091a27262c0f2d71561438d2408ad735d3a4ac1eaf9c9438d701",
+      "CRC32": "999e1283"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_moonlightchoir.vmat_c",
+      "Bytes": 4544,
+      "SHA256": "ee1b1e590368c8b8928c4b568df708d9e11376c42258675f5274b282a865d0f5",
+      "CRC32": "e2bd3c07"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_pearls.vmat_c",
+      "Bytes": 3820,
+      "SHA256": "81dc745c1db283c5581755565443a38a28df074b006e062cbaa315a803103110",
+      "CRC32": "231c6460"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/buttonbvcx.vmat_c",
+      "Bytes": 4064,
+      "SHA256": "b34e768f27365953eaaa8d6742ed8f858a68c9cd27951b9590807a446a8951c2",
+      "CRC32": "c6ccdba1"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_clothes_brown.vmat_c",
+      "Bytes": 4256,
+      "SHA256": "56999e909de7eae79897691361c88ead146152293d3a9b7fc7c47cb43ec91e32",
+      "CRC32": "54429299"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_etc.vmat_c",
+      "Bytes": 4432,
+      "SHA256": "ddc68c882c7813905290329423007e61c8f2f5a1dc68b556f08d67f42b2240b9",
+      "CRC32": "849d2543"
+    },
+    {
+      "Path": "characters/models/remuru/roughness.vmat_c",
+      "Bytes": 4015,
+      "SHA256": "bb661652b1948b600701b888c8dedda35a135868eb38ed11887a2d431eb39b94",
+      "CRC32": "3df47d1d"
+    },
+    {
+      "Path": "models/weapons/exg/tokyocold/ba_face/ba_weapon_ol.vmat_c",
+      "Bytes": 3885,
+      "SHA256": "2efa483eec729853d4dab01820c666073473a78c8f5640e0daf3eb56e820fe8d",
+      "CRC32": "2e2e3f75"
+    },
+    {
+      "Path": "characters/exg/10052/10052.vmdl_c",
+      "Bytes": 4877068,
+      "SHA256": "529749f458e98d6c5622a94af469bcdfda2362eaa22803726362a232fc135ddd",
+      "CRC32": "95ae4124"
+    },
+    {
+      "Path": "characters/exg/10073/10073.vmdl_c",
+      "Bytes": 1724377,
+      "SHA256": "9115a88ab325603f04ba6d84b8153d35d0ec61760614132348dcfab32933c3f3",
+      "CRC32": "6d2ce521"
+    },
+    {
+      "Path": "characters/exg/10089/10089.vmdl_c",
+      "Bytes": 1197332,
+      "SHA256": "df2fde12b5867f24846eb2079225a82b73684fbc5254fb79cd3909769dfe17d4",
+      "CRC32": "0b3afa4d"
+    },
+    {
+      "Path": "characters/exg/10092/10092.vmdl_c",
+      "Bytes": 1546685,
+      "SHA256": "138e654aa06251f8d3a5ad236631891f2b341fdf024503b0a1163c8b386e9e5e",
+      "CRC32": "86bcdb51"
+    },
+    {
+      "Path": "characters/exg/10096/10096.vmdl_c",
+      "Bytes": 2685702,
+      "SHA256": "3ca076d85a3590d7cb5037b4cbf9d911b5917086d31b026cf5aa9ebcbfb28d24",
+      "CRC32": "4436e2cf"
+    },
+    {
+      "Path": "characters/models/aluona/aluona.vmdl_c",
+      "Bytes": 2039332,
+      "SHA256": "18954d150f6bad965c6d7449ca21632f6e7fa1b0270033f7a54eb4f7a712363a",
+      "CRC32": "d206a802"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/chiffon_fox.vmdl_c",
+      "Bytes": 3463087,
+      "SHA256": "43b79d5e2f2000171ba9171825ab448dfa3f9e7b8ff59b9561580413878fd656",
+      "CRC32": "2082a279"
+    },
+    {
+      "Path": "characters/models/chikari/chikari.vmdl_c",
+      "Bytes": 2623146,
+      "SHA256": "6377c04936f0f44f08cd2cd4e0d7f57cb47ee810c10413ea87f32338e2192fea",
+      "CRC32": "f3cc8b00"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/baizhouxin.vmdl_c",
+      "Bytes": 1558159,
+      "SHA256": "14ee281b95d347eb5291019e27cde04c589c4fa6f4e33e2f38c553af6cefbef0",
+      "CRC32": "3394b64c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/lime_e.vmdl_c",
+      "Bytes": 4095192,
+      "SHA256": "981f1d46fa80ad004972d2e04276ed6fde80208993191d47a832d4bf67ca778d",
+      "CRC32": "1d3c5973"
+    },
+    {
+      "Path": "characters/models/exg/myers/myers.vmdl_c",
+      "Bytes": 588856,
+      "SHA256": "f155aba7d3e9da2719ae2c43710e7be1d1c79a1dd716e62147e0cc603822c6c5",
+      "CRC32": "cb182f28"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/pardofelis.vmdl_c",
+      "Bytes": 2855382,
+      "SHA256": "8a4bb392bef164629db3c3f9259dc578213ac2c6a91fd66e18d5810c15eeef1c",
+      "CRC32": "68bf9ab1"
+    },
+    {
+      "Path": "characters/models/exg/serina/serina.vmdl_c",
+      "Bytes": 1136050,
+      "SHA256": "a70c5ea3aaae81d93e82922e32f3b9f4265b32ed8b8ad8b7c5a83bd4b40f9f3a",
+      "CRC32": "6f2e2885"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vrc_lime.vmdl_c",
+      "Bytes": 2282244,
+      "SHA256": "b7fba838b47a6ef6457b322cbcb4d94bead659664e3275a33fb105dd51a08a8f",
+      "CRC32": "8a5fe94e"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/xmanuka.vmdl_c",
+      "Bytes": 3568732,
+      "SHA256": "38108cb01c31b82225303b44e83450c1baa072e251d7224cdf100b6feb2e66c4",
+      "CRC32": "15622172"
+    },
+    {
+      "Path": "characters/models/aluona/aluona/face_vmorf.vtex_c",
+      "Bytes": 135976,
+      "SHA256": "3969929d77f551e23f2cb5d914bf1417e9bf81fc5f158c75d1a19ceaa0fb7e64",
+      "CRC32": "97ffb753"
+    },
+    {
+      "Path": "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "45a057ec03514b44925ce2be8b95879afcb0e29dbb6a63d32d19147528ac000c",
+      "CRC32": "6f3cb407"
+    },
+    {
+      "Path": "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "3454703e07f7077b77e5a717cc3242ca2fea0d4a08afb5731fdcc0590e51c473",
+      "CRC32": "aaac60be"
+    },
+    {
+      "Path": "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+      "Bytes": 2798252,
+      "SHA256": "a84a6dc1966af62bf7cb65fdb0ad5ec82190c4ffdf03a16227d1417eea0c9e06",
+      "CRC32": "cd8816ca"
+    },
+    {
+      "Path": "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+      "Bytes": 701100,
+      "SHA256": "bcd27cdf7955f8b617a86a8090fc971c82e45937e3d6dd63d2082184ec474aba",
+      "CRC32": "dc0bc4f5"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "923777b5faba077e309e0d7c74adef3a0e41b07439de95fab99544e1ed8b8dab",
+      "CRC32": "b95be032"
+    },
+    {
+      "Path": "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "21e05b1073cc9b3750b1c7e76cca57d0925edfae5e43f7ee5f447299c8806f23",
+      "CRC32": "ad9c1a4c"
+    },
+    {
+      "Path": "characters/models/chiffon/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/chiffon/materials/chiffon_body_png_572cfc12.vtex_c",
+      "Bytes": 701132,
+      "SHA256": "a736e771298b7492d008e541620204899631baa08c0d686aadd68d086cd10aa4",
+      "CRC32": "6858cdb2"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/c (27)_png_50fbe2bb.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "af6854df94a360908ebdb5984b0d2faebc0c4a1d62b98389268c4bcbb721c098",
+      "CRC32": "a248d0f1"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/c (27)_png_ffcb78c0.vtex_c",
+      "Bytes": 89648,
+      "SHA256": "b57d9e844a6b1972cc7f10397a26a16de436d62407a0babb4519b248c8eb2402",
+      "CRC32": "983f0dba"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/chiffon_face_effect_png_39365f2d.vtex_c",
+      "Bytes": 89648,
+      "SHA256": "96b531d11c8c6c3b052c2f9db51b64eda8fb253dbeba3a4a4b3c9d76b981ba93",
+      "CRC32": "af377592"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth_2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/cloth_3_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/eto01_1_koori_png_4a849578.vtex_c",
+      "Bytes": 177016,
+      "SHA256": "fa19b8ae6aa2e48ba40b5cef93089478ee600b8464fd06951620142393578985",
+      "CRC32": "40605344"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/eto01_2_koori_png_6e51b9e.vtex_c",
+      "Bytes": 177016,
+      "SHA256": "da68829360a81c91b5334a3eb57c83ef8b3a3fd2e43291c896dbe2a0b15fa04a",
+      "CRC32": "2d44501d"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/eye texture_02_png_66e95bf7.vtex_c",
+      "Bytes": 701304,
+      "SHA256": "0fc29600626aba5db644715a655314e3d17cd0c0e55c407aa098a142dc8c6287",
+      "CRC32": "7c090cbc"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/eye texture_06_png_4e12cd3b.vtex_c",
+      "Bytes": 45944,
+      "SHA256": "e4a205fbf8391885749b0c210ab0a1db2053e76b8ff975060a495ac7a3d19863",
+      "CRC32": "c6bf461b"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/jewely_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/main_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/ribbon_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/sky_blue_hair_png_a6298785.vtex_c",
+      "Bytes": 177016,
+      "SHA256": "15565036490383afe65494831e0f149f3aa8ad8cf05bc77464866f96dfd870f7",
+      "CRC32": "dd73be36"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/sky_blue_png_f28679fc.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "29ad2b68dc7bb58ed27a720c9bb1c1ef52840b002af0704aa8d313b3f7c11a84",
+      "CRC32": "84552f52"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/tail_ear_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/texb1_png_862da6a5.vtex_c",
+      "Bytes": 89648,
+      "SHA256": "2fb6649e0cd28b49af8e690491b907aff44e7d46a5c5836b00048e49f1edcac2",
+      "CRC32": "2b5f6374"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/texb1_png_c31d0033.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "7f13682236dbd81a6980ce8d4f245d58dd85da2a4c3174a1c05f9786f6803873",
+      "CRC32": "a502ca4e"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/texb2_png_d4dd3b17.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "355159f268a18fa84a12e4960495feff1dd872c0545ebf3c1c4445f312c30347",
+      "CRC32": "8e5b2f26"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/tran_vmat_g_tselfillummask_43d2f102.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "eaf778458750f06629ec33ccac942206531e0c72b4ddf0c822948015f873c7f9",
+      "CRC32": "374e1b46"
+    },
+    {
+      "Path": "characters/models/chiffon_fox/materials/white_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/chikari/material/bikini1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "857e81078e133afe22c7684fcb3b38f4384fc7b61937ca7ef6a4abb48e29969c",
+      "CRC32": "f561cb21"
+    },
+    {
+      "Path": "characters/models/chikari/material/bikini2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "857e81078e133afe22c7684fcb3b38f4384fc7b61937ca7ef6a4abb48e29969c",
+      "CRC32": "f561cb21"
+    },
+    {
+      "Path": "characters/models/chikari/material/chiffon_face_effect_png_d4f966fa.vtex_c",
+      "Bytes": 24160,
+      "SHA256": "35183e3b42041c8dbe554eaea6fa8559caac4455412be4e52e6ad3925e7981cc",
+      "CRC32": "3bc58fe0"
+    },
+    {
+      "Path": "characters/models/chikari/material/chiffon_face_kaihen_emissionmask_png_10a45a23.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "bcd1b420dd7e0fd14fd15de7cb202870e0d01ece078bb162fe81c8073db9f327",
+      "CRC32": "56dc1d04"
+    },
+    {
+      "Path": "characters/models/chikari/material/chiffon_face_kaihen_emissionmask_png_bb24c157.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "c491c8819bd7704c08952ecac4c45d27b4719856cca14642425ae694dce154ef",
+      "CRC32": "faa0bf2b"
+    },
+    {
+      "Path": "characters/models/chikari/material/chiffon_face_kaihen_png_88c7e743.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "0331f7205c4f7ddf9211ce06b23f342950c374b32f1b217fd27997f2f062cf65",
+      "CRC32": "51278b91"
+    },
+    {
+      "Path": "characters/models/chikari/material/cloth_basecolor_png_ad8e47e0.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "5e133ef2f2130acacf765223c1c4c7486def9fd00ee1f818a7bb2da87bb277e9",
+      "CRC32": "acfdee96"
+    },
+    {
+      "Path": "characters/models/chikari/material/clothes1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "857e81078e133afe22c7684fcb3b38f4384fc7b61937ca7ef6a4abb48e29969c",
+      "CRC32": "f561cb21"
+    },
+    {
+      "Path": "characters/models/chikari/material/clothes2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "857e81078e133afe22c7684fcb3b38f4384fc7b61937ca7ef6a4abb48e29969c",
+      "CRC32": "f561cb21"
+    },
+    {
+      "Path": "characters/models/chikari/material/defaultmaterial_2d_view1_png_ea2c0a14.vtex_c",
+      "Bytes": 4844,
+      "SHA256": "dd3ee8c32c781e8a5a9c40f39112c21790193e70033d9920775d50878b8c2b96",
+      "CRC32": "38f2ce51"
+    },
+    {
+      "Path": "characters/models/chikari/material/defaultmaterial_2d_view_png_2eea413a.vtex_c",
+      "Bytes": 13036,
+      "SHA256": "3041d95cc5b083420966861508914dab826fb3735f35712a890b62bc4b42430e",
+      "CRC32": "20b68184"
+    },
+    {
+      "Path": "characters/models/chikari/material/face_vmat_g_tselfillummask_99bddea2.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "bce3cecea38aac2a52b1a08ffbc9d9e207721a1353c73697e18cb31881914ec8",
+      "CRC32": "7ba4b243"
+    },
+    {
+      "Path": "characters/models/chikari/material/hair_png_429a7fde.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "be6b28dc61e6a3254292ac809bbb3f25967b10618ba66aebbf7ab09fc78ff559",
+      "CRC32": "cb9c9211"
+    },
+    {
+      "Path": "characters/models/chikari/material/hat_acc_basecolor_png_be689892.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "98166933a03c9784c7598428ecac4106fab4c3927c4dfe96b52facf8a497bb3a",
+      "CRC32": "c2486305"
+    },
+    {
+      "Path": "characters/models/chikari/material/hat_acc_basecolor_png_e293fb27.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "287b7a3b5a27aa17cbc2bc447d3929cb624b96e1fc3e76eb73a8598d7847bb53",
+      "CRC32": "85924999"
+    },
+    {
+      "Path": "characters/models/chikari/material/hat_acc_normal1_png_91803125.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "87d5d7d0b52fb8ea8bf2b9802529c94ba2f2afd79e091cd6dbdecda17b965d89",
+      "CRC32": "61e7930d"
+    },
+    {
+      "Path": "characters/models/chikari/material/hat_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "857e81078e133afe22c7684fcb3b38f4384fc7b61937ca7ef6a4abb48e29969c",
+      "CRC32": "f561cb21"
+    },
+    {
+      "Path": "characters/models/chikari/material/outline_png_47a6d908.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "d8b3299b92e81cc33ae8a3f7a20044e97d3b6b231e0ca0cabdc9a92ab899c385",
+      "CRC32": "eb34db61"
+    },
+    {
+      "Path": "characters/models/chikari/material/outline_png_6f0e6846.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "5d2d4d4ce5303cddbdd70707857d48a2ee0be737ede845d773165e3de2982260",
+      "CRC32": "f18910e6"
+    },
+    {
+      "Path": "characters/models/chikari/material/sailor_a1_png_bea79f4e.vtex_c",
+      "Bytes": 89572,
+      "SHA256": "f4eaec6ac548bbd0b0de7aefddcd3bfd72ead62ad0734a2d96ae0834631c2577",
+      "CRC32": "0c9e82e4"
+    },
+    {
+      "Path": "characters/models/chikari/material/skirt_basecolor_png_58bb29fb.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "4ec6e3cd6cd6d90666a274caf1a682157e3b3e61e501c8adfde940978f94764a",
+      "CRC32": "e3911c62"
+    },
+    {
+      "Path": "characters/models/chikari/material/stocking_png_7708777e.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "19c0b733a011b83da67b910c3c8b72d07074a2824c85bab753081b8bd165cf30",
+      "CRC32": "7659f4e7"
+    },
+    {
+      "Path": "characters/models/chikari/material/stocking_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "857e81078e133afe22c7684fcb3b38f4384fc7b61937ca7ef6a4abb48e29969c",
+      "CRC32": "f561cb21"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm2_vmat_g_tnormal_ab87fdbf.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "5e3301ca7fb4c0f5b9f3cae4f17ed743c8cc248cf5ed71dd65ae00dd8a9a50e9",
+      "CRC32": "9443940d"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm2_vmat_g_tselfillummask_9d5ec704.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "2c1c1c8711e3da37323313f9b9136bfb458b489b39e20ac75713df0251fa91f1",
+      "CRC32": "5241db28"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173",
+      "CRC32": "7aa60aa5"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm_vmat_g_tmetalness_1081f06e.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "7a221e39aa7a2edf3617f9cf3a14d36f347c7b748b8850b6b1cc1ec02014d215",
+      "CRC32": "466e8205"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzx_arm_vmat_g_tnormal_d52512a9.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b",
+      "CRC32": "9296c34d"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzz_fix_vmat_g_tselfillummask_f97b90ec.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "5806be7fc552e0fba101dab6ee8f2bf4f9b577d8fb8cf21ec8adc19444b3c4ac",
+      "CRC32": "f10be007"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/bzz_halo_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/ddf_png_a6c48669.vtex_c",
+      "Bytes": 2780,
+      "SHA256": "862d6c6eb630791ab249ddc8876668d3b039b239e721132fb992cfac7d461c87",
+      "CRC32": "5a3b558e"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/face2eye_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/face2eye_vmat_g_tselfillummask_6bba1b72.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "99fd621bc0e585e52118447d4bd095aee5c66965cff19df229bc31cd1a9d7d61",
+      "CRC32": "9b21edff"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/face_vmat_g_tmetalness_b70f8f59_png_91753af9.vtex_c",
+      "Bytes": 2548,
+      "SHA256": "f1e7090dbd98042b638e77d71dc62b69f16bd4ef72cd76e71555ce4739221e9a",
+      "CRC32": "f4141277"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/fix3_png_7ee31a31.vtex_c",
+      "Bytes": 526404,
+      "SHA256": "3ac1bb35d549a85de6e144deac518f0eb691afb7a0333bca67fb5ace278bf702",
+      "CRC32": "3cfdcaba"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/hb_png_42f9aa6a.vtex_c",
+      "Bytes": 2798408,
+      "SHA256": "7271b60d8b592469a9d666f98a107307cbb2eb77963d2ef7321ae2578459dc94",
+      "CRC32": "4a512d04"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/hb_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "8beffd03ea6276d2f3c715669762e113a829f8a4a08e90e7b13e8c521081cf2e",
+      "CRC32": "7d56ef70"
+    },
+    {
+      "Path": "characters/models/cs2ze/baizhouxin/vmat/tex_azusa_head_png_673f65b.vtex_c",
+      "Bytes": 526544,
+      "SHA256": "c5be975e0c45d43bd1deb2387822cb785204f6530dc1b6daacd0bb90f411cfe2",
+      "CRC32": "da08664b"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/elysia2/body1_vmorf.vtex_c",
+      "Bytes": 18452,
+      "SHA256": "1ed1729724a898902c8a190d2a596d77c951d75133a6590e5d3255358ad02559",
+      "CRC32": "8ea6a1e4"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/elysia2/body2_vmorf.vtex_c",
+      "Bytes": 17944,
+      "SHA256": "c823f6f4e9b82e4fe719389bb143abc484d0856de8b32caa0ed214806f0d432d",
+      "CRC32": "2f4c34e3"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/chit_vmat_g_tselfillummask_26d7f244.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "b86b6dc0c8a3eac1aca0a81950f30867dbf67471c5b9997e8141177b395dd511",
+      "CRC32": "0b39408e"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/fahua1_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/fahua2_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/hua1_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/hua2_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/hua3_vmat_g_tselfillummask_26d7f244.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "b86b6dc0c8a3eac1aca0a81950f30867dbf67471c5b9997e8141177b395dd511",
+      "CRC32": "0b39408e"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/huan_vmat_g_tcolor_e60183c9.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "ae1ce5b806913d6e16b36e8c1cdd6d4f50b253287659ae3f547dd67d2ee65c66",
+      "CRC32": "ad664b15"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/huan_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/lingdang_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/main_png_d73aa0f1.vtex_c",
+      "Bytes": 1400212,
+      "SHA256": "68dd57e59a131daae89e7c2d6242d26ae27abe6c319773ffd2d4b7c9aa916d74",
+      "CRC32": "e48ceee6"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/main_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/main_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/taohua2_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/taohua_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqi1_1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqi1_2_vmat_g_tselfillummask_202f2aa9.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "3f9cefe20ed705d234428bd9ef0e7aa48539d74299c84478b0f2abbb868e94fe",
+      "CRC32": "0b0933ef"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqi_png_4007c3db.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "b00a8a8bf12a9472592a68d491bcfd67843adedb47796d0def7f8ae9d76849ac",
+      "CRC32": "a8b6b00a"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqibaoshi_png_b5297e13.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "3cc6148a936b5314a12c483efb73f715d2676635b29bf13236b9ae7d9c3f92dd",
+      "CRC32": "dc215547"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/wuqihua1_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/taoyao/yu_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/banyue_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/baoshi_png_5f6ba3c.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "8d60fbd39eaff521de28d55c053d6e70e9474b03321dc79b1d82817c43926832",
+      "CRC32": "ff7ac0be"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/beishi_png_432d205f.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "c08523a6b505a155cfc572984862521029752d81baa312b92b8ffedda6b7dc87",
+      "CRC32": "6c8e0d66"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/beishi_vmat_g_tselfillummask_26d7f244.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "b86b6dc0c8a3eac1aca0a81950f30867dbf67471c5b9997e8141177b395dd511",
+      "CRC32": "0b39408e"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/chi1_vmat_g_tselfillummask_26d7f244.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "b86b6dc0c8a3eac1aca0a81950f30867dbf67471c5b9997e8141177b395dd511",
+      "CRC32": "0b39408e"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/chibang_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/clothes2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/clothes_png_5b8629a1.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "89b79d13ec7a73f05e22026004f9c0b8c658ebfc562c1f328a7f2e23cb01dc05",
+      "CRC32": "8150d935"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/clothes_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/clothes_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/eye_png_21234424.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "7906896a93f829a1b54d9be47c21c51e0d0c18380b75ec50f3343c4d8d57b251",
+      "CRC32": "19c16f96"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/eye_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/face_png_b9654bce.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "0b6f07a24f97e42a185a30d1ee7b269dce38cd2222666ccc1a5a565f866f66d1",
+      "CRC32": "3711377f"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/face_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair1_png_ffe45957.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "172959ab5f557d47c6f7166687e445a21eec1c11d305b9f94c27af9559f17a0a",
+      "CRC32": "825bc6ec"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair2_png_37240e2b.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "912a81cea8fa64a1b96eac57b5b12ab677d2888489401723e6b303036e457b19",
+      "CRC32": "2d0b40b8"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/hair_png_2d228230.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "6e9165c7b3460a9f7106beb613af0d89a3459aa332864b8f20018e72fcd1616a",
+      "CRC32": "c3ea5d86"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/huan_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/lvbaoshi_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/qiu_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/qunbai_png_30057579.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "ec9511280f7e8ea8b33d1ded1c3eb9935899abd037d1b0192832531848864699",
+      "CRC32": "b87dc2dc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/qunshi_png_7cafffd1.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "e2efbdc6ff5e06d0bae676ea50d94d6372e2604490efe12bd36313dfc633f56c",
+      "CRC32": "c84f7aaf"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/skirt1_1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/skirt1_2_vmat_g_tselfillummask_26d7f244.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "b86b6dc0c8a3eac1aca0a81950f30867dbf67471c5b9997e8141177b395dd511",
+      "CRC32": "0b39408e"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/wuqi2_1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d1df73600227b5471de08ba315f9d18242ab52b33adaced7849baa9887a7b176",
+      "CRC32": "f080a532"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/wuqi2_2_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/wuqi_png_fc1c9b52.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "1253c765919cd56681f5d725587e04f352837d1db2a9aabf26a2394165561796",
+      "CRC32": "82128fbb"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/xin_vmat_g_tselfillummask_24f4363.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "6960dca9b832596ddaf8f0849634a66f45415bfda2415ca16799a8dccf21f266",
+      "CRC32": "e40fa5cc"
+    },
+    {
+      "Path": "characters/models/cs2ze/elysia2/vmat/yuanpi/zhongguashi_vmat_g_tselfillummask_202f2aa9.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "3f9cefe20ed705d234428bd9ef0e7aa48539d74299c84478b0f2abbb868e94fe",
+      "CRC32": "0b0933ef"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed/baizhouxin/face_vmorf.vtex_c",
+      "Bytes": 32344,
+      "SHA256": "c4bf4337a7d90b6ada2bf2818f94c9180aa63d5b0d94266e8a61b2d554cc340a",
+      "CRC32": "a9752145"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed/chikari/face1_vmorf.vtex_c",
+      "Bytes": 99412,
+      "SHA256": "d0776d5d00c59f9fd5999d30c734413e84f1e87871c864cc3453503d5eee9819",
+      "CRC32": "70a5bad6"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed/chikari/face2_vmorf.vtex_c",
+      "Bytes": 98168,
+      "SHA256": "1c5032ae4fd05002a2257aa0243373e7d176676858a00f210cbae406fd8c553c",
+      "CRC32": "1b74f5fc"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed/mingchao_feibi/body1_vmorf.vtex_c",
+      "Bytes": 264212,
+      "SHA256": "894c4b0e542b1ec550b1d3955f81a3df697c8b5a470d23bd999ce113bb1c9c33",
+      "CRC32": "2020dc75"
+    },
+    {
+      "Path": "characters/models/exg/ag2_djhl_fixed_nimiki/chiffon_fox/chiffon_fox/face0_vmorf.vtex_c",
+      "Bytes": 100664,
+      "SHA256": "1f3a5e1f017ffed89e4e53bcb8953d5715d0fee24c2095770f997fb5e90e54ea",
+      "CRC32": "eb4e8e63"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a (271)_png_bd3bd849.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "6f562db27c019617fb43242f232428a8cd3d4312bc4f91efc10c33b41c783509",
+      "CRC32": "61b62ecd"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a (437)_png_e4d002bd.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "7e5ce75f3e0420b9690f5c04fc5c96fddf4ef1b184106617a595694f321694fa",
+      "CRC32": "95ae5fb6"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a (44)_png_d5aac869.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "116f46a4fab9f1cf3ee31c849eadccd7c99a2c410b6524b56d88cde1e3027798",
+      "CRC32": "d7b9cc2e"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a271_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a271_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/a437_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_blackpink_m1_suitmain_png_127fafd9.vtex_c",
+      "Bytes": 351732,
+      "SHA256": "6768e60619e03a9a41e6c379704eddbaf5840192fd9017f9700d6f1621d95cbc",
+      "CRC32": "c2ccf7e1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_blackpink_m1_suitmain_png_d6145845.vtex_c",
+      "Bytes": 176892,
+      "SHA256": "3333b35316be1a2196954c0d3e110f5d4883828519682d41d27236ba4ee9d5ec",
+      "CRC32": "07abb9df"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_blackpink_m2_coat_png_df15cd48.vtex_c",
+      "Bytes": 395356,
+      "SHA256": "da1d1683a2511c9e0aac37601746f92697bc2a22cb71bb6b2b7913f82be83154",
+      "CRC32": "a3a8a537"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_blackpink_m4_cable_png_e47145e0.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "77464a28ae8e5f9588c1568a90088584f27bd4b01ef8f7ebf870fe14c295f7f1",
+      "CRC32": "02ac80e3"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_m1_normal_png_dcc76a4.vtex_c",
+      "Bytes": 89636,
+      "SHA256": "0c6fcdad396079c4e69db04360a2f8e436c662298a75233790bc127eb445ea7c",
+      "CRC32": "f0411c30"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_m2_coat_normal_png_20ac9d47.vtex_c",
+      "Bytes": 89572,
+      "SHA256": "ee2bb0f874e0ebff1abc79d4f73409f811478e6747a4edb00633ec5ddb94596d",
+      "CRC32": "cff268a6"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ad33_m3_emissive_png_cc7ec5b7.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "1207c709e6df0606dfd2ca49c71f424c88938a13a46609df75a60180e97bd922",
+      "CRC32": "0f023abc"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/body2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "c071bed300b6385882bc28df248489f6e24b789298d53be9b81ebb64bf036fdb",
+      "CRC32": "335123d9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/body2_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/body_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/body_vmat_g_tnormal_2b63c608.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "caa62c8573555ffde498cf80bf26e89401e7731d21f409d5570a9cab1cda50f9",
+      "CRC32": "6de48687"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/c (264)_png_e671b9df.vtex_c",
+      "Bytes": 89556,
+      "SHA256": "d4fb6696acb7efde9209ac81471fdfe0af8e43771e4fc836b18623c5b4b915d2",
+      "CRC32": "1d63fe3b"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/c (3)_png_433ca6ad.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "0ebcb6aa1f4618e2be65de473e8a0dd1d1ee6c6fd5cf2da8179b75f0c795b796",
+      "CRC32": "4bd311b2"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evilfall_facemask_v2_name_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evilfall_facemask_v2_name_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evilfallmetail_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "1fbaf38b8be0065c50770f81fa30d7a1a76b7bf8893080352bfb9ca13feee808",
+      "CRC32": "20209fd1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evilfallmetail_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalllight_type_1_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastc_vmat_g_tcolor_6b6e411d.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "2201fc69887088f7cec253565521719ae082cd53be5efe1f94263aefbf4eff17",
+      "CRC32": "dfe7bbdc"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastc_vmat_g_tmetalness_20dd118e.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "ba8cd5ab27db388344334179415a44ff785e9c0154faadaffc34cb513f36686b",
+      "CRC32": "ef5dd189"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastc_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv_vmat_g_tmetalness_20dd118e.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "ba8cd5ab27db388344334179415a44ff785e9c0154faadaffc34cb513f36686b",
+      "CRC32": "ef5dd189"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfallplastcuv_vmat_g_tnormal_b68e5ac4.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "a966a3aca4e75795a640dfd10169b21545d063c0e84ddb773d1e9c148b4c7dda",
+      "CRC32": "fc7b3633"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_2_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "1fbaf38b8be0065c50770f81fa30d7a1a76b7bf8893080352bfb9ca13feee808",
+      "CRC32": "20209fd1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_2_vmat_g_tnormal_b68e5ac4.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "a966a3aca4e75795a640dfd10169b21545d063c0e84ddb773d1e9c148b4c7dda",
+      "CRC32": "fc7b3633"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_blade_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_blade_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_facemask_v2_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_vmat_g_tmetalness_20dd118e.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "ba8cd5ab27db388344334179415a44ff785e9c0154faadaffc34cb513f36686b",
+      "CRC32": "ef5dd189"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltrans_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light2_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light_vmat_g_tnormal_47660df.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "db648a4e0f5ac2ae16919009cfb3bd36eabddaa1626ab981f5d8c79177501096",
+      "CRC32": "bcc0de74"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_light_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/evillfalltransjacket_vmat_g_tselfillummask_554b633a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "0bd2b91428a3f126379e82a79b84036b699c4171dd7ea00b208d8c5d9e29f66d",
+      "CRC32": "2839930e"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ex1_png_a5a337aa.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "7b0bedfaffc6ed3e838e8018009dc6465f8ca6ca31c43b1b32906149d3e4565d",
+      "CRC32": "ca3aaadf"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/ex1_png_abd51fa1.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "4f92bda27a3ac835c2610eec21b48ff050d24ad7c20dfc42345f4f227140a5b4",
+      "CRC32": "207497aa"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/eye_purple_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/eye_purple_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/eyes_png_96f9b655.vtex_c",
+      "Bytes": 13020,
+      "SHA256": "53c23b88f3c4d181efc24cf38359147892e796465e909e46a6d4dc1748f16865",
+      "CRC32": "be31e7e8"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_effect_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_effect_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_eye_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_eye_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/face_vmat_g_tnormal_48c7c5f5.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6b696e3c3e8a7175e31abf4746dc154f2fe8b98eb87880cd2fd8a4978731daf5",
+      "CRC32": "20f46ebd"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/facemaskv2 text_png_7049cac2.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "35cb45723ddcd186a062e93ad521601697e48a8f8f9d62e0952a282a4d3f337f",
+      "CRC32": "663ead25"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/facemaskv2 trans_png_1bad67c6.vtex_c",
+      "Bytes": 89508,
+      "SHA256": "126a61acc97aa57fb71bf589ba4919f7a56db9e4c99ee59a5baa73dde631b917",
+      "CRC32": "f789d5c4"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/glass_vmat_g_tcolor_37c55b5d.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "194b7994dbf6b253618a368cf293eb99ef11dfae96d8d5f2a3592f4b6ce369e5",
+      "CRC32": "1ec7f531"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/glass_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "1fbaf38b8be0065c50770f81fa30d7a1a76b7bf8893080352bfb9ca13feee808",
+      "CRC32": "20209fd1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/glass_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/gradient_jpg_45c3c6e1.vtex_c",
+      "Bytes": 2796,
+      "SHA256": "873097d69345ba77e263e37d8aa93ea976eae51b9d2c019989d52cb2808eddb6",
+      "CRC32": "6410e53a"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/gradient_jpg_6cfab289.vtex_c",
+      "Bytes": 24036,
+      "SHA256": "45dd2ea206f87134b4d3e881f630a55e25531d3d06c7cf786b631e6a2af266dc",
+      "CRC32": "52b59eb8"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/hab_in_side_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/hab_in_side_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/hab_out_side_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/hab_out_side_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/halo_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/halo_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/lime_body_2_2_png_9210beea.vtex_c",
+      "Bytes": 395340,
+      "SHA256": "f58a3edc4ae821a6ea520fa14214d7b91f88e68999613d8bb8093fac02afb151",
+      "CRC32": "de7013b5"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/lime_body_png_1835c133.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "e4fa5cf61089344718dbf4d1925b56dea6cafb07f293e4ef2e1ad7d7223609b6",
+      "CRC32": "dbab08f4"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/lime_face2_png_ba194a57.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "6f5a3119ffcb284558c813c35a4a20a70d130edf4da05a270ef913bc45e3f3f2",
+      "CRC32": "43b1d7c8"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/lime_face_effect_png_bbfc9a05.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "7d0933d06fa658a55939476fcea0d79204d157175eed0b35496d74b895c7454f",
+      "CRC32": "19adae42"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/m_fairytwin2_vmat_g_tmetalness_3bb3def4.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "5706f24292194fb958ba5b793cb4dbb2f76f5ba6545c5d743bf6cc73d446ff34",
+      "CRC32": "8564b1fe"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/m_fairytwin2_vmat_g_tnormal_18cf3a06.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "342e2e278a7d47ee6594b29207bd890a198b4f92e0775e2bdea436c7b8fe6af5",
+      "CRC32": "a1e59c1b"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/m_fairytwin_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/m_fairytwin_vmat_g_tnormal_48c7c5f5.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6b696e3c3e8a7175e31abf4746dc154f2fe8b98eb87880cd2fd8a4978731daf5",
+      "CRC32": "20f46ebd"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/magic2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/magic2_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/magic_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/magic_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/mainmask_png_ad9bf7be.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "af8b4a23cf0546a08b1b8ceabc980dabbf8d483cd8af1a39a66a316f4bdee09f",
+      "CRC32": "30d32305"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_4_vmat_g_tcolor_75546e01.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "136ea9f1a3881480971dd8663fb8ebd17687d1c4c9958a0af0c62d6b8c5073e5",
+      "CRC32": "0a6f6671"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_4_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_5_vmat_g_tcolor_166c69a7.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "cd4f5ca2983752f4475af9cb4b97c1a942d3f9c094a25749472019ad68453c9a",
+      "CRC32": "0763087f"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_5_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/metal1_5_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/normal 1_png_9242d5ba.vtex_c",
+      "Bytes": 24036,
+      "SHA256": "24d58943f59837627f000501c8c7e5b5ffc96e2de61bf733ffa94f3f8d994f30",
+      "CRC32": "4cef4bf5"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/purple_png_f42838ee.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "09fecc64f07fdad732e6f2c3086cf528e1c973b9399678301124084eff39671c",
+      "CRC32": "68645be8"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/purple_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/purple_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/t_fairytwin_lavender_2_png_e53255fb.vtex_c",
+      "Bytes": 176892,
+      "SHA256": "9a9865e0443d464e640eb9439f792d9d414b73e04d747be629a2d80f06184d9d",
+      "CRC32": "0e3b7493"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/texture_em_03_png_4f978f77.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "491fe71a56b2c84a9a52c4464b52eca9a9ee52b200a8b89d470016c1ea461edd",
+      "CRC32": "9d812331"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/transbase_png_3c0b78ba.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "11895ee0bdb64015cd52fc71167ca2cc65838f5a54ad5906a14147f97c340791",
+      "CRC32": "fda7ce5b"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/transbase_png_ee7c3d68.vtex_c",
+      "Bytes": 1400276,
+      "SHA256": "22fdefc8983c93b3f9523bcfc5b02ffe7896e10fe26e5a2ef26c8d7cc333a4d9",
+      "CRC32": "a1e9fae0"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv2_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv3_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv3_vmat_g_tselfillummask_554b633a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "0bd2b91428a3f126379e82a79b84036b699c4171dd7ea00b208d8c5d9e29f66d",
+      "CRC32": "2839930e"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv_tail_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv_trans_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "1fbaf38b8be0065c50770f81fa30d7a1a76b7bf8893080352bfb9ca13feee808",
+      "CRC32": "20209fd1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "448db55f87661be8c030d60a7c09d5c65966fdb4c70704069f9569ba7a6059e1",
+      "CRC32": "c6df79a1"
+    },
+    {
+      "Path": "characters/models/exg/chrisan/lime_e/materials/uv_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/bai_vmat_g_tselfillummask_29e9a712.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "00f5c2266739ef9c04d9ebff08e1785c204d908283668cee58ee28fdb04bd22f",
+      "CRC32": "570af12d"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/c_png_b201d706.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "af932ea64e4ccf760c8a675ed8064edab75b53f951ad3fbaddb1027166d95df2",
+      "CRC32": "eb1d54e8"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/c_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "d92f63ee67e23616da6541a26ac6e231d73300cd5114799727b49f6852a844a2",
+      "CRC32": "33c0a19f"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/c_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/lan_vmat_g_tcolor_64dfd14c.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "868901a3e5a92d24c9ef03cc3285607514512ecbff6aa8a369fcf19138718d9e",
+      "CRC32": "28064277"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/lan_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "aa80eeabfddb62997c15e6c26199c4b4a83760d15a63209a71be5baf6ea6ebb1",
+      "CRC32": "2baa8904"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/lv_vmat_g_tcolor_29caac16.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "816befa69e1478c0a151e30ac45ebb701f9b8c725aff1d31d8d3859ceb14bb59",
+      "CRC32": "fdf4cef7"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/lv_vmat_g_tselfillummask_29e9a712.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "00f5c2266739ef9c04d9ebff08e1785c204d908283668cee58ee28fdb04bd22f",
+      "CRC32": "570af12d"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/mb_vmat_g_tcolor_b6e92676.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "25a9503199fea8c376923dbe322e9a0999f8ae83f0d3f748e8ac1f096fbc9491",
+      "CRC32": "3a2290fb"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/mb_vmat_g_tselfillummask_29e9a712.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "00f5c2266739ef9c04d9ebff08e1785c204d908283668cee58ee28fdb04bd22f",
+      "CRC32": "570af12d"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/tou_vmat_g_tcolor_bc1abd08.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "95a7ff00907ca716c994a459940e65c7650dc29039adb2d2771b84e4748e0c97",
+      "CRC32": "a6333cc9"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/tou_vmat_g_tmetalness_abde5451.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "8a7a94d131c48e8c48d819991ccd9df46fc4fc2ff52feb0090bd63976bc79652",
+      "CRC32": "f31c4692"
+    },
+    {
+      "Path": "characters/models/exg/kukuka/soraha/tou_vmat_g_tnormal_bae29b1e.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "a3977eb4e3b929ff96e3c6c43b3a702c213bd85a9985b47bc8ad19c4ac032148",
+      "CRC32": "72de433d"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/body_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tmetalness_170f1a40.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "f4fb3cc6d9739dbd7c1fd68a4f1f08ffd7c0c97bc08b5fe2ed57efd7256fd574",
+      "CRC32": "560ff705"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/dbd_myers_knife_vmat_g_tnormal_f8abdf59.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "de2f81077141d6ea4a1bcec5d8b920217a9028f4c67240d1a532757651b538b8",
+      "CRC32": "58ac80d1"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/eyeball_vmat_g_tnormal_31e5bc20.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "65a03808e5322be08d1b47ac43b9a52c2ef41509b4e3bb7bb79eba57e286ef61",
+      "CRC32": "41d7fbef"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/hair_vmat_g_tnormal_31e5bc20.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "65a03808e5322be08d1b47ac43b9a52c2ef41509b4e3bb7bb79eba57e286ef61",
+      "CRC32": "41d7fbef"
+    },
+    {
+      "Path": "characters/models/exg/myers/vmat/head_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "758cf7ddcb2822c869088f5a27ecb22b9b5ccee9bb1969adc1e8e174929c186d",
+      "CRC32": "71cea9fa"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/body_n_png_b3161c07.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "87d5d7d0b52fb8ea8bf2b9802529c94ba2f2afd79e091cd6dbdecda17b965d89",
+      "CRC32": "61e7930d"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/body_png_b25c214c.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "826423623eb0371f1edf285c202e0498e6d02be3e1e3d1cee028c148c9fa7d1c",
+      "CRC32": "4a10a5ff"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/dbd_myers_knife_png_d7afb094.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "329a03ae544d9fa85cd6b89cebdb24b786d9e16d10dbaaf27c32aaf49eb7a1cf",
+      "CRC32": "8887aead"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/eyeball_png_3dd12c66.vtex_c",
+      "Bytes": 45788,
+      "SHA256": "e660bdd6c4a92655e178d44f645d0debf4fe5a2a38504eb41e712eb1dec8b57a",
+      "CRC32": "97407b99"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/hair_png_1c71024a.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "f0d184b209713dc408baf3e1ba3e8dcec722c98231f15cc03272b072e8251ac7",
+      "CRC32": "0b17ea75"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/head_n_png_e2a748f2.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "87d5d7d0b52fb8ea8bf2b9802529c94ba2f2afd79e091cd6dbdecda17b965d89",
+      "CRC32": "61e7930d"
+    },
+    {
+      "Path": "characters/models/exg/myers/vtex/head_png_dfd9569e.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "0b6af37197b32ba31d5214efdd2cd09fa6f762d5e60a9e8451ca1d666feddb5e",
+      "CRC32": "8a2e95b6"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/cat_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyel_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyel_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 1960,
+      "SHA256": "eaea220c33a4276f5c96b69ce558eb9f1a30daf5946bf21117fc1d352669e190",
+      "CRC32": "34536610"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyer_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/eyer_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 1960,
+      "SHA256": "eaea220c33a4276f5c96b69ce558eb9f1a30daf5946bf21117fc1d352669e190",
+      "CRC32": "34536610"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/face_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/face_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1_vmat_g_tcolora_498635a.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "5bd678d1542d4d84dd1474c819bd3acaf4df8fe4905b467de54323a0e6906d9a",
+      "CRC32": "b3a0eec7"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1_vmat_g_tliquidmask_b0af83e1.vtex_c",
+      "Bytes": 1992,
+      "SHA256": "dc998cb167ea7b16ebd55e317d698071b3993379e9b679bca2da504ecf6cbe21",
+      "CRC32": "d787ac85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_1_vmat_g_tnormala_a1e47e21.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "285b513f0a7df020f2dd15a5c020711df6fd7c527ab72a7d5c3f3f306ce842b4",
+      "CRC32": "c84ef4e8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_vmat_g_tcolora_aeb19b9d.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "952204a1e35abcc91bea3c882162b88683049608c7ce55f41e4dd703c63e339c",
+      "CRC32": "8b015976"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_vmat_g_tliquidmask_b0af83e1.vtex_c",
+      "Bytes": 1992,
+      "SHA256": "dc998cb167ea7b16ebd55e317d698071b3993379e9b679bca2da504ecf6cbe21",
+      "CRC32": "d787ac85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/gem_vmat_g_tnormala_a1e47e21.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "285b513f0a7df020f2dd15a5c020711df6fd7c527ab72a7d5c3f3f306ce842b4",
+      "CRC32": "c84ef4e8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/hair2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanl2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanr_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/shouhuanr_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yifu2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi1_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi2_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2208,
+      "SHA256": "bb0ab870a637d113ac65fe79a1d7294f9cc27cfe23f743bf88d660e0d0378c69",
+      "CRC32": "3b017ba8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/yishi2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5",
+      "CRC32": "5ba2dd85"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/pardofelis/cloth1_vmorf.vtex_c",
+      "Bytes": 20516,
+      "SHA256": "d790680f4c5140953077a710c3e94b847a70501febc6cb3f078c82be767c7854",
+      "CRC32": "8ce5f92d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/pardofelis/cloth_vmorf.vtex_c",
+      "Bytes": 21620,
+      "SHA256": "f20b39a299c2c27d83b72143da39d78ee6190e702710a5555184ef229905b8dd",
+      "CRC32": "6b2404ea"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/ajs_png_9fa1ede1.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "4a14fbd727b04a0ca7d04bc0e3c8feecd4274a16b4413a934d857c4e3aa4d5f2",
+      "CRC32": "8f8f222e"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/cat1_png_9f93a185.vtex_c",
+      "Bytes": 23972,
+      "SHA256": "2589c65f541caccf959ffd3590bd90b36453b78f9d1bd1880c740658acd0cd9f",
+      "CRC32": "55dc6432"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/cat_png_a26d9520.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "3983d7a7932b79932ff99f7713604adda1d095d7dcc1fa02f16a9787ec02d7d0",
+      "CRC32": "e3b7a8b4"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/eyel_png_f87734c8.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "6092a83bf0cf8da290404f69ee75d1f6f8bee764377b2178ed430a411ef61a6b",
+      "CRC32": "e786b08b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/eyer_png_265ec533.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "6ce76135607d6b8569a251aae269ad98623bfcaede360d40c6273f02d47a1517",
+      "CRC32": "a08d3b8d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/face_png_8b9b2b7f.vtex_c",
+      "Bytes": 45740,
+      "SHA256": "04082fe0b859d08bba54de1b60cb0a5fb9f68d58f843223c126eb2268ad77540",
+      "CRC32": "841461a7"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/hair1_png_db71ac2f.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "ec83cd7cd1facb6533cc0c48054927330f2513c82059693ef0af6c06c59d291d",
+      "CRC32": "3f5ddf98"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/hair2_png_9d87b1d7.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "86c6e5e068061f9b16f51a1c0f142d9399d5a8605a6ae21c40c4e8ba53087be4",
+      "CRC32": "425953a8"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/shouhuanr_png_37bdce51.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "522c73326f0d5f4851b6c520c6a8c974530f5589c9719debf867f3bc52e51a50",
+      "CRC32": "5c978310"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/tkypi_png_45a64db6.vtex_c",
+      "Bytes": 12972,
+      "SHA256": "c5d7df77390142ca2e5b3e7a8d6fcdf4f4e2ee6548d4cf45c4c5bb9fcb366ef4",
+      "CRC32": "6295164b"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yifu1_png_7085db40.vtex_c",
+      "Bytes": 351572,
+      "SHA256": "d2f352ab47530717a91d2d58c2bdc4211b39a3e6a3039290fe3bbbfe4b22b6a4",
+      "CRC32": "4cd5619f"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yifu2_png_3c83e7ad.vtex_c",
+      "Bytes": 176812,
+      "SHA256": "85c76648acbb4b84798f13b50f6e621144f70607882d2a1ac15d8955d2a50432",
+      "CRC32": "5658001d"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yishi1_png_cce60963.vtex_c",
+      "Bytes": 351668,
+      "SHA256": "d250494b4dca2d12b958dbb1e39f2f487babd797f34d5d220e5ecda90e6c983c",
+      "CRC32": "106bdb22"
+    },
+    {
+      "Path": "characters/models/exg/pardofelis/tex/yishi2_png_23666783.vtex_c",
+      "Bytes": 351668,
+      "SHA256": "a76b627803508a227d62e2e2cfa1e2bc6b363e6476b08696f6051d6885036dbe",
+      "CRC32": "fb8c9b85"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/body_jpg_b28820af.vtex_c",
+      "Bytes": 526404,
+      "SHA256": "63844b806fafda30b94aa7ff8997638683ca4497e222ceccdd184c62925b9cc6",
+      "CRC32": "7a4239b7"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0",
+      "CRC32": "465b7928"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/body_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/cl2b_jpg_13748fc1.vtex_c",
+      "Bytes": 264260,
+      "SHA256": "d7a07dffd9b2c3aec70776b6a551171892d55fc0ab91c0c818819ee3b242063d",
+      "CRC32": "add4b5f6"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/cl2b_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0",
+      "CRC32": "465b7928"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/cl2b_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/longdan/materials/metal2_vmat_g_tnormal_9cda2567.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7c5b4cafb960f03524761f5bab1d9a7ec8e96d078654fc041772a9a4740b822e",
+      "CRC32": "820cb951"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/body_png_df9827c0.vtex_c",
+      "Bytes": 701148,
+      "SHA256": "2efeb3f4cf3f632a4a3221ba0b33800e06d683a6f97096b2e656c0abc93c82e9",
+      "CRC32": "9dcade7a"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "17a67b5b8c3d4e0829f3b3d12862f5f51bb91da25119bc1e4b59453f570c23b2",
+      "CRC32": "88363b6f"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/body_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "9c33d3b0fc7fa4a14ce830dd2a3894f91eb58f7fa00559587b77ea657929c8fd",
+      "CRC32": "14a32b1d"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/cla_png_58d705d1.vtex_c",
+      "Bytes": 701148,
+      "SHA256": "8dd6364d47ae343c0d6e49f5b526d6a4df7e14245cc5381fd59d4fdf0a65df33",
+      "CRC32": "7c28d068"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/cla_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "9c33d3b0fc7fa4a14ce830dd2a3894f91eb58f7fa00559587b77ea657929c8fd",
+      "CRC32": "14a32b1d"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/clas_jpg_8a6fdc12.vtex_c",
+      "Bytes": 701148,
+      "SHA256": "6b0f1aa47c60c797219daa08e8027af1f6f7d84b6fd4d7320cf338b8abcce8e7",
+      "CRC32": "078e4f1e"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/clb_png_57f292bd.vtex_c",
+      "Bytes": 351700,
+      "SHA256": "bdf088d4c7bf9c8b74b6d64ba23000d1e225f5fd62550044657ff9da3c468976",
+      "CRC32": "bec40388"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/clb_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "17a67b5b8c3d4e0829f3b3d12862f5f51bb91da25119bc1e4b59453f570c23b2",
+      "CRC32": "88363b6f"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/clb_vmat_g_tnormal_6cdc8ddf.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "81a2a6de3261e73c5b06bf1bd4465c1a538a0dface117e40dfebb23be301d165",
+      "CRC32": "426e7384"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/eye_png_cfaf8aa9.vtex_c",
+      "Bytes": 45788,
+      "SHA256": "064d2759a8ca347f92449f87a53e035d72c86aea0baa1000fd402156eadfb1a8",
+      "CRC32": "98c6e1c7"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/eyes_png_6b5a7628.vtex_c",
+      "Bytes": 45788,
+      "SHA256": "63006977753f60911d29949f84f40d07c2eff78ebaebe0cccb2011aee45157c4",
+      "CRC32": "239fefc8"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/face_png_94c27b5e.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "e3ce95da3ee86e9d607e74db85422e30cff6f02c2a16ad8fe80251c2b4ff6f06",
+      "CRC32": "df0ef047"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/face_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "9c33d3b0fc7fa4a14ce830dd2a3894f91eb58f7fa00559587b77ea657929c8fd",
+      "CRC32": "14a32b1d"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/hair2_png_9d54b9d4.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "400eb52a2b794fb6de260eab974d4e73d23b970a80d608a0da2c5ce12bd6846c",
+      "CRC32": "c1a42ecd"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/hair2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "9c33d3b0fc7fa4a14ce830dd2a3894f91eb58f7fa00559587b77ea657929c8fd",
+      "CRC32": "14a32b1d"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/hair_png_2002e5b6.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "e259e955928950009308759b9ea97bfe20357255035ea106b2c4137c05b55af9",
+      "CRC32": "5d1ade01"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/hair_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "9c33d3b0fc7fa4a14ce830dd2a3894f91eb58f7fa00559587b77ea657929c8fd",
+      "CRC32": "14a32b1d"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/shengheng_jpg_90dc8a90.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "54d9fa0e6d80c01521454e55b42567f8dc5bfc3b007009be2bcfc4d31c904ecc",
+      "CRC32": "2ba93f44"
+    },
+    {
+      "Path": "characters/models/exg/qiliu/shouanren/materials/shengheng_jpg_9cfa469c.vtex_c",
+      "Bytes": 351652,
+      "SHA256": "6616db829b4467af4ce37fdb76c39f42dd4c38c87a297667b822e9cfc7c4c93b",
+      "CRC32": "67a98045"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_1_png_4b9c2fd2.vtex_c",
+      "Bytes": 45960,
+      "SHA256": "d45a5de050cbe97ace7b2d2752641f7d31ccf18294b6246ec8d0f51970c63c22",
+      "CRC32": "052526e0"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_lese_png_b3937b80.vtex_c",
+      "Bytes": 351684,
+      "SHA256": "6ea6978d15b09c42f0f55953d174c8e31f51bc636bfaa8b70dfc58897a5dcbde",
+      "CRC32": "932fd73c"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_lese_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/airi_yorshka/cloth4_lese_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb",
+      "CRC32": "36ca189f"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "61b2c162202438aada5a162f50ccf2dafcd2bbe0b0f3aa6b4624f124462cead3",
+      "CRC32": "613e34da"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/rbg_png_20a55aec.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "5ead52d064459fe200fd2b7baea74d1576a7757ba9ade99688fd9a82698b4a77",
+      "CRC32": "a83f233e"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/al_tashkent/rbg_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/metal_glod_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/metal_glod_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "61b2c162202438aada5a162f50ccf2dafcd2bbe0b0f3aa6b4624f124462cead3",
+      "CRC32": "613e34da"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/metal_glod_vmat_g_tnormal_a1e47e21.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "8e98bd91abbf8cb93bc4dee9fe558f7daafc3d882966fc8a9d10728565710cf5",
+      "CRC32": "5ace6aa9"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/nail_png_d7ff27a1.vtex_c",
+      "Bytes": 89492,
+      "SHA256": "1225855d04ce371e662ae35e07948e290d1d7c9d03aaacc17cb5f61223c4b59e",
+      "CRC32": "8dee6b81"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/nail_vmat_g_tmetalness_fec46975.vtex_c",
+      "Bytes": 2048,
+      "SHA256": "86a7963e1a845b48b609b513c9500af18a2efc62503f3065dd8ace76e67b6ad5",
+      "CRC32": "7070de46"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/ba_mari/nail_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/body_png_7b524b2f.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "5e9a8f3b8c4516733d9426eb5b4ceb11d978b4d4b1a2e30b0761c0621a5a192b",
+      "CRC32": "f47e4518"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/body_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth1_png_1df7dd10.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "9cb45191cfb49285a00b77aece2e8e316e8fd36048ed1d7498d805942fd255a2",
+      "CRC32": "8b2c8a26"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth1_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth1_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth2_png_e7ce5f47.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "f165b29cbb9ea6d417d1403ef8d8e8bd54c98e1302b3172c18acf4f659102fac",
+      "CRC32": "73003f7d"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth2_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth2_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth3_png_b21f4175.vtex_c",
+      "Bytes": 1400308,
+      "SHA256": "58328549ae0a05a74f41666ab20625a66055e1d549d5f94c89ab53f1452abbc8",
+      "CRC32": "940be31c"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth3_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth3_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth4_png_2fe72b46.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "69ae5905b971e3650becd83bd613142ecb1d60fd5a838e7bcdd4d0098a55de5a",
+      "CRC32": "fc421402"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth4_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth4_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth5_alpha_png_9a97188f.vtex_c",
+      "Bytes": 1400260,
+      "SHA256": "883e315b90ac79604d429c6ad199d011e27a96ee1949451efb1c55ed9806a69b",
+      "CRC32": "848a0267"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/cloth5_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/eye_mask_png_8238599.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "390f2f27bdf4433ea751c32b92f140d80ffc641e7226d10c36f434ada2f098c6",
+      "CRC32": "085a555b"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/face_png_80e6418d.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "8f3c40302d1d1ee5c618530f0d704f2e9071e078dae211cf29d16b701ff227bf",
+      "CRC32": "411a70b5"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/hair_png_52df6bf6.vtex_c",
+      "Bytes": 2798316,
+      "SHA256": "d98b7f4d87d0e6a46ef27d0c42e0af03be7e6017afa08fb02af208ceeb1ad6c0",
+      "CRC32": "e90165f3"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/hair_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/hair_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes_lens_png_1f65b9c4.vtex_c",
+      "Bytes": 89540,
+      "SHA256": "4feda0842ab976f0a97837208ed8fc7318b7eba336aa0d911f5a6d06a8c3f827",
+      "CRC32": "74c9133b"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes_lens_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes_png_2cf59d62.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "b7f8ed59f9ca0120592279ac5b815c7a159f13ce26c94c45047bbde8c658e44c",
+      "CRC32": "9ee718c5"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "e8d518e8b1ed5f884bc3c6b6aaf25e8b24746815cc8586f233606f4e99af14b2",
+      "CRC32": "6d57dcd2"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/shoes_vmat_g_tnormal_9829e497.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "11921a1e95d931afdd5be549f72763ed3995f8bf2708d99439cb9f05a39748bd",
+      "CRC32": "8810c275"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/sotcking_png_7b304084.vtex_c",
+      "Bytes": 351684,
+      "SHA256": "42b43ab5bcef9446b20acc6f114e83ce2f13e3d363733bdf147e532c9ec7426a",
+      "CRC32": "0f9f38a6"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/stocking_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "f900e501763c570c97d0cd126b9e38011cf6996e8c8c8f61b6b5d792ea11f960",
+      "CRC32": "8dde47a8"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/stocking_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "7d38275cdabb36665e5bde292afefe1cd4562990b5884b8f45ebe03abf90f40e",
+      "CRC32": "48fadebe"
+    },
+    {
+      "Path": "characters/models/exg/ruiyiwelkin/eku_mutsuki/eku_mutsuki/face1_vmorf.vtex_c",
+      "Bytes": 46184,
+      "SHA256": "894fa71eed3b3d2dd05a7ea80f2cac995baf2654acc223e319c480da7f3836fc",
+      "CRC32": "9ebdff8a"
+    },
+    {
+      "Path": "characters/models/exg/serina/serina/face_vmorf.vtex_c",
+      "Bytes": 50468,
+      "SHA256": "67aa830218179ddb71d8a66ed86762bb56baf8fc164d6201f12ebe8971576ede",
+      "CRC32": "12344c72"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/arms_png_6ef4e381.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "ff967dac3f3af461cc8b8c3f7c952f4c3326ca09c45d022e1baf93a1c8ece9c2",
+      "CRC32": "274c8134"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/bag_png_dfafddb8.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "e966163824c6f4ba4646f01116e59b2369665dcd0e1a3afd9ad12434d740141c",
+      "CRC32": "6d193f83"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/body_png_6bdaf79e.vtex_c",
+      "Bytes": 351604,
+      "SHA256": "74a17547340172695551af5b3c9f65552a94cf8aae404088d281b4f44391a83a",
+      "CRC32": "e90b5b0c"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/cloth_png_6e1be28b.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "f07ba553e2f63d57ac4e614448e8f779396dff6408f9381a482dab889f4bf8d5",
+      "CRC32": "5bfb5f63"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/eyes_png_eb67156c.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "65d24ec9a4208f150b129543a0a11938db601d3217317590cc09abbba706946b",
+      "CRC32": "f14da06c"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/hair_png_b688b215.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "b1fab48f5ca3b4347ca2a153bb57fd7f9b0ca7ce10f6fcf19034ba0ba67d7653",
+      "CRC32": "554bb9a8"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/head_png_dc311d02.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "7878be6db545a7ceab3ec20da5b20862b8db26bede0e90a0a5c3616c7efed800",
+      "CRC32": "8c973459"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/nail_png_e1b1674d.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "4dfcfe6da3fb4515dd5a5873963050dd4184ca06b1f9ef57db30fc13b82117c1",
+      "CRC32": "9231eea0"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/other_png_ed98ae5c.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "cb1f0b2186784f48474ca9b1b4101b905a4d9b2d997dc90c24250164b45a60f0",
+      "CRC32": "83d56199"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/pantyhose_png_41073712.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "0292fd77d565f4b095aa7e6f5e5da9b0775b8ed5c1a96c9252082840034fe6d9",
+      "CRC32": "805be108"
+    },
+    {
+      "Path": "characters/models/exg/serina/tex/shoesbra_png_fccc4b9b.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "7e1a25ef97a87def78d61e3814ea4f4c6b1893a3fe2b44f3e04a3c90cbd47b8f",
+      "CRC32": "4b2721ee"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/arms_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/arms_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/bag_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/bag_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/body_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/body_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/cloth_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/cloth_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye1_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye1_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye1_vmat_g_tselfillummask_37b5c236.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "904ba7228d1c012521d8eab2ade4fecb7c1164c35b2626944761bee0a4610624",
+      "CRC32": "82bc8958"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye_trans_vmat_g_tcolor_4adf89a5.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "ed47cf40c332aed3c3c72cb141b47322e747b7647f34db27b053da38ca8920cb",
+      "CRC32": "88f25a3a"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye_trans_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye_trans_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/eye_vmat_g_tselfillummask_554b633a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "0bd2b91428a3f126379e82a79b84036b699c4171dd7ea00b208d8c5d9e29f66d",
+      "CRC32": "2839930e"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/hair_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo1_vmat_g_tcolor_1d61aa67.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "b5fc33787f589b5e064167f9f89abfc7ba8dd04923f49ee619dda1a663679014",
+      "CRC32": "2ec8cfef"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo1_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo1_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo_vmat_g_tcolor_a77d68a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "d9f434cc98e154904b12855586294f38dfef72fcba96410b5042839a7063a6e6",
+      "CRC32": "474637e4"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/halo_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/head_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/head_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/nail_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/nail_vmat_g_tselfillummask_554b633a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "0bd2b91428a3f126379e82a79b84036b699c4171dd7ea00b208d8c5d9e29f66d",
+      "CRC32": "2839930e"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/other_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/other_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/pantyhose_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/pantyhose_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/shoesbra_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "fa7ba7a8b2650d474bcb43c8f2568dc49da50a82db6d6ca8a3ad41362efcca9e",
+      "CRC32": "8e3186c8"
+    },
+    {
+      "Path": "characters/models/exg/serina/vmat/shoesbra_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/huohua1_vmat_g_tcolor_d3ecd3ed.vtex_c",
+      "Bytes": 2024,
+      "SHA256": "32e467611fc12acbf6ffb16c2299b4bddaaa82c78945e6f3a0ffbbab413a20a6",
+      "CRC32": "7c57aafd"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/huohua1_vmat_g_tnormal_649547d1.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "a9fa3586c2e45758302b3d5f9b244323712b91c7b05c27a6989f305fb3d4b24d",
+      "CRC32": "86bc622b"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/huohua2_vmat_g_tcolor_4adf89a5.vtex_c",
+      "Bytes": 2272,
+      "SHA256": "637f9f2f65a784af3066ed3185dc7736c238925ae2a80df72d4afc89e948d65a",
+      "CRC32": "dacc51b2"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/huohua2_vmat_g_tnormal_649547d1.vtex_c",
+      "Bytes": 2320,
+      "SHA256": "a9fa3586c2e45758302b3d5f9b244323712b91c7b05c27a6989f305fb3d4b24d",
+      "CRC32": "86bc622b"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/arm/t_jpg_975951a4.vtex_c",
+      "Bytes": 4788,
+      "SHA256": "2c1130916fa3b46675277dc3da5c07e702d21c2ecdf0d3e03d6a52aeea03657a",
+      "CRC32": "90a0fdde"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/5xing_png_81694c43.vtex_c",
+      "Bytes": 351732,
+      "SHA256": "e326efa162a47f2c4fb983ee8c85a403198c969b223f5699776015e4ffecab46",
+      "CRC32": "baa2afac"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/down_d_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "9556ce37a885f781963807a95a1505b3b1cc2731a026ca77824c97185649068a",
+      "CRC32": "1f5d1806"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/gaoguang_png_2d27345f.vtex_c",
+      "Bytes": 351732,
+      "SHA256": "c049cda6dc1b61dbf2a3bf9b39a7edab1700326b5e7f81d1f46e9fa2733610a9",
+      "CRC32": "ba65a76e"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011bangs_d_png_10100c2a.vtex_c",
+      "Bytes": 176908,
+      "SHA256": "123290a605cb9dab0c2155464bc9ad2dc33f64a15954854b183c7f4de091500d",
+      "CRC32": "ff084456"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011down_d_png_d22bd11c.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "9597591d1051f3fde6b9ca3138b6fe98e8652ff181d73bc2a19d7c64bf322d37",
+      "CRC32": "ea4278d0"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011eye_d_png_5e4c9529.vtex_c",
+      "Bytes": 176892,
+      "SHA256": "86f2821721f52515cc633c09b557f032cda6f66ac033415df060c35a4aa5f77d",
+      "CRC32": "b9faa4aa"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011face_d_png_cce84086.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "e1fad76f3254948849450908790cfe37f696ec6c8015429475bf5650da1b6b8e",
+      "CRC32": "2050c6a1"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011hair_d_png_19d4a23d.vtex_c",
+      "Bytes": 176892,
+      "SHA256": "0c04832d0ab4fbb31535c34fd288d303963fdb29dc25a5bf7b5dd514ed8fa6e8",
+      "CRC32": "0b26d516"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011leisi_d_png_ee614019.vtex_c",
+      "Bytes": 45772,
+      "SHA256": "bc3124e1854ca846271ff4d7ceb14b39d8ddc60462773fea5af7d076b760ca3e",
+      "CRC32": "c40808a3"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/mingchao_feibi/materials/t_r2t1feibimd10011up_d_png_4dd84baf.vtex_c",
+      "Bytes": 176844,
+      "SHA256": "fce446a125f5bfa1501e95f384d168535f4f9e96cc4e1c7b24d13ce6011a948a",
+      "CRC32": "5165a26b"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2640,
+      "SHA256": "2b065bfc2bc3c2025fef9c056dc34a9f38eeea377879db34ae686816613d9dff",
+      "CRC32": "8e237e9e"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/clothes_png_ef9fb646.vtex_c",
+      "Bytes": 351668,
+      "SHA256": "a410aa5d2fe400a128e95e65f0dcf72f58e45892dfe1406aeac2c1e29dd0edaf",
+      "CRC32": "a8ba324b"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/clothes_shine_png_508dd007.vtex_c",
+      "Bytes": 351668,
+      "SHA256": "8ecff0db0a9075c9d210745e02c3d6ac7242c28dcafd1d5fa0501d12695b73d2",
+      "CRC32": "4e986194"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/face_png_1f9d79a2.vtex_c",
+      "Bytes": 176924,
+      "SHA256": "68b6f617899fd576736b6095b2d3d91a147762f105adfa9d788f8d0a5c309d14",
+      "CRC32": "c5caf3a3"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/face_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "17e27162bbb0b4220edf297cae065c60b7f3452e3db58f7207e7cd979465c4db",
+      "CRC32": "e083f0e7"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/hair_png_e6b92069.vtex_c",
+      "Bytes": 176924,
+      "SHA256": "144dfab6be887a266ad758fb3c505ffa910df15289086bd7a4a27ef4349a3e29",
+      "CRC32": "bc088063"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/hair_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "17e27162bbb0b4220edf297cae065c60b7f3452e3db58f7207e7cd979465c4db",
+      "CRC32": "e083f0e7"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/mask_png_fb0a4a58.vtex_c",
+      "Bytes": 176924,
+      "SHA256": "55a83888e5340d90040a9524e7e879839372a5fe1f16e626a549caa43d2c58ca",
+      "CRC32": "8652174f"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/miaobian_vmat_g_tcolor_20638b28.vtex_c",
+      "Bytes": 1976,
+      "SHA256": "58565db7eb286b2fefd6bc128c0b9b15216468f409b97db71d712a6efe657061",
+      "CRC32": "a11bf7db"
+    },
+    {
+      "Path": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/touming_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "17e27162bbb0b4220edf297cae065c60b7f3452e3db58f7207e7cd979465c4db",
+      "CRC32": "e083f0e7"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c1_a_png_bff0b260.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "716b15580e25f66d0a9c5db9b21e49dfed1fa1d8de6738306de2b3b0a7715d3b",
+      "CRC32": "d7c0df43"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c1_b_png_468bcdcb.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "67d0a0a908ee044afaf89a6e6651ffe9d3b1b67ce40827319cf5cb7539604e2d",
+      "CRC32": "7961cf31"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c1_c_png_9dbda543.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "1d37c863014068ecbad000ccc43a1c14438ae54093cfe0b3ab72b35f7ebb10db",
+      "CRC32": "62d3d063"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c2_png_df58701b.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "52457d0b6e43ae1131201fa6dff4577a5bd3c82f9c72319410ecd13288b147e5",
+      "CRC32": "25eede8a"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/c3_png_b8498e8.vtex_c",
+      "Bytes": 701288,
+      "SHA256": "59547039e286eb40a02a7c1eefa069001e1e6e14939abf526d7f2449588b1e20",
+      "CRC32": "92c2e5ed"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/ear_png_9c8ca03.vtex_c",
+      "Bytes": 45928,
+      "SHA256": "b274512ae5da8b9ceee46bcb253aa3642d55e8edd889826d6b27c6bb13b5f605",
+      "CRC32": "1a7b35f4"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/eyes_png_725c5b98.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "5f532dfcfce439f51716ca17dc0baa7497c7ed472a9a97688e27422a26373212",
+      "CRC32": "c5a78020"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/face_jpg_5f5c36bb.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "e758772ace04b12acbb9c20f3b3b5f5dc54beb9fc2aca22b6fb7ef95187850aa",
+      "CRC32": "d234d0e3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/hair_png_7cbd9325.vtex_c",
+      "Bytes": 351700,
+      "SHA256": "1e7f7f06f0dece640fd30e848c93edbbe73029b64ddda5f5bba3c65517aa0dad",
+      "CRC32": "8177d89c"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/highlight_png_cd6179ed.vtex_c",
+      "Bytes": 13020,
+      "SHA256": "0fd6953361cda609d06b20c280887f7ae31104a8f684a1d7b7c418ce4ec6962f",
+      "CRC32": "9ae8feaa"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/nail_png_b3572242.vtex_c",
+      "Bytes": 176860,
+      "SHA256": "143d5a08dccf846e9cf4a4aa97759074ad8496b97df34c8d0aa0027b0a90e162",
+      "CRC32": "3e43e2c4"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/ring_png_5f37d736.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "59a7ba1866839f5c8c8ad3bcf1dbbcf77ffc2dfc9eb0272169d8abfcd84386d4",
+      "CRC32": "12a754cf"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/tex/underwear_png_dcf7adfb.vtex_c",
+      "Bytes": 177000,
+      "SHA256": "2fa317fff70f1833dcd206c821d067d7188757ffe91079112b6ccfdc70c2ba55",
+      "CRC32": "0626b232"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black_vmat_g_tcolor_849f3641.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "95667fa0e5edeb9bd01609477b163f203fbad1671c6ce4d5c961164961d0daa1",
+      "CRC32": "79ab7fbd"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black_vmat_g_tmetalness_743cf219.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "837e2fb53698d64eaa45bd40cc390c5f13bc610cc503edd80e34e50785bc7f2c",
+      "CRC32": "3614ec64"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/black_vmat_g_tnormal_98e25b41.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "5cfd2e4783ae10e0f843106c29f617e52a8bbbb4e4ebafe73f0d93aa7c16c267",
+      "CRC32": "97cab2cb"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_a_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_a_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_b_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_b_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_c_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c1_c_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c2_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c2_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c3_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/c3_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ear_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ear_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/eyes_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/eyes_vmat_g_tselfillummask_38bac7b9.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "4ac0928d2d6bd28cd4bc55dc3b4ea474c28876c531edce142ec15b179d8755af",
+      "CRC32": "6bb07562"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/face_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/face_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "46f4f14ce04b8c2f2666b801cf8d9871ef4a903977507179262032ace399c98c",
+      "CRC32": "fbd446d5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/highlight_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/highlight_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/nail_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/nail_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ring_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/ring_vmat_g_tnormal_f4bfd49a.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "675af72bea7bfc6d91bb0d4ab06b44d6645c3e61dc3ef9323708dd9cf97debbf",
+      "CRC32": "8ef17c47"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "46f4f14ce04b8c2f2666b801cf8d9871ef4a903977507179262032ace399c98c",
+      "CRC32": "fbd446d5"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/tail_vmat_g_tnormal_d52512a9.vtex_c",
+      "Bytes": 2112,
+      "SHA256": "7d161a2cc26ea3c9e7a1d8677332defbecd89ecdbf333f2d821a3c2d280463ec",
+      "CRC32": "65230f22"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/underwear_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/underwear_vmat_g_tnormal_ce38f34.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "2759a8d8d5d99f8b68bf578779c0ebc4cc3a7a88e61debd572fe259295e6fce7",
+      "CRC32": "089b64af"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white_vmat_g_tcolor_7ab53e0a.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "76d40f108d0154d327dddb165e89383a05cf27f2586b3241900cde77ff011f31",
+      "CRC32": "057c5bf3"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "4a16c4aae079ac1dd51a41d13338c53c1b8f9ecf00f7f8c4e72b5a924ce8e8f7",
+      "CRC32": "4df41511"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vmat/white_vmat_g_tnormal_98e25b41.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "5cfd2e4783ae10e0f843106c29f617e52a8bbbb4e4ebafe73f0d93aa7c16c267",
+      "CRC32": "97cab2cb"
+    },
+    {
+      "Path": "characters/models/exg/vrc_lime/vrc_lime/face_vmorf.vtex_c",
+      "Bytes": 42872,
+      "SHA256": "8365dfb287407472ce93cb9132a8f475508c43484193811140496b9f80f6c815",
+      "CRC32": "736f4a18"
+    },
+    {
+      "Path": "characters/models/klee/materials/public_girlhands_png_9312dfbf.vtex_c",
+      "Bytes": 2264,
+      "SHA256": "b232a87fde95526a4380669e810cb4c04bb2395041a915a550a67abee16aa644",
+      "CRC32": "02c3b57e"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/eye_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/eye_vmat_g_tselfillummask_ff155607.vtex_c",
+      "Bytes": 2008,
+      "SHA256": "83c66ea2f2aae411a11a165ba48c798ea217d0e86f9bd17bb1fafd06dfdddbab",
+      "CRC32": "4171fc59"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_body_png_3732fe8e.vtex_c",
+      "Bytes": 177016,
+      "SHA256": "c2660afe338d9dfa12d3e52ba2546f020219c02e8188c7e85a16913ddce42ce1",
+      "CRC32": "594a55c3"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_body_vmat_g_tmetalness_a36e4169.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "ff32f4ab7bfd6feaa2e41429c5019a8f1ffb259f3706aeef3a451fa3578ff457",
+      "CRC32": "bf863544"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_body_vmat_g_tnormal_2720f363.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "169e84e3d7f58f595c6b49dd1fe79aeaeae4c6822a86a8dbf258d8e0cc09858b",
+      "CRC32": "8f93b1e8"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_costume_png_797c25ca.vtex_c",
+      "Bytes": 177016,
+      "SHA256": "46e905477cec6a3ea804e752a86c7be764306db694fc71c3be04398723ea69b5",
+      "CRC32": "34c5cee2"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_costume_vmat_g_tmetalness_9e1f0cf0.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "dd83e6c6728889fb500416667fbb7c3849c0d8a98a2acaf7a7656391ae97df9f",
+      "CRC32": "3c6d4c43"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_costume_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_face_png_85820777.vtex_c",
+      "Bytes": 701148,
+      "SHA256": "dea66dcff47a594128e9f5d775c7f7a8f3a67e69635ac7ade0c39f32b62415a1",
+      "CRC32": "222e2eb0"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_face_vmat_g_tmetalness_a36e4169.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "ff32f4ab7bfd6feaa2e41429c5019a8f1ffb259f3706aeef3a451fa3578ff457",
+      "CRC32": "bf863544"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_face_vmat_g_tnormal_2720f363.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "169e84e3d7f58f595c6b49dd1fe79aeaeae4c6822a86a8dbf258d8e0cc09858b",
+      "CRC32": "8f93b1e8"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_fantasticsky-eye01_png_d43f5735.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "d3778a86cd90f9ec44613d035815b8a0e63452036180ecce99da4d8a0fc9833f",
+      "CRC32": "2f28abec"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_hair_png_96b7e97c.vtex_c",
+      "Bytes": 177016,
+      "SHA256": "2b4b384e0b535f26389bb5d4bc1950f1842876e5083d9c11bdf0e77f46a26069",
+      "CRC32": "a22df343"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_hair_vmat_g_tmetalness_a36e4169.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "ff32f4ab7bfd6feaa2e41429c5019a8f1ffb259f3706aeef3a451fa3578ff457",
+      "CRC32": "bf863544"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/manuka_hair_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/2_1_png_dc8a6ecd.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "ffa684ba20e93b9c7075c60c38dcb0307f42316e959c8863de721d801f77489d",
+      "CRC32": "f3cac7b8"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/a_vmat_g_tmetalness_9e1f0cf0.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "dd83e6c6728889fb500416667fbb7c3849c0d8a98a2acaf7a7656391ae97df9f",
+      "CRC32": "3c6d4c43"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/a_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/b_vmat_g_tmetalness_9e1f0cf0.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "dd83e6c6728889fb500416667fbb7c3849c0d8a98a2acaf7a7656391ae97df9f",
+      "CRC32": "3c6d4c43"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/b_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/c_vmat_g_tmetalness_3bb3def4.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "bef9d94eb3381033e445fcda2ab0cb3e42289aee7b70b79323470733e9187e49",
+      "CRC32": "d4d9e3f3"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/c_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/d_vmat_g_tmetalness_3198a539.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "b736b084decdb3804ea385ee7f87f652fae6a67f3b9bb162a160c326f2a8aa8f",
+      "CRC32": "d164ec49"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/d_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/grey_line_png_877dc653.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "a8be22313574901eba4f897c6fa347313c2d604cb2481855a654f9de0af52206",
+      "CRC32": "5e08a1d7"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/shoes_png_537dba63.vtex_c",
+      "Bytes": 176876,
+      "SHA256": "8986ff0d2cccfe460ca47987aa3d215ac7fec870e7cb0cb1bfbdfa4d4517668c",
+      "CRC32": "aa340ff3"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/classical_chic/tex_png_8a6e3697.vtex_c",
+      "Bytes": 45804,
+      "SHA256": "3b939f9e03b820356ebb18ca2e108051b52f528293f2ca3c6539aa4a075b503e",
+      "CRC32": "3629c449"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/dr_col_1_png_ad16d4f3.vtex_c",
+      "Bytes": 1400308,
+      "SHA256": "2b3eb680430d59670cf12db12bff1cfb8c32feeee6c37ef0560fff38fb26fccf",
+      "CRC32": "bb27774b"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/dress_vmat_g_tmetalness_9e1f0cf0.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "dd83e6c6728889fb500416667fbb7c3849c0d8a98a2acaf7a7656391ae97df9f",
+      "CRC32": "3c6d4c43"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/dress_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/horn_col1_png_af303b2d.vtex_c",
+      "Bytes": 176892,
+      "SHA256": "24390af2f0abaa5de720857acb9f27d6198eace68c7bb9fdb383cf05cd1667ad",
+      "CRC32": "9bf3833f"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/horn_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "0aacdb9b8b0fe7f696084fe50784ccdc8e6b55859966a05bb7291ea8affa8ac9",
+      "CRC32": "efd9f267"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/horn_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/shoes_col1_png_c07b7abe.vtex_c",
+      "Bytes": 176892,
+      "SHA256": "8837c46dd64cbbeb96cdae942717cf26d98e027e6957c986a5f2beba550401ea",
+      "CRC32": "9639a12f"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/shoes_vmat_g_tmetalness_6d51e0df.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "b8e552643307e1b9ed578f85a1030f7541576e22b1eb855f85500e3751ef4627",
+      "CRC32": "e84be5f5"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/shoes_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/tiara_col1_png_fa4051c.vtex_c",
+      "Bytes": 177032,
+      "SHA256": "f1462f7f866b1e13bbf3827a99975af5baab41002724dc7e5ab5dec2cbcc20d1",
+      "CRC32": "55fc7c71"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/tiara_vmat_g_tmetalness_bd906efe.vtex_c",
+      "Bytes": 2576,
+      "SHA256": "8f070df38156f99471b115a11084b8f8047884e4487a4623017a60a0c2a112f9",
+      "CRC32": "1cd24d88"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/tiara_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/wing_col1_png_a2e32bc7.vtex_c",
+      "Bytes": 45960,
+      "SHA256": "ebfadd947511f713d33d85b0f574f67f490f925c2333da2cb77f1055846e7552",
+      "CRC32": "8df74abb"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/wing_vmat_g_tmetalness_186644c.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "3b38a0695e5c72cb875863f4c8d2000086ca4eba2039c6487e70c2940ce6e6b8",
+      "CRC32": "d633f98d"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/devil_dark_dress/wing_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/goth_twin_tail/beige_png_b0c6c5fd.vtex_c",
+      "Bytes": 701164,
+      "SHA256": "d9084c6543c41781561b3f59c518239e0b941951a4ec3384734501de76a51802",
+      "CRC32": "a72d18ff"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/goth_twin_tail/pony_vmat_g_tmetalness_6c34912.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "0e9acdf234d9f0c5e46d08b960133df0cba68febedfd01bf59f5c10b1aad0113",
+      "CRC32": "7b63f91e"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/goth_twin_tail/pony_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/default_png_3cd7c97a.vtex_c",
+      "Bytes": 1400308,
+      "SHA256": "86f9a2fe25b2a91807ebfd5dc7eb2450968e44e5690d3939b344bc9d452ed7f1",
+      "CRC32": "819f4f27"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_crystals_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "0aacdb9b8b0fe7f696084fe50784ccdc8e6b55859966a05bb7291ea8affa8ac9",
+      "CRC32": "efd9f267"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_crystals_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_moonlightchoir_vmat_g_tmetalness_9e1f0cf0.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "dd83e6c6728889fb500416667fbb7c3849c0d8a98a2acaf7a7656391ae97df9f",
+      "CRC32": "3c6d4c43"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/mat_moonlightchoir_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/moonlightchoir/tex_diamond_mc_png_5310b763.vtex_c",
+      "Bytes": 13192,
+      "SHA256": "c5cc6c8e2d9959ed06ab6dfe42e80df3cc6ae5d337158b15e066268f5125477e",
+      "CRC32": "d9e7cadb"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/buttonbvcx_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "0aacdb9b8b0fe7f696084fe50784ccdc8e6b55859966a05bb7291ea8affa8ac9",
+      "CRC32": "efd9f267"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_clothes_brown_png_c86424e1.vtex_c",
+      "Bytes": 701180,
+      "SHA256": "e55d39c7bddabad6a62d8804b545e78359a26840d9337fafe251f7fb1672ac46",
+      "CRC32": "55a21d0e"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_clothes_brown_vmat_g_tmetalness_9e1f0cf0.vtex_c",
+      "Bytes": 2256,
+      "SHA256": "dd83e6c6728889fb500416667fbb7c3849c0d8a98a2acaf7a7656391ae97df9f",
+      "CRC32": "3c6d4c43"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_clothes_brown_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_etc_png_88a1b59b.vtex_c",
+      "Bytes": 89728,
+      "SHA256": "5cc418375b8a24849cd8ba8c4768ec21b883da9bd52c0f4026fdfb6021db179d",
+      "CRC32": "f7ad9657"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_etc_vmat_g_tmetalness_10974e8a.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "65390b62a60b8048e3eb8d1c96106bbf1e72ad15cbd138129b49d62b1057b27f",
+      "CRC32": "562a2fa5"
+    },
+    {
+      "Path": "characters/models/neon/xmanuka/manuka_tex/velodyseear/n034_etc_vmat_g_tnormal_53b47c48.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "6aa97d1e519390f320bf2ba4b4b2a7e87ab676c50ad599655271e1fd7e03df2a",
+      "CRC32": "6a93ed3c"
+    },
+    {
+      "Path": "characters/models/remuru/roughness_vmat_g_tmetalness_b70f8f59.vtex_c",
+      "Bytes": 2624,
+      "SHA256": "f67fc1a3576fe8ac7bda49d9310cfc99c4b1ccf8e47338c6a16b64565a531b97",
+      "CRC32": "2e9ebc31"
+    },
+    {
+      "Path": "characters/models/remuru/roughness_vmat_g_tnormal_18cf3a06.vtex_c",
+      "Bytes": 2304,
+      "SHA256": "342e2e278a7d47ee6594b29207bd890a198b4f92e0775e2bdea436c7b8fe6af5",
+      "CRC32": "a1e59c1b"
+    },
+    {
+      "Path": "materials/default/default_normal_tga_5a869113.vtex_c",
+      "Bytes": 2400,
+      "SHA256": "7fd2f41007d5080acf9a4c4b67561069ba092ff2c4bc7c7dae08a81c205c2469",
+      "CRC32": "d646dfe4"
+    },
+    {
+      "Path": "materials/default/default_rough_tga_30b0ca31.vtex_c",
+      "Bytes": 2336,
+      "SHA256": "e162ecd5dfc7c72310c8c18542e3a2664a8537f883f129a52963175e3d54307a",
+      "CRC32": "2ec587ac"
+    },
+    {
+      "Path": "materials/default/default_weapon_color_tga_49db40d3.vtex_c",
+      "Bytes": 2108,
+      "SHA256": "b2cff1a159ab8a20de4a62bee2b223806cd2d2d967e8b4860a5639a7aecadac5",
+      "CRC32": "5e510812"
+    }
+  ],
+  "AllEntryCRCsValid": true,
+  "ArchiveSHA256": {
+    "/root/model-system-work/fifteen-work/CS2-FifteenModels-Workshop/workshop-upload/pak01_000.vpk": "522fd28c3be2eafab626cd7a44505d5d61bb16dd0b4244cbb74d28ca5bfa50d5",
+    "/root/model-system-work/fifteen-work/CS2-FifteenModels-Workshop/workshop-upload/pak01_dir.vpk": "3986e3c274ef50026a1e6f2eb9d5c4aaa45e96147a037fb83f145bfaa200e4a8"
+  }
+}

@@ -1,0 +1,1 @@
+10052-only audited compiled-resource cleanup. Input SHA256 and AG2 prerequisites are enforced; removes only the sole obsolete animset include and its RERL entry. Uses existing embedded mesh/skin and AG2, no recompile. Build with .NET 10 SDK. Game testing remains necessary.

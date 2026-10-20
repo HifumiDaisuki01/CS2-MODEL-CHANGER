@@ -1,0 +1,30 @@
+[
+    {
+        "Id":  "10052",
+        "BeforeBinarySHA256":  "3491bb0fa333e1a09b465cca78df217a6e232a4854d4a2e8a777f637084e8eda",
+        "AfterBinarySHA256":  "3491bb0fa333e1a09b465cca78df217a6e232a4854d4a2e8a777f637084e8eda",
+        "MeshSkinAnimationBinaryIdentical":  true,
+        "GameTested":  false
+    },
+    {
+        "Id":  "10073",
+        "BeforeBinarySHA256":  "bacc043b931df817fd436c2894bf85fd1fe8d18b4ac7c74200ea75060bc954d9",
+        "AfterBinarySHA256":  "bacc043b931df817fd436c2894bf85fd1fe8d18b4ac7c74200ea75060bc954d9",
+        "MeshSkinAnimationBinaryIdentical":  true,
+        "GameTested":  false
+    },
+    {
+        "Id":  "10092",
+        "BeforeBinarySHA256":  "a1e83fe722928cf7ae9e57e31230aa34d018ce7388fe331014826ed8f8426552",
+        "AfterBinarySHA256":  "a1e83fe722928cf7ae9e57e31230aa34d018ce7388fe331014826ed8f8426552",
+        "MeshSkinAnimationBinaryIdentical":  true,
+        "GameTested":  false
+    },
+    {
+        "Id":  "xmanuka",
+        "BeforeBinarySHA256":  "23efbdd66e24dc1bbe37397c0cf8a535ef7ff9d4f862212f2a826ce15cd3dd49",
+        "AfterBinarySHA256":  "23efbdd66e24dc1bbe37397c0cf8a535ef7ff9d4f862212f2a826ce15cd3dd49",
+        "MeshSkinAnimationBinaryIdentical":  true,
+        "GameTested":  false
+    }
+]

@@ -1,5 +1,13 @@
 ## Unreleased — batch model preparation (2026-10-18)
 
+## v0.7.0-fifteen-models — 2026-10-20
+
+- Removed Huohuo and Hifumi from the upload package; preserved all ten retained model hashes, current Lime E and latest Myers.
+- Added 10092/Shorekeeper, 10073/Sparkle, 10096/Elysia, xmanuka and 10052; repaired three stale external-arm settings and the audited 10052 legacy animset include using structured serialization.
+- All 824 resources parsed, fifteen AG2/core skeleton/FP meshes verified; four repairs preserve independent glTF binary data. Added clean-addon upload guidance and stale-model rejection.
+- New five client/Workshop validation pending; production remains unchanged. Preserved prior releases.
+
+
 ## 2026-10-20 — Model audit and Lime E hand-repair record
 
 - Audited seven new-collection player models and corresponding phase2 resources; distinguished complete AG2 candidates, obsolete arm references, mixed AG1/AG2 dependencies and full AG1 migration.

@@ -1,0 +1,182 @@
+{
+  "Input": "C:\\Users\\Administrator\\Desktop\\\u65B0\u7248\u6A21\u578B\u5305\u5E26\u624B\u81C2\uFF08NL\u548CMeme\u7B49\u901A\u7528\uFF09\\characters\\exg\\10092\\10092.vmdl_c",
+  "Output": "C:\\Users\\Administrator\\Desktop\\\u5341\u4E94\u4EBA\u7269Workshop\u4E0A\u4F20\u5305\\repaired\\characters\\exg\\10092\\10092.vmdl_c",
+  "InputSHA256": "2e764019200f91a232aac3706ce1a9b4b460b2b73b73f8213b36f53994846178",
+  "OutputSHA256": "138e654aa06251f8d3a5ad236631891f2b341fdf024503b0a1163c8b386e9e5e",
+  "RemovedArmResource": "characters/models/exg/qiliu/shouanren/arms/shouanren_arms.vmdl",
+  "RemovedGameSetting": "character_arm_config",
+  "StructuredKV3Editing": true,
+  "ResourceBlockTableRebuilt": true,
+  "OnlyDataAndReferenceBlocksChanged": true,
+  "OtherGameSettingsSemanticallyUnchanged": true,
+  "SkeletonAndMeshSettingsUnchanged": true,
+  "UnrelatedBlockHashes": [
+    {
+      "Index": 0,
+      "Block": "MVTX",
+      "BeforeSHA256": "6935449a83bbe71c72ea590705b64f64ac88453bb888e0f34c5a1873b0891dc7",
+      "AfterSHA256": "6935449a83bbe71c72ea590705b64f64ac88453bb888e0f34c5a1873b0891dc7",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 1,
+      "Block": "MIDX",
+      "BeforeSHA256": "d0fd70a4412ebf0857a67cceabdaffc225c8165debee004ffeda197fa5274841",
+      "AfterSHA256": "d0fd70a4412ebf0857a67cceabdaffc225c8165debee004ffeda197fa5274841",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 2,
+      "Block": "MVTX",
+      "BeforeSHA256": "012910c36eb5b412751e1d26cd2f18b2a667635e7e899e8b34e208cfdea6f125",
+      "AfterSHA256": "012910c36eb5b412751e1d26cd2f18b2a667635e7e899e8b34e208cfdea6f125",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 3,
+      "Block": "MVTX",
+      "BeforeSHA256": "b4d49415a10da7dd36d18e69e7e259895b0c7c87437d7fb9f4db5bac0e3fc53c",
+      "AfterSHA256": "b4d49415a10da7dd36d18e69e7e259895b0c7c87437d7fb9f4db5bac0e3fc53c",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 4,
+      "Block": "MIDX",
+      "BeforeSHA256": "cf18d1faec1d63f62b1d33f83ad17271bd417d2385b12ffc21848ff623f5e7d3",
+      "AfterSHA256": "cf18d1faec1d63f62b1d33f83ad17271bd417d2385b12ffc21848ff623f5e7d3",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 5,
+      "Block": "MVTX",
+      "BeforeSHA256": "8630b763f18e86c0774a68aec086d8d12efa8995469a7f0885982220d4a1398c",
+      "AfterSHA256": "8630b763f18e86c0774a68aec086d8d12efa8995469a7f0885982220d4a1398c",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 6,
+      "Block": "MVTX",
+      "BeforeSHA256": "e5aeee417e2eb3966f8e48985a5255957fec88e6546b4e1389d9b00547a90afb",
+      "AfterSHA256": "e5aeee417e2eb3966f8e48985a5255957fec88e6546b4e1389d9b00547a90afb",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 7,
+      "Block": "MIDX",
+      "BeforeSHA256": "ef89999f627327cf2a2b7916c28985d41c26a6e58e43cae29f60947510f34c11",
+      "AfterSHA256": "ef89999f627327cf2a2b7916c28985d41c26a6e58e43cae29f60947510f34c11",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 8,
+      "Block": "MVTX",
+      "BeforeSHA256": "c1a5fb48a0dfaec7fb8ecec862c6baeb415899c233df67e6fdcf46a0443f686d",
+      "AfterSHA256": "c1a5fb48a0dfaec7fb8ecec862c6baeb415899c233df67e6fdcf46a0443f686d",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 9,
+      "Block": "MDAT",
+      "BeforeSHA256": "7fc8de219bfaf622c91680244f191b0e625726e5f13e207a07714c9f26df78c4",
+      "AfterSHA256": "7fc8de219bfaf622c91680244f191b0e625726e5f13e207a07714c9f26df78c4",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 10,
+      "Block": "MVTX",
+      "BeforeSHA256": "9c872afb4f9550d6798dab0a54cb68a86a911fda7b80b5a69b111675f4b972e4",
+      "AfterSHA256": "9c872afb4f9550d6798dab0a54cb68a86a911fda7b80b5a69b111675f4b972e4",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 11,
+      "Block": "MIDX",
+      "BeforeSHA256": "0faca1b7e0bb28b5d068a2f61a3a63f8a02ef4ed205af0996fda1ead8b1837a6",
+      "AfterSHA256": "0faca1b7e0bb28b5d068a2f61a3a63f8a02ef4ed205af0996fda1ead8b1837a6",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 12,
+      "Block": "MVTX",
+      "BeforeSHA256": "3efe78440e3d59f68827803a0252d857ddd3b559d8042649769ff30327aed251",
+      "AfterSHA256": "3efe78440e3d59f68827803a0252d857ddd3b559d8042649769ff30327aed251",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 13,
+      "Block": "MIDX",
+      "BeforeSHA256": "4a05929f66469d5e94ceb8b19fb1f0047cb7ce323d5ebf79b5c969ea33b424e4",
+      "AfterSHA256": "4a05929f66469d5e94ceb8b19fb1f0047cb7ce323d5ebf79b5c969ea33b424e4",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 14,
+      "Block": "MDAT",
+      "BeforeSHA256": "7550f6e8c57626ebfb034c7f35c6d13162ac90d74babcaf01a92ab6017db3a26",
+      "AfterSHA256": "7550f6e8c57626ebfb034c7f35c6d13162ac90d74babcaf01a92ab6017db3a26",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 15,
+      "Block": "ANIM",
+      "BeforeSHA256": "ca3b897888b5ed77f8a15ef0944b289ad00c49b40664a09e57f7eeaae026edba",
+      "AfterSHA256": "ca3b897888b5ed77f8a15ef0944b289ad00c49b40664a09e57f7eeaae026edba",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 16,
+      "Block": "ASEQ",
+      "BeforeSHA256": "55a76b0d2f84d60966cc826a3206150b62460abf2bc6eeb232e684da7e7171c8",
+      "AfterSHA256": "55a76b0d2f84d60966cc826a3206150b62460abf2bc6eeb232e684da7e7171c8",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 17,
+      "Block": "AGRP",
+      "BeforeSHA256": "25043019a96e90dd5d1bb4b427f61a8027e1c88e648fc977e7af46e4de585548",
+      "AfterSHA256": "25043019a96e90dd5d1bb4b427f61a8027e1c88e648fc977e7af46e4de585548",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 18,
+      "Block": "PHYS",
+      "BeforeSHA256": "97c10956849fc44c01e7cf67ef9db27d82479c6db740681de0c3d3fbfd18cfa8",
+      "AfterSHA256": "97c10956849fc44c01e7cf67ef9db27d82479c6db740681de0c3d3fbfd18cfa8",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 19,
+      "Block": "CTRL",
+      "BeforeSHA256": "a5c114a8bae558f157d859e3452d4f6de7113ea48e86457db82719908078cb2e",
+      "AfterSHA256": "a5c114a8bae558f157d859e3452d4f6de7113ea48e86457db82719908078cb2e",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 20,
+      "Block": "RERL",
+      "BeforeSHA256": "b1751d36178fc617fcee43386cd3b8a4c0742b8d69ae9b39b483088c11d9f098",
+      "AfterSHA256": "d7d14a0a717dcf44f668ff74a14f3d99ea1b35750e7f5dc2398a7bd6a4fbe29f",
+      "ByteIdentical": false
+    },
+    {
+      "Index": 21,
+      "Block": "RED2",
+      "BeforeSHA256": "23acb287cd393913e1e990be4b26ec1aed66432f3e8eafa535805c6a8123bc2f",
+      "AfterSHA256": "23acb287cd393913e1e990be4b26ec1aed66432f3e8eafa535805c6a8123bc2f",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 22,
+      "Block": "DATA",
+      "BeforeSHA256": "b17ce480254f116bdf521404a7f32e5a0b97afba52d10a7d1f81a48a9be0dd60",
+      "AfterSHA256": "1ec426353d524deb6aceeaf600648a2f6f1158e12bc53cce4a525a79912d1941",
+      "ByteIdentical": false
+    }
+  ],
+  "SourceBytesUnchanged": true,
+  "Recompiled": false,
+  "AG2ConversionPerformed": false,
+  "GameTested": false,
+  "StaticRepairPassed": true,
+  "Tool": "ValveResourceFormat 20.1.7467 structured serializer"
+}

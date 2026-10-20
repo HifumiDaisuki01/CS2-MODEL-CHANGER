@@ -1,0 +1,203 @@
+{
+  "Input": "C:\\Users\\Administrator\\Desktop\\\u65B0\u7248\u6A21\u578B\u5305\u5E26\u624B\u81C2\uFF08NL\u548CMeme\u7B49\u901A\u7528\uFF09\\characters\\exg\\10073\\10073.vmdl_c",
+  "Output": "C:\\Users\\Administrator\\Desktop\\\u5341\u4E94\u4EBA\u7269Workshop\u4E0A\u4F20\u5305\\repaired\\characters\\exg\\10073\\10073.vmdl_c",
+  "InputSHA256": "c6e8823182bc09a84d549a20206481d447f3416ee3dcb00332a24a9f6766b43b",
+  "OutputSHA256": "9115a88ab325603f04ba6d84b8153d35d0ec61760614132348dcfab32933c3f3",
+  "RemovedArmResource": "characters/models/exg/tioplato/xingqiongtiedao_huahuo/huahuo_arms.vmdl",
+  "RemovedGameSetting": "character_arm_config",
+  "StructuredKV3Editing": true,
+  "ResourceBlockTableRebuilt": true,
+  "OnlyDataAndReferenceBlocksChanged": true,
+  "OtherGameSettingsSemanticallyUnchanged": true,
+  "SkeletonAndMeshSettingsUnchanged": true,
+  "UnrelatedBlockHashes": [
+    {
+      "Index": 0,
+      "Block": "MVTX",
+      "BeforeSHA256": "0d83e338b5e7bfe13873260637aedfcb519f29aeae6f043bf235dd5620ec704c",
+      "AfterSHA256": "0d83e338b5e7bfe13873260637aedfcb519f29aeae6f043bf235dd5620ec704c",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 1,
+      "Block": "MIDX",
+      "BeforeSHA256": "bd1d7d49acb60d62828d0c1cd77c3bd808c06caaec6ee04c662cbb3471b0ce00",
+      "AfterSHA256": "bd1d7d49acb60d62828d0c1cd77c3bd808c06caaec6ee04c662cbb3471b0ce00",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 2,
+      "Block": "MDAT",
+      "BeforeSHA256": "cc7766740e609d5ce83edc36f51b91a5be26a385fb3440aa30155069db1760a4",
+      "AfterSHA256": "cc7766740e609d5ce83edc36f51b91a5be26a385fb3440aa30155069db1760a4",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 3,
+      "Block": "MVTX",
+      "BeforeSHA256": "bea654d84ab3fbb2f4239833a5474a51688be34a986c3c4ef2a7f43ccd09fdde",
+      "AfterSHA256": "bea654d84ab3fbb2f4239833a5474a51688be34a986c3c4ef2a7f43ccd09fdde",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 4,
+      "Block": "MIDX",
+      "BeforeSHA256": "f313a2125ac05c2e66cbc6a7e80fc930830fc8d4736745175c282accce01fc29",
+      "AfterSHA256": "f313a2125ac05c2e66cbc6a7e80fc930830fc8d4736745175c282accce01fc29",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 5,
+      "Block": "MDAT",
+      "BeforeSHA256": "b834ab5826cc7ffa33d6158374ae44f16c6c128faf002a78b7f34739199a230f",
+      "AfterSHA256": "b834ab5826cc7ffa33d6158374ae44f16c6c128faf002a78b7f34739199a230f",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 6,
+      "Block": "MVTX",
+      "BeforeSHA256": "329b0d4c59bc9b9742d540d2c7a8732ba8aab7b770b800e327de7597a5771914",
+      "AfterSHA256": "329b0d4c59bc9b9742d540d2c7a8732ba8aab7b770b800e327de7597a5771914",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 7,
+      "Block": "MIDX",
+      "BeforeSHA256": "9a59c8e5725fbf008a15ccc19b1f705dc25bd174b4163286b6f861b971d06737",
+      "AfterSHA256": "9a59c8e5725fbf008a15ccc19b1f705dc25bd174b4163286b6f861b971d06737",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 8,
+      "Block": "MVTX",
+      "BeforeSHA256": "2a22974f8d876eac80acdf16661779da872ab4b24761871397479e806f89ef68",
+      "AfterSHA256": "2a22974f8d876eac80acdf16661779da872ab4b24761871397479e806f89ef68",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 9,
+      "Block": "MIDX",
+      "BeforeSHA256": "d3a22cd55958ad35e9957234d15e8c2da07bce7401f24d6ef4624e4e219a7e3b",
+      "AfterSHA256": "d3a22cd55958ad35e9957234d15e8c2da07bce7401f24d6ef4624e4e219a7e3b",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 10,
+      "Block": "MVTX",
+      "BeforeSHA256": "abeab5468a17e8ecf7728f16d5f236cae5c918390d03d5510dd819eb5460db4e",
+      "AfterSHA256": "abeab5468a17e8ecf7728f16d5f236cae5c918390d03d5510dd819eb5460db4e",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 11,
+      "Block": "MIDX",
+      "BeforeSHA256": "d15fc5e07ed2e1d813d47136c2456e6ac3a3b1d5d18b1bcb712fc47d005639e3",
+      "AfterSHA256": "d15fc5e07ed2e1d813d47136c2456e6ac3a3b1d5d18b1bcb712fc47d005639e3",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 12,
+      "Block": "MVTX",
+      "BeforeSHA256": "eb26a43ac928b7ab15f1acfedf4b2c8b3245791f9ae99f64ad5d2a7ba61fa82d",
+      "AfterSHA256": "eb26a43ac928b7ab15f1acfedf4b2c8b3245791f9ae99f64ad5d2a7ba61fa82d",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 13,
+      "Block": "MIDX",
+      "BeforeSHA256": "57f7e9e9f5aa9c3f35ea0a512424219e16ec77cb58a9206f6ea13e17014020f6",
+      "AfterSHA256": "57f7e9e9f5aa9c3f35ea0a512424219e16ec77cb58a9206f6ea13e17014020f6",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 14,
+      "Block": "MDAT",
+      "BeforeSHA256": "7f638a793dcdc62705cd8620a514079be97a9dab85a92b19fe568b95aba280e4",
+      "AfterSHA256": "7f638a793dcdc62705cd8620a514079be97a9dab85a92b19fe568b95aba280e4",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 15,
+      "Block": "MVTX",
+      "BeforeSHA256": "92448207cd7cb8c49cb80898df3c2514cec9f8374a6c18f64a07fa5b20370720",
+      "AfterSHA256": "92448207cd7cb8c49cb80898df3c2514cec9f8374a6c18f64a07fa5b20370720",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 16,
+      "Block": "MIDX",
+      "BeforeSHA256": "f313a2125ac05c2e66cbc6a7e80fc930830fc8d4736745175c282accce01fc29",
+      "AfterSHA256": "f313a2125ac05c2e66cbc6a7e80fc930830fc8d4736745175c282accce01fc29",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 17,
+      "Block": "MDAT",
+      "BeforeSHA256": "b8fa7ee020259f3eeaeb0dd93dd958755213c26619aa8371b74cbeacd5d3f624",
+      "AfterSHA256": "b8fa7ee020259f3eeaeb0dd93dd958755213c26619aa8371b74cbeacd5d3f624",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 18,
+      "Block": "ANIM",
+      "BeforeSHA256": "7a483157ea1c8b4bffbf01c13702d6ddec817152e753f93721ceee07cab54639",
+      "AfterSHA256": "7a483157ea1c8b4bffbf01c13702d6ddec817152e753f93721ceee07cab54639",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 19,
+      "Block": "ASEQ",
+      "BeforeSHA256": "f4faa794bcf017d27fdea9310210eab94ee138dc8646001e5adfba8b0a439173",
+      "AfterSHA256": "f4faa794bcf017d27fdea9310210eab94ee138dc8646001e5adfba8b0a439173",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 20,
+      "Block": "AGRP",
+      "BeforeSHA256": "73b165766fd0022c9a35331bf0346a1aea55600e966dd9119f20b07027ad5883",
+      "AfterSHA256": "73b165766fd0022c9a35331bf0346a1aea55600e966dd9119f20b07027ad5883",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 21,
+      "Block": "PHYS",
+      "BeforeSHA256": "0346b3701cd83af77a4422631fb7026d37bc631499a424b176a8bbbe1a877dd5",
+      "AfterSHA256": "0346b3701cd83af77a4422631fb7026d37bc631499a424b176a8bbbe1a877dd5",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 22,
+      "Block": "CTRL",
+      "BeforeSHA256": "729e4d7f9ee0f5e4cbc988439450dfaa97d2b994db1813a22315f5f38b85c84b",
+      "AfterSHA256": "729e4d7f9ee0f5e4cbc988439450dfaa97d2b994db1813a22315f5f38b85c84b",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 23,
+      "Block": "RERL",
+      "BeforeSHA256": "a1dc8e2de0cc7415fd8ce24c72bc9236f07eecbb230beeaa5beadcb012669183",
+      "AfterSHA256": "81f2c063eb85be57a946662889231d49685ed0996bcd56dd5820185c6661105c",
+      "ByteIdentical": false
+    },
+    {
+      "Index": 24,
+      "Block": "RED2",
+      "BeforeSHA256": "570bdb0c5cd160e375edacfbacfa7cade90f1f4036fb2eac3c2db5b2b70d2c74",
+      "AfterSHA256": "570bdb0c5cd160e375edacfbacfa7cade90f1f4036fb2eac3c2db5b2b70d2c74",
+      "ByteIdentical": true
+    },
+    {
+      "Index": 25,
+      "Block": "DATA",
+      "BeforeSHA256": "3b888d19be90f313c95c0eb141a5dbb27d989e1f6aa357b2aba7bcf0ffb6fe27",
+      "AfterSHA256": "b7a04c2d89dd1df984a631fa64dd05f43fb1310ba5e2a210e3058248b56a61e0",
+      "ByteIdentical": false
+    }
+  ],
+  "SourceBytesUnchanged": true,
+  "Recompiled": false,
+  "AG2ConversionPerformed": false,
+  "GameTested": false,
+  "StaticRepairPassed": true,
+  "Tool": "ValveResourceFormat 20.1.7467 structured serializer"
+}
